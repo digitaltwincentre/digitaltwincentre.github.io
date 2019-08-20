@@ -7,7 +7,6 @@ title: Overview
 <script src="https://code.jquery.com/jquery-1.11.1.min.js">
 </script>
 <script src="javascripts/moment-with-langs.js"></script>
-<script>updateFrontPage();</script>
 
 
 # Overview

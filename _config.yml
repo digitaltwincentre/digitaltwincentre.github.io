@@ -1,0 +1,21 @@
+markdown: kramdown
+timezone: Europe/Copenhagen
+kramdown:
+  input: GFM
+  hard_wrap: false
+syntax_highlighter: rouge
+
+collections:
+  netmeetings:
+    output: true
+
+url: https://digitaltwincentre.github.io
+future: true
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+      

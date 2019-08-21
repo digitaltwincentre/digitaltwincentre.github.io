@@ -22,19 +22,31 @@ date:  04 September 2019, 1030 CET
 <!-- Please keep in mind that the minutes are publicly available, and that
 private information must be stored elsewhere.  -->
 
-### Stakeholder 1
+#### Stakeholder 1
+* Discussion Point 1
+* Discussion Point 2
 
-### Stakeholder 2
+#### Stakeholder 2
+* Discussion Point 1
+* Discussion Point 2
 
-### Stakeholder 3
- 
+#### Stakeholder 3
+* Discussion Point 1
+* Discussion Point 2
+
+
+Meeting Minutes
+===============
 
 ## Meeting Point 1
 
-#### topic 1
+### topic 1
 
 some description
 
+### topic 2
+
+some description
 
 ## Meeting Point 2
 
@@ -42,13 +54,17 @@ some description
 
 some description
 
+#### topic 2
+
+some description
 
 ##  Any Other Business
 
 Next Meeting
 ------------
 
-18 September 2019, 1030 CET
+21 September 2019, 1030 CET
 
 
 <div id="edit_page_div"></div>
+------------

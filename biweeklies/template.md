@@ -7,8 +7,8 @@ date:  2019-08-21 10:30 CET
 
 <!-- _This template should be copied to the `_biweeklies/` directory and edited appropriately._ -->
 
-* Navigate to: https://github.com/digitaltwincentre/digitaltwincentre.github.io/tree/master/_biweeklies
-* Find and press the + sign at the end of: digitaltwincentre.github.io/_biweeklies/+
+* Navigate to: [https://github.com/digitaltwincentre/digitaltwincentre.github.io/tree/master/_biweeklies](https://github.com/digitaltwincentre/digitaltwincentre.github.io/tree/master/_biweeklies)
+* Find and press the **Create new file** button 
 * Enter the new file name: `Biweekly-XX.md`, where XX is the biweekly number.
 * Paste the content of the template below into the Edit new file box
 * Update the header title and date

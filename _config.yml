@@ -6,7 +6,7 @@ kramdown:
 syntax_highlighter: rouge
 
 collections:
-  netmeetings:
+  biweeklies:
     output: true
 
 url: https://digitaltwincentre.github.io

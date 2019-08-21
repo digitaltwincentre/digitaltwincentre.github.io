@@ -1,15 +1,15 @@
 ---
 title: NetMeeting Default Template
-date:  2015-01-28 13:00 CET
+date:  2019-08-21 10:30 CET
 ---
 
-# Net-Meeting Template and Addition Guide
+# Biweekly Net-Meeting Template and Addition Guide
 
-<!-- _This template should be copied to the `_netmeetings/` directory and edited appropriately._ -->
+<!-- _This template should be copied to the `_biweeklies/` directory and edited appropriately._ -->
 
-* Navigate to: https://github.com/digitaltwincentre/digitaltwincentre.github.io/tree/master/_netmeetings
-* Find and press the + sign at the end of: digitaltwincentre.github.io/_netmeetings/+
-* Enter the new file name: `Net-Meeting-XX.md`, where XX is the netmeeting number.
+* Navigate to: https://github.com/digitaltwincentre/digitaltwincentre.github.io/tree/master/_biweeklies
+* Find and press the + sign at the end of: digitaltwincentre.github.io/_biweeklies/+
+* Enter the new file name: `Biweekly-XX.md`, where XX is the biweekly number.
 * Paste the content of the template below into the Edit new file box
 * Update the header title and date
 * Commit the file. It can be edited after it is created by selecting it and pressing the pen on the top right.
@@ -23,8 +23,8 @@ Template starts below this line (keep only the content between the triple-tildes
 ~~~
 ---
 layout: default
-title: Net Meeting XX
-date: 21 August 2019, 1030 CEST
+title: Biweekly XX
+date: DD MONTH YYYY, 1030 CEST
 ---
 
 <script src="https://code.jquery.com/jquery-1.11.1.min.js">
@@ -36,25 +36,40 @@ date: 21 August 2019, 1030 CEST
 
 |||
 |---|---|
-| Date | {{ page.date | date: "%-d %B %Y, %R %Z"}} |
+| Date | {{ 'now' | date: "%-d %B %Y, %R %Z"}} |
 | Participants | AA, BB, ..., CC.  Minutes by DD. |
 
 
 ## Pre-meeting stakeholder's reports
 
-### Stakeholder 1
+<!-- Please keep in mind that the minutes are publicly available, and that
+private information must be stored elsewhere.  -->
 
-### Stakeholder 2
+#### Stakeholder 1
+* Discussion Point 1
+* Discussion Point 2
 
-### Stakeholder 3
- 
+#### Stakeholder 2
+* Discussion Point 1
+* Discussion Point 2
+
+#### Stakeholder 3
+* Discussion Point 1
+* Discussion Point 2
+
+
+Meeting Minutes
+===============
 
 ## Meeting Point 1
 
-#### topic 1
+### topic 1
 
 some description
 
+### topic 2
+
+some description
 
 ## Meeting Point 2
 
@@ -62,8 +77,17 @@ some description
 
 some description
 
+#### topic 2
+
+some description
 
 ##  Any Other Business
+
+Next Meeting
+------------
+
+04 September 2019, 1030 CET
+
 
 <div id="edit_page_div"></div>
 

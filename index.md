@@ -11,7 +11,7 @@ title: Overview
 
 # Overview
 
-This page contains the minutes for the AU Digital Twin Centre netmeetings.
+This page contains the minutes for the AU Digital Twin Centre biweekly net meetings.
 
 
 

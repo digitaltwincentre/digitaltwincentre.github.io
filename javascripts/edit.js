@@ -8,7 +8,7 @@ function setEditButonNm() {
 
         var node = document.getElementById("edit_page_div");
        	var n =location.pathname.split("/").slice(-1)+"";
-		var link ="https://github.com/digitaltwincentre/digitaltwincentre.github.io/edit/master/_netmeetings/"+n.substring(0,n.lastIndexOf("."))+".md";
+		var link ="https://github.com/digitaltwincentre/digitaltwincentre.github.io/edit/master/_biweeklies/"+n.substring(0,n.lastIndexOf("."))+".md";
     node.innerHTML  = "<a class=\"button primary\" href=\""+ link+"\">Edit</a>" ;
     });
 	

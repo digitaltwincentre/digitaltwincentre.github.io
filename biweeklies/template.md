@@ -43,7 +43,7 @@ date: DD MONTH YYYY, 1030 CEST
 ## Pre-meeting stakeholder's reports
 
 <!-- Please keep in mind that the minutes are publicly available, and that
-private information must be stored elsewhere.  -->
+private information should be stored in the SVN.  -->
 
 #### Stakeholder 1
 * Discussion Point 1

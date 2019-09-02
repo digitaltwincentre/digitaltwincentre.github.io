@@ -23,7 +23,7 @@ date:  04 September 2019, 1030 CET
 private information must be stored elsewhere.  -->
 
 #### Peter Gorm Larsen
-* Christian Leegard and Hugo Macedo have now been able to create a small device that can extract the data from the Line Following Robot (LFR) wireless in real time. I expect that we will use this to do our first digital twin experiments using teh LFR case.
+* Christian Leegard and Hugo Macedo have now been able to create a small device that can extract the data from the Line Following Robot (LFR) wireless in real time. I expect that we will use this to do our first digital twin experiments using teh LFR case. 
 * Evaluation of Jim Woodcock is now complete. Expect contract in place soon.
 * I have met with representatives from "Aarhus School of Marine and Technical Engineering" and they are interested in collaboration with us in getting a digital twin constructed for some of the large equipmenbt they use in an educational setting.
 * Casper Thule will be defending his PhD on the 10th of September

@@ -32,9 +32,10 @@ private information must be stored elsewhere.  -->
 #### Nick Battle
 * The VDM-SL model of the static semantics of the FMI Standard is more or less complete, though whether it is correct remains an open question.
 * A VDMCheck tool, encapsulating the model and allowing "general use", is available to analyse FMUs.
+* The tool has been executed over the 692 FMUs in the Cross-Check repository, revealing that only 42% of them are error-free (according to the VDM model - or 77% according to the existing compliance checker).
 * A small amount of modelling work started to define the static semantics of a collection of FMUs (converting Maestro JSON configurations to VDM-SL), defing the meaning of algebraic loops and the required order of initialization processing.
-* I've started work on the outline of a model for the dynamic (API) semantics of the standard.
-* Some slides for the Workshop drafted.
+* Started work on the outline of a VDM-SL model for the dynamic (API) semantics of the standard.
+* Some slides for the Overture Workshop drafted.
 
 #### Stakeholder 3
 * Discussion Point 1

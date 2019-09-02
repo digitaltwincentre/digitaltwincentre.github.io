@@ -29,9 +29,12 @@ private information must be stored elsewhere.  -->
 * Casper Thule will be defending his PhD on the 10th of September
 * I will meet with the Poul Due Jensen Foundation on the 12th of September
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Nick Battle
+* The VDM-SL model of the static semantics of the FMI Standard is more or less complete, though whether it is correct remains an open question.
+* A VDMCheck tool, encapsulating the model and allowing "general use", is available to analyse FMUs.
+* A small amount of modelling work started to define the static semantics of a collection of FMUs (converting Maestro JSON configurations to VDM-SL), defing the meaning of algebraic loops and the required order of initialization processing.
+* I've started work on the outline of a model for the dynamic (API) semantics of the standard.
+* Some slides for the Workshop drafted.
 
 #### Stakeholder 3
 * Discussion Point 1

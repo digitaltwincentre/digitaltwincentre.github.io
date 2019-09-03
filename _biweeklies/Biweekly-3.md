@@ -52,7 +52,15 @@ private information must be stored elsewhere.  -->
 * Back at AU preparing PhD Defense
 * Create website that will host utility tools - hosts VDMCheck
 
+#### Claudio Gomes
+* Finished draft of paper for american modelica conference. Waiting some results from Kenneth et. al.
+* Just defense thesis. 
+* Will apply for aarhus position soon.
+* Will ask Casper to also host the dynamic fmu checker on the website.
+
+
 #### Stakeholder 5
+
 * Discussion Point 1
 * Discussion Point 2
 

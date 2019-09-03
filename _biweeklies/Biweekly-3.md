@@ -43,9 +43,10 @@ private information must be stored elsewhere.  -->
 * Is exploring cloud hosting solutions for the app and cloud based co-simulation.
 * Working towards the LFR digital twin case study. 
 
-#### Stakeholder 3
-* Discussion Point 1
-* Discussion Point 2
+#### Jim Woodcock
+* Waiting for contract from Aarhus.
+* Sent digested agenda for foundational research to PGL.
+* Gave a talk on past and future grand challenges in computer science at a workshop in Newcastle. Suggested V&V of autonomous vehicles and digital twins as future grand challenges. Talk was well received, particularly by the head of ICT at EPSRC (UK funding council).
 
 #### Stakeholder 4
 * Discussion Point 1

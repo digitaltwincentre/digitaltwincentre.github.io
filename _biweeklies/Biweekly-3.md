@@ -37,10 +37,23 @@ private information must be stored elsewhere.  -->
 * Started work on the outline of a VDM-SL model for the dynamic (API) semantics of the standard.
 * Some slides for the Overture Workshop drafted.
 
+#### Hugo 
+* Sorted out problem with biweeklies editing permissions and member invitations. All should be able to edit now. Contact me in case you have trouble with this.  
+* Will substitue Mikkel in the presentation of the INTO-CPS cloud app for the Overture workshop. Looking forward to meet there and launch further projects/joint paper writting.
+* Is exploring cloud hosting solutions for the app and cloud based co-simulation.
+* Working towards the LFR digital twin case study. 
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2
 
+#### Stakeholder 4
+* Discussion Point 1
+* Discussion Point 2
+
+#### Stakeholder 5
+* Discussion Point 1
+* Discussion Point 2
 
 Meeting Minutes
 ===============

@@ -48,9 +48,9 @@ private information must be stored elsewhere.  -->
 * Sent digested agenda for foundational research to PGL.
 * Gave a talk on past and future grand challenges in computer science at a workshop in Newcastle. Suggested V&V of autonomous vehicles and digital twins as future grand challenges. Talk was well received, particularly by the head of ICT at EPSRC (UK funding council).
 
-#### Stakeholder 4
-* Discussion Point 1
-* Discussion Point 2
+#### Casper Thule
+* Back at AU preparing PhD Defense
+* Create website that will host utility tools - hosts VDMCheck
 
 #### Stakeholder 5
 * Discussion Point 1

@@ -51,6 +51,9 @@ private information must be stored elsewhere.  -->
 #### Casper Thule
 * Back at AU preparing PhD Defense
 * Create website that will host utility tools - hosts VDMCheck
+* Future: Going to work on american modelica conference stuff after defense
+* Future: Discuss architecture of MaestroV2 and progress
+* Future: Decide server strategy
 
 #### Claudio Gomes
 * Finished draft of paper for american modelica conference. Waiting some results from Kenneth et. al.

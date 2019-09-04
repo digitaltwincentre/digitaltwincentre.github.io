@@ -62,6 +62,10 @@ private information must be stored elsewhere.  -->
 * Moved to Leuven, Belgium for 1 semster of exchange.
 * Continuing implementation of graphical editor for INTO-CPS application.
 
+### Carlos Hansen
+* Learning to control the manipulators of the manufacturing team.
+* __Open question:__ does anyone know about Universal robots tools, which has an interface to connect to an external program via C ++ or Java?
+
 #### Stakeholder 5
 
 * Discussion Point 1

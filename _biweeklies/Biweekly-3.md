@@ -58,6 +58,9 @@ private information must be stored elsewhere.  -->
 * Will apply for aarhus position soon.
 * Will ask Casper to also host the dynamic fmu checker on the website.
 
+#### Christian Legaard
+* Moved to Leuven, Belgium for 1 semster of exchange.
+* Continuing implementation of graphical editor for INTO-CPS application.
 
 #### Stakeholder 5
 

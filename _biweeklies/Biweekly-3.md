@@ -66,10 +66,10 @@ private information must be stored elsewhere.  -->
 * Learning to control the manipulators of the manufacturing team.
 * __Open question:__ does anyone know about Universal robots tools, which has an interface to connect to an external program via C ++ or Java?
 
-#### Stakeholder 5
+#### Corneliu Barbu
 
-* Discussion Point 1
-* Discussion Point 2
+* Continue the discussion with PTC Academic to evaluate their offering for support (courses, lab setup, etc.)
+* Ntworking with other academic users in EU / US
 
 Meeting Minutes
 ===============

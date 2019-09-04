@@ -69,7 +69,7 @@ private information must be stored elsewhere.  -->
 #### Corneliu Barbu
 
 * Continue the discussion with PTC Academic to evaluate their offering for support (courses, lab setup, etc.)
-* Ntworking with other academic users in EU / US
+* Networking with other academic users in EU / US
 
 Meeting Minutes
 ===============

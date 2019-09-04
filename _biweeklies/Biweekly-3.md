@@ -62,10 +62,10 @@ private information must be stored elsewhere.  -->
 * Moved to Leuven, Belgium for 1 semster of exchange.
 * Continuing implementation of graphical editor for INTO-CPS application.
 
-#### Stakeholder 5
+#### Corneliu Barbu
 
-* Discussion Point 1
-* Discussion Point 2
+* Continue to work with PTC Academic to understand their offering and select what fits for us
+* Netowrking with other users in EU / US on course offering, lab setup, etc.
 
 Meeting Minutes
 ===============

@@ -14,7 +14,7 @@ date:  04 September 2019, 1030 CET
 |||
 |---|---|
 | Date | 04 September 2019, 1030 CET |
-| Participants | AA, BB, ..., CC.  Minutes by DD. |
+| Participants | PGL, NB, HDM, JW, CT, CG, CL, CH, CB. |
 
 
 ## Pre-meeting stakeholder's reports
@@ -37,7 +37,7 @@ private information must be stored elsewhere.  -->
 * Started work on the outline of a VDM-SL model for the dynamic (API) semantics of the standard.
 * Some slides for the Overture Workshop drafted.
 
-#### Hugo 
+#### Hugo Daniel Macedo
 * Sorted out problem with biweeklies editing permissions and member invitations. All should be able to edit now. Contact me in case you have trouble with this.  
 * Will substitue Mikkel in the presentation of the INTO-CPS cloud app for the Overture workshop. Looking forward to meet there and launch further projects/joint paper writting.
 * Is exploring cloud hosting solutions for the app and cloud based co-simulation.
@@ -77,27 +77,7 @@ private information must be stored elsewhere.  -->
 Meeting Minutes
 ===============
 
-## Meeting Point 1
-
-### topic 1
-
-some description
-
-### topic 2
-
-some description
-
-## Meeting Point 2
-
-#### topic 1
-
-some description
-
-#### topic 2
-
-some description
-
-##  Any Other Business
+Please check the Skype log.
 
 Next Meeting
 ------------

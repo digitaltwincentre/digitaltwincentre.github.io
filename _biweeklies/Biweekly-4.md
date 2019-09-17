@@ -13,7 +13,7 @@ date: 18 September 2019, 1030 CEST
 
 |||
 |---|---|
-| Date | 21 September 2019, 10:30 CEST |
+| Date | 18 September 2019, 10:30 CEST |
 | Participants | AA, BB, ..., CC.  Minutes by DD. |
 
 

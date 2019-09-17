@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Biweekly 5
+title: Biweekly 6
 date: 16 October 2019, 1030 CEST
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Biweekly 5
+title: Biweekly 7
 date: 30 October 2019, 1030 CEST
 ---
 

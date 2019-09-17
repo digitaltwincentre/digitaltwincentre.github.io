@@ -32,6 +32,11 @@ private information must be stored elsewhere.  -->
 * Currently targeting a one-day Mindsphere traing day in Aarhus in October for the manufacturing case study
 * We are in the process of extending the current amnufacturing setup with an extension of the MIR robor such that it can have a Universal Robot arm on top of it
 
+#### Claudio
+* I was at the cosimcps workshop.
+* I'm currently at models conference, supporting a tutorial on modelling physical systems.
+* I've met with Casper regarding the inclusion of FMU Analyzer into Casper's website.
+
 #### Stakeholder 2
 * Discussion Point 1
 * Discussion Point 2

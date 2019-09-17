@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Biweekly 4
-date: 21 September 2019, 1030 CEST
+date: 18 September 2019, 1030 CEST
 ---
 
 <script src="https://code.jquery.com/jquery-1.11.1.min.js">

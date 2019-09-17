@@ -82,7 +82,7 @@ Please check the Skype log.
 Next Meeting
 ------------
 
-21 September 2019, 1030 CET
+18 September 2019, 1030 CET
 
 
 <div id="edit_page_div"></div>

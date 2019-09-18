@@ -46,6 +46,9 @@ private information must be stored elsewhere.  -->
 * Nick sent an email stating he is on a plane during the meeting and is planning to sync with Claudio on the Dynamic API Semantics.
 * Siemens representant sent an email stating the Amesim demo was postponed to the 21st October. 
 
+#### Christian
+* Continued implementation of graphical editor for into-cps
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

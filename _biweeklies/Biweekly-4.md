@@ -41,6 +41,11 @@ private information must be stored elsewhere.  -->
 * On Monday I had a very good Skype meeting with Jens Kargaard Madsen and Thomas Skjødeberg Toftegaard to discuss my contract with Aarhus. I'm expecting a contract very soon.
 * I'm continuing the work on probabilistic semantics, the implementation in Isabelle/UTP, and the verification of the RANSAC pose estimation algorithm.
 
+#### Hugo
+* Presented a demo on the co-simulation app and line following case study.
+* Nick sent an email stating he is on a plane during the meeting and is planning to sync with Claudio on the Dynamic API Semantics.
+* Siemens representant sent an email stating the Amesim demo was postponed to the 21st October. 
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

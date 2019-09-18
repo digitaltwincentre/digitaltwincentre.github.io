@@ -37,9 +37,9 @@ private information must be stored elsewhere.  -->
 * I'm currently at models conference, supporting a tutorial on modelling physical systems.
 * I've met with Casper regarding the inclusion of FMU Analyzer into Casper's website.
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Jim Woodcock
+* On Monday I had a very good Skype meeting with Jens Kargaard Madsen and Thomas Skjødeberg Toftegaard to discuss my contract with Aarhus. I'm expecting a contract very soon.
+* I'm continuing the work on probabilistic semantics, the implementation in Isabelle/UTP, and the verification of the RANSAC pose estimation algorithm.
 
 #### Stakeholder 3
 * Discussion Point 1

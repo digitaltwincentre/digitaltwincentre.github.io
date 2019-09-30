@@ -35,10 +35,10 @@ private information must be stored elsewhere.  -->
 * Contributed to the 2.0.1 draft of the FMI Standard, using VDMCheck to find errors in their config examples.
 * Will update the models to reflect 2.0.1 when the dust settles (not much change, just clarifications)
 
-#### Stakeholder 3
-* Discussion Point 1
-* Discussion Point 2
-
+#### Jim Woodcock
+* I now have my Aarhus contract, so I'll be officially on-board very soon.
+* On 24th September, I gave a talk at the Verified Software Workshop in Cambridge on grand challenges, concluding with a discussion of future research directions, including work on digital twins. It was well received.
+* On 26th September, I gave a talk at Marie-Claude Gaudel's Day in Paris on reasoning about uncertainty and verifying the probabilistic Ransac model-fitting algorithm.
 
 Meeting Minutes
 ===============

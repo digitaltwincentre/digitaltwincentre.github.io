@@ -29,9 +29,11 @@ private information must be stored elsewhere.  -->
 * The ONTO-CPS Association workshop also takes place on Monday
 * The Simula Reserch Lab application about a digital twin center has been submitted
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Nick Battle
+* Dynamic semantic model progressing. API in place, working on the detail of the contract for each API by comparing the FMI Standard with the "fmu sdk" implementation.
+* Small updates to VDMCheck (and the static semantic model) due to dynamic semantic work clarifying things.
+* Contributed to the 2.0.1 draft of the FMI Standard, using VDMCheck to find errors in their config examples.
+* Will update the models to reflect 2.0.1 when the dust settles (not much change, just clarifications)
 
 #### Stakeholder 3
 * Discussion Point 1

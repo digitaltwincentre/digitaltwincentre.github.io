@@ -26,7 +26,7 @@ private information must be stored elsewhere.  -->
 * Siemens Mindsphere training ongoing at Skejby on the 2nd of October 2019
 * Casper will take part in the FMI technical meeting in Lund on the 1st and 2nd of October
 * Different papers will be presented at the Overture workshop on Monday the 7th of October about some of our work
-* The ONTO-CPS Association workshop also takes place on Monday
+* The INTO-CPS Association workshop also takes place on Monday
 * The Simula Reserch Lab application about a digital twin center has been submitted
 
 #### Nick Battle
@@ -39,6 +39,12 @@ private information must be stored elsewhere.  -->
 * I now have my Aarhus contract, so I'll be officially on-board very soon.
 * On 24th September, I gave a talk at the Verified Software Workshop in Cambridge on grand challenges, concluding with a discussion of future research directions, including work on digital twins. It was well received.
 * On 26th September, I gave a talk at Marie-Claude Gaudel's Day in Paris on reasoning about uncertainty and verifying the probabilistic Ransac model-fitting algorithm.
+
+#### Claudio Gomes
+* Finish paper for american modelica conference.
+* Prepare results for Lund meeting (with Casper).
+* Submit some of the issues in FMI github repo.
+
 
 Meeting Minutes
 ===============

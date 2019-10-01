@@ -45,6 +45,9 @@ private information must be stored elsewhere.  -->
 * Prepare results for Lund meeting (with Casper).
 * Submit some of the issues in FMI github repo.
 
+#### Hugo
+* Will be participating on the Mindsphere training during the meeting.
+* Is preparing and will deliver a talk on the cloud version of the into-cps tools next week.
 
 Meeting Minutes
 ===============

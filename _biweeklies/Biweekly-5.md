@@ -49,6 +49,10 @@ private information must be stored elsewhere.  -->
 * Will be participating on the Mindsphere training during the meeting.
 * Is preparing and will deliver a talk on the cloud version of the into-cps tools next week.
 
+#### Carlos
+* Will be participating on the Mindsphere training during the meeting
+* Waorking in the conection to the UR robots through a FMU
+
 Meeting Minutes
 ===============
 

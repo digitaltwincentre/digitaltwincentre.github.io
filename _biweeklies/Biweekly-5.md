@@ -51,7 +51,7 @@ private information must be stored elsewhere.  -->
 
 #### Carlos
 * Will be participating on the Mindsphere training during the meeting
-* Waorking in the conection to the UR robots through a FMU
+* Working in the connection to the UR robots through an FMU
 
 Meeting Minutes
 ===============

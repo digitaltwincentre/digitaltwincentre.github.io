@@ -35,7 +35,7 @@ private information must be stored elsewhere.  -->
 * New applications in the area of digital twins and simulation are in the works
 * A plan for a "desk-top" version of Robotti has been started up with AgroIntelli
 
-#### Casper Thule Mathiasen
+#### Casper Thule
 * Attended FMI Design Meeting
 * Commenting on FMI 3 and discussing
 * ESA development on full stream, writing docs while Kenneth implements

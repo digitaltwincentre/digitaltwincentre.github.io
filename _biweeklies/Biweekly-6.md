@@ -43,9 +43,10 @@ private information must be stored elsewhere.  -->
 * Teaching
 * Will investigate Lua for MaestroV2 runtime
 
-#### Stakeholder 3
-* Discussion Point 1
-* Discussion Point 2
+#### Jim Woodcock
+* Attended FM in Porto. Gave a presentation at the UTP Symposium on reasoning about a machine learning algorithm.
+* Had several good meetings with PGL in Porto.
+* Started writing a new paper on reasoning about uncertainty.
 
 
 Meeting Minutes

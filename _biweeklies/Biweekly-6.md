@@ -25,6 +25,8 @@ private information must be stored elsewhere.  -->
 #### Nick Battle
 * Attended FM2019 Overture workshop :-)
 * Continue discussions on FMI Standard GitHub issues relating to errors found by VDMCheck
+* Updated FMI model slightly to account for v2.0.1 changes. Yet more FMUs found to be in error...
+* Small amount of progress on dynamic semantic model.
 
 #### Peter Gorm Larsen
 * Attended the FM'19 symposium including the Overture workshop

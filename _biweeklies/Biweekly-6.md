@@ -54,6 +54,11 @@ private information must be stored elsewhere.  -->
 * Attended Overture Workshop in Porto. Gave a presentation on the cloud version of the INTO-CPS App.
 * Attended the Mindsphere training session at the Deep Tech Lab. 
 
+#### Carlos
+* Attended the Mindsphere training session at the Deep Tech Lab.
+* Perform a communication with the manufacturing equipment via MODBUS.
+* Will not attend biweekly 6 metting due Dr. Appointment.
+
 Meeting Minutes
 ===============
 

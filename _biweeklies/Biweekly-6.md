@@ -33,6 +33,7 @@ private information must be stored elsewhere.  -->
 * Submitted new application for Villum Synergy project with Jesper Hattel from DTU
 * The 2 applications submitted to Innovation Foundation Denmark also including digital twins have been passed on to the interview stage
 * New applications in the area of digital twins and simulation are in the works
+* A plan for a "desk-top" version of Robotti has been started up with AgroIntelli
 
 #### Stakeholder 3
 * Discussion Point 1

@@ -48,6 +48,9 @@ private information must be stored elsewhere.  -->
 * Had several good meetings with PGL in Porto.
 * Started writing a new paper on reasoning about uncertainty.
 
+#### Hugo
+* Attended Overture Workshop in Porto. Gave a presentation on the cloud version of the INTO-CPS App.
+* Attended the Mindsphere training session at the Deep Tech Lab. 
 
 Meeting Minutes
 ===============

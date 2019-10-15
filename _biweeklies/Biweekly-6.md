@@ -41,6 +41,7 @@ private information must be stored elsewhere.  -->
 * ESA development on full stream, writing docs while Kenneth implements
 * Backend with VDMCheck and FMUAnalyzer working - will be deployed once there is time to do it from ESA
 * Teaching
+* Will investigate Lua for MaestroV2 runtime
 
 #### Stakeholder 3
 * Discussion Point 1

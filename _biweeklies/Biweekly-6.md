@@ -26,9 +26,13 @@ private information must be stored elsewhere.  -->
 * Attended FM2019 Overture workshop :-)
 * Continue discussions on FMI Standard GitHub issues relating to errors found by VDMCheck
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Peter Gorm Larsen
+* Attended the FM'19 symposium including the Overture workshop
+* The first digital twin paper was presented at the Festscrift for Stefania
+* Had numerous good talks with different stakeholders including Airbus Research where interesting new possibilities could come
+* Submitted new application for Villum Synergy project with Jesper Hattel from DTU
+* The 2 applications submitted to Innovation Foundation Denmark also including digital twins have been passed on to the interview stage
+* New applications in the area of digital twins and simulation are in the works
 
 #### Stakeholder 3
 * Discussion Point 1

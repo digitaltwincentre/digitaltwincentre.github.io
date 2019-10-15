@@ -22,9 +22,9 @@ date: 16 October 2019, 1030 CEST
 <!-- Please keep in mind that the minutes are publicly available, and that
 private information must be stored elsewhere.  -->
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### Nick Battle
+* Attended FM2019 Overture workshop :-)
+* Continue discussions on FMI Standard GitHub issues relating to errors found by VDMCheck
 
 #### Stakeholder 2
 * Discussion Point 1

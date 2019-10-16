@@ -38,6 +38,7 @@ private information must be stored elsewhere.  -->
 * A plan for a "desk-top" version of Robotti has been started up with AgroIntelli
 * Since Jim now is on contract, we made initial plan of him visiting AU 27-29 of January 2020
 * Started initial work with a BSc student who will look into creating an indoor positioning system that can be moved
+* Ordered MindConnect 2040 from Siemens to connect with Mindsphere for the manufacturing case
 
 #### Casper Thule
 * Attended FMI Design Meeting

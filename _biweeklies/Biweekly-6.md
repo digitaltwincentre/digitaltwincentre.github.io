@@ -36,6 +36,8 @@ private information must be stored elsewhere.  -->
 * The 2 applications submitted to Innovation Foundation Denmark also including digital twins have been passed on to the interview stage
 * New applications in the area of digital twins and simulation are in the works
 * A plan for a "desk-top" version of Robotti has been started up with AgroIntelli
+* Since Jim now is on contract, we made initial plan of him visiting AU 27-29 of January 2020
+* Started initial work with a BSc student who will look into creating an indoor positioning system that can be moved
 
 #### Casper Thule
 * Attended FMI Design Meeting

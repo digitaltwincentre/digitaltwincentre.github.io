@@ -35,7 +35,7 @@ private information must be stored elsewhere.  -->
 * Discussion Point 2
 
 
-## Sub-project status
+## Sub-projects status
 
 From this meeting on we will add to the status meetings a tracker 
 for projects status and expected milestones. In the following we 
@@ -49,6 +49,7 @@ add a draft of what we expect, please adapt/add/change.
 
 #### Tolernace Language (JW)
 
+#### Graphical configuration inside App (CL)
 
 
 Next Meeting

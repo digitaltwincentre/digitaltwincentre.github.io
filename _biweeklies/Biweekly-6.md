@@ -62,6 +62,10 @@ private information must be stored elsewhere.  -->
 * Perform a communication with the manufacturing equipment via MODBUS.
 * Will not attend biweekly 6 metting due Dr. Appointment.
 
+#### Claudio
+* Finished Phd presentation and paperwork
+* Might not attend upcoming weekly meetings due to holidays.
+
 Meeting Minutes
 ===============
 

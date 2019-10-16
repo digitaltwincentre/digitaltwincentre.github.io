@@ -47,7 +47,7 @@ add a draft of what we expect, please adapt/add/change.
 
 #### Checker of FMUS (NB)
 
-#### Tolernace Language (JW)
+#### Tolerance Language (JW)
 
 #### Graphical configuration inside App (CL)
 

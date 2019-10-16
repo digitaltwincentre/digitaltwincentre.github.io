@@ -35,30 +35,21 @@ private information must be stored elsewhere.  -->
 * Discussion Point 2
 
 
-Meeting Minutes
-===============
+## Sub-project status
 
-## Meeting Point 1
+From this meeting on we will add to the status meetings a tracker 
+for projects status and expected milestones. In the following we 
+add a draft of what we expect, please adapt/add/change. 
 
-### topic 1
+#### Into-cps app (HDM)
 
-some description
+#### Maestro V2 DT enabled (CT)
 
-### topic 2
+#### Checker of FMUS (NB)
 
-some description
+#### Tolernace Language (JW)
 
-## Meeting Point 2
 
-#### topic 1
-
-some description
-
-#### topic 2
-
-some description
-
-##  Any Other Business
 
 Next Meeting
 ------------

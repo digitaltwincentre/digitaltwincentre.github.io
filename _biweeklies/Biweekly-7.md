@@ -35,9 +35,9 @@ private information must be stored elsewhere.  -->
 * Initial fmi utilities online
 * Busy with ESA stuff
 
-#### Stakeholder 3
-* Discussion Point 1
-* Discussion Point 2
+#### Corneliu
+* Followed up with PTC.com on getting an educationla license
+* Started preliminary investigation into digital twin capabilities of the ThingWorx platform provided by PTC
 
 #### Claudio
 * Holidays

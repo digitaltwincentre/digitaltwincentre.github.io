@@ -60,6 +60,7 @@ Two small enhancement releases made to 0.0.2:
 #### Graphical configuration inside App (CL)
 
 
+
 Next Meeting
 ------------
 

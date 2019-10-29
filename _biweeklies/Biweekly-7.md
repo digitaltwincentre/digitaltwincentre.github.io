@@ -26,9 +26,8 @@ private information must be stored elsewhere.  -->
 * Have been working on the cloud version of the aplication. The details about it are on the respective item of the new sub-project status reports at the bottom of the page. 
 * Working on a new project proposal where Digital Twins and Model-Based Design are used in the development of Human-machine systems.
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Jim Woodcock
+* Started working on language for describing discrepancies in observed and expected data. The first step is a literature sur vey, and I have collected some good background papers.
 
 #### Stakeholder 3
 * Discussion Point 1

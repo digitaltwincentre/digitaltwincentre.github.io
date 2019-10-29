@@ -26,8 +26,9 @@ private information must be stored elsewhere.  -->
 * Have been working on the cloud version of the aplication. The details about it are on the respective item of the new sub-project status reports at the bottom of the page. 
 * Working on a new project proposal where Digital Twins and Model-Based Design are used in the development of Human-machine systems.
 
-#### Jim Woodcock
-* Started working on a language for describing discrepancies in observed and expected data (tolerances). The first step is to conduct a literature survey, and I've collected some good background papers.
+#### Nick
+* Continuing refinement of the FMI2 static model and discussion with FMI Standard folk on their issue tracker. Small updates to the VDM model as a result (and new builds of the VDMCheck tool released).
+* Created a combinatorial test for the dynamic semantic model in order to exercise the API (and therefore test the model constraints). Several enhancements and corrections made to the dynamic model as a result. This currently only covers the CoSimulation API; ModelExchange will follow.
 
 #### Stakeholder 3
 * Discussion Point 1
@@ -50,6 +51,9 @@ add a draft of what we expect, please adapt/add/change.
 #### Maestro V2 DT enabled (CT)
 
 #### Checker of FMUS (NB)
+Two small enhancement releases made to 0.0.2:
+* Build 191016, downgrade new FMI 2.0.1 errors to be warnings
+* Build 191021, corrected derivatives checks and detect multiple coSimulation/modelExchange in XML
 
 #### Tolerance Language (JW)
 

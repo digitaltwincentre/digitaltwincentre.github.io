@@ -39,6 +39,9 @@ private information must be stored elsewhere.  -->
 * Discussion Point 1
 * Discussion Point 2
 
+#### Claudio
+* Holidays
+
 
 ## Sub-projects status
 

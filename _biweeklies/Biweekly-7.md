@@ -30,6 +30,11 @@ private information must be stored elsewhere.  -->
 * Continuing refinement of the FMI2 static model and discussion with FMI Standard folk on their issue tracker. Small updates to the VDM model as a result (and new builds of the VDMCheck tool released).
 * Created a combinatorial test for the dynamic semantic model in order to exercise the API (and therefore test the model constraints). Several enhancements and corrections made to the dynamic model as a result. This currently only covers the CoSimulation API; ModelExchange will follow.
 
+
+#### Casper
+* Initial fmi utilities online
+* Busy with ESA stuff
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2
@@ -49,7 +54,10 @@ add a draft of what we expect, please adapt/add/change.
 * Preparing a 50 users max. version for tests in a couple of weeks
 
 #### Maestro V2 DT enabled (CT)
-
+* Not much progress as ESA is consuming our time.
+* Expect to accelerate in November
+* Will use the term virtual FMU as an FMU that is not really and FMU.
+This opens up to all sorts of interesting activities, that does not necessarily have to be compiled into an FMU.
 #### Checker of FMUS (NB)
 Two small enhancement releases made to 0.0.2:
 * Build 191016, downgrade new FMI 2.0.1 errors to be warnings

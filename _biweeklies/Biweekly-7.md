@@ -27,7 +27,7 @@ private information must be stored elsewhere.  -->
 * Working on a new project proposal where Digital Twins and Model-Based Design are used in the development of Human-machine systems.
 
 #### Jim Woodcock
-* Started working on language for describing discrepancies in observed and expected data. The first step is a literature sur vey, and I have collected some good background papers.
+* Started working on a language for describing discrepancies in observed and expected data (tolerances). The first step is to conduct a literature survey, and I've collected some good background papers.
 
 #### Stakeholder 3
 * Discussion Point 1

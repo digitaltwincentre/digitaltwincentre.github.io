@@ -22,9 +22,9 @@ date: 30 October 2019, 1030 CEST
 <!-- Please keep in mind that the minutes are publicly available, and that
 private information must be stored elsewhere.  -->
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### HDM
+* Have been working on the cloud version of the aplication. The details about it are on the respective item of the new sub-project status reports at the bottom of the page. 
+* Working on a new project proposal where Digital Twins and Model-Based Design are used in the development of Human-machine systems.
 
 #### Stakeholder 2
 * Discussion Point 1
@@ -41,7 +41,12 @@ From this meeting on we will add to the status meetings a tracker
 for projects status and expected milestones. In the following we 
 add a draft of what we expect, please adapt/add/change. 
 
-#### Into-cps app (HDM)
+#### Into-cps cloud app (HDM)
+* Failling frontend tests are all OK
+* Improved user error notifications
+* Increased the test suite
+* Started working on backend 
+* Preparing a 50 users max. version for tests in a couple of weeks
 
 #### Maestro V2 DT enabled (CT)
 

@@ -58,6 +58,7 @@ add a draft of what we expect, please adapt/add/change.
 * Expect to accelerate in November
 * Will use the term virtual FMU as an FMU that is not really and FMU.
 This opens up to all sorts of interesting activities, that does not necessarily have to be compiled into an FMU.
+
 #### Checker of FMUS (NB)
 Two small enhancement releases made to 0.0.2:
 * Build 191016, downgrade new FMI 2.0.1 errors to be warnings

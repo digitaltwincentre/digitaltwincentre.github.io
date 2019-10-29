@@ -42,7 +42,7 @@ for projects status and expected milestones. In the following we
 add a draft of what we expect, please adapt/add/change. 
 
 #### Into-cps cloud app (HDM)
-* Failling frontend tests are all OK
+* Failling frontend tests were corrected and are all OK
 * Improved user error notifications
 * Increased the test suite
 * Started working on backend 

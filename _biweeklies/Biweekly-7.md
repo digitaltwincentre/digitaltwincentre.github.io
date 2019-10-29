@@ -42,6 +42,14 @@ private information must be stored elsewhere.  -->
 #### Claudio
 * Holidays
 
+#### Peter
+* Working on ITEA proposal led by Vitual Vehicle including digital twins
+* Working on Innovation Action proposal led by Franhoefer on digital twins and simulation
+* Working on twinning proposal supporting Sibiu University supported by POLIMI, TUM and AU
+* Proposal for fleets of Robottis was defended for the Innovation Foundation Monday this week
+* Initial talks of regarding a proposal for Digital Building Twins have started
+* Met with the Poul Due Jensen Foundation Monday this week
+* Attended Dagstuhl last week where a paper combining co-simulation and theorem proving using Keymeare X was started up.
 
 ## Sub-projects status
 

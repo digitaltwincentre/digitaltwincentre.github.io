@@ -50,6 +50,7 @@ private information must be stored elsewhere.  -->
 * Initial talks of regarding a proposal for Digital Building Twins have started
 * Met with the Poul Due Jensen Foundation Monday this week
 * Attended Dagstuhl last week where a paper combining co-simulation and theorem proving using Keymeare X was started up.
+* Planned with Jim that he will visit AU from 27-29 of January 2020
 
 #### Carlos
 * No work related to the group

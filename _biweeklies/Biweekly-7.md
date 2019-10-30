@@ -51,6 +51,9 @@ private information must be stored elsewhere.  -->
 * Met with the Poul Due Jensen Foundation Monday this week
 * Attended Dagstuhl last week where a paper combining co-simulation and theorem proving using Keymeare X was started up.
 
+#### Carlos
+* No work related to the group
+
 ## Sub-projects status
 
 From this meeting on we will add to the status meetings a tracker 

@@ -44,7 +44,7 @@ private information must be stored elsewhere.  -->
 
 
 #### Into-cps cloud app (HDM)
-* Found some bugs on the COE assignment algorithm. 
+* Found some bugs in the COE assignment algorithm. 
 * Improving backend testing.
 * 50 user version in progress.
 

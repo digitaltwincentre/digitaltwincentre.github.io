@@ -32,6 +32,12 @@ private information must be stored elsewhere.  -->
 * Adding abstract function calls to the API functions to represent the "implementation" of the FMU, which will enable the semantic model to realise any particular FMU's behaviour - it's about half done so far.
 * Updated the Overture workshop paper for Carl, to include updated results and a link to the online version of the checker.
 
+#### Claudio
+* Won't be able to attend the meeting.
+* Working at CMU on an FMI exporter for ModelPlex.
+* Going to meet with Stefan some time this week to discuss other research topics.
+
+
 #### Stakeholder 2
 * Discussion Point 1
 * Discussion Point 2 

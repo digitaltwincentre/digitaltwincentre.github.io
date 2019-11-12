@@ -22,6 +22,10 @@ date: 13 November 2019, 1030 CEST
 <!-- Please keep in mind that the minutes are publicly available, and that
 private information must be stored elsewhere.  -->
 
+#### HDM
+* Is developing the Into-cps cloud app.
+* Will focus on writting the extended version of the accompaning paper. 
+
 #### Stakeholder 1
 * Discussion Point 1
 * Discussion Point 2
@@ -39,6 +43,9 @@ private information must be stored elsewhere.  -->
 
 
 #### Into-cps cloud app (HDM)
+* Found some bugs on the COE assignment algorithm. 
+* Improving backend testing.
+* 50 user version in progress.
 
 #### Maestro V2 DT enabled (CT)
 

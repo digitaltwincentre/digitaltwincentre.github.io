@@ -41,6 +41,9 @@ private information must be stored elsewhere.  -->
 #### Jim Woodcock
 * Apologies for not being able to make the net call: I am at the RoboSoft meeting in London.
 
+#### Corneliu
+* Continued to investigate the PTC ThingWorx platform and training material.  Working with the project group to connect a PLC with ThingWorx and exchange data, etc.
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

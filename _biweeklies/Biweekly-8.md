@@ -25,6 +25,7 @@ private information must be stored elsewhere.  -->
 #### HDM
 * Is developing the Into-cps cloud app.
 * Will focus on writting the extended version of the accompaning paper. 
+* Waiting for details on the submition of an extended version for the accepted paper at co-sim workshop.
 
 #### Stakeholder 1
 * Discussion Point 1

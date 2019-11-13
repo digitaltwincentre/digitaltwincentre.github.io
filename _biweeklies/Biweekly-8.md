@@ -37,6 +37,11 @@ private information must be stored elsewhere.  -->
 * Working at CMU on an FMI exporter for ModelPlex.
 * Going to meet with Stefan some time this week to discuss other research topics.
 
+#### Casper
+* Working on ESA case. Critical Design Review in late November, 2019.
+* FMI Utilities website online. Could use some prettying :)
+* Went to Excelgo workshop, might be future cooperation for visualising systems
+* Worked on docker-based FMU cross compiler out of necessity.
 
 #### Jim Woodcock
 * Apologies for not being able to make the net call: I am at the RoboSoft meeting in London.
@@ -61,6 +66,7 @@ private information must be stored elsewhere.  -->
 * 50 user version in progress.
 
 #### Maestro V2 DT enabled (CT)
+* Nothing new.
 
 #### Checker of FMUS (NB)
 * Only a few changes to the static semantic model - most (transparent) changes to make the dynamic semantic modelling easier.

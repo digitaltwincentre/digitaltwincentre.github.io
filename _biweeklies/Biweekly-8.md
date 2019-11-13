@@ -44,10 +44,13 @@ private information must be stored elsewhere.  -->
 #### Corneliu
 * Continued to investigate the PTC ThingWorx platform and training material.  Working with the project group to connect a PLC with ThingWorx and exchange data, etc.
 
-#### Stakeholder 3
-* Discussion Point 1
-* Discussion Point 2
-
+#### PGL
+* Presented about digital twins 3 times over the last two weeks
+* Got AU involved in 4 new EU applications related to digital twins with different roles (the last 3 will be submitted tommorow)
+* Agreement for a desktop version of Robotti has been established
+* Progress is reported from Matthias on the indoor positioning system
+* Saw demo of Siemens Amesim
+* Arranged meeting with Xcelgo about potential collaboration on digital twin technology (takes place next week)
 
 ## Sub-projects status
 

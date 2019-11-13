@@ -57,6 +57,9 @@ private information must be stored elsewhere.  -->
 * Saw demo of Siemens Amesim
 * Arranged meeting with Xcelgo about potential collaboration on digital twin technology (takes place next week)
 
+### Carlos
+* On going Discrete Model of a manufacture process with VDM++
+
 ## Sub-projects status
 
 

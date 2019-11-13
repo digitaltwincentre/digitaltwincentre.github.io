@@ -60,6 +60,11 @@ private information must be stored elsewhere.  -->
 ### Carlos
 * On going Discrete Model of a manufacture process with VDM++
 
+### Mathias
+* Working on the local projection to determine the objects position on the track, together with its rotation.
+* Can detect the circle' position
+* Working on identifying the id for each circle, to mactch with the digital twin
+
 ## Sub-projects status
 
 

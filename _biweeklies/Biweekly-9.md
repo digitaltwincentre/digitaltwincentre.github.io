@@ -22,9 +22,10 @@ date: 27 November 2019, 1030 CEST
 <!-- Please keep in mind that the minutes are publicly available, and that
 private information must be stored elsewhere.  -->
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### Nick B
+* Stopped work on the dynamic semantic model for FMI 2.0 and moved on to the static semantics of FMI 3.0.
+* Initial FMI3 static model created, but XML-to-VDM parser incomplete.
+* VDMCheck3.sh created.
 
 #### Stakeholder 2
 * Discussion Point 1
@@ -45,7 +46,11 @@ private information must be stored elsewhere.  -->
 
 #### Maestro V2 DT enabled (CT)
 
-#### Checker of FMUS (NB)
+#### Checker of FMUs (NB)
+* VDMCheck renamed VDMCheck2 and created VDMCheck3 to work with the FMI3 model.
+* Early draft of tool available, but there are very few FMI3 FMUs to check.
+* The XSD schema has been changing wildly, so many example FMUs are non-compliant.
+* FMI3 static semantics is even less clear than FMI2 because of lack of documentation, so will seek to clarify with community.
 
 #### Tolerance Language (JW)
 

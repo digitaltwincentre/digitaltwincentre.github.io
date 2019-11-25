@@ -27,9 +27,11 @@ private information must be stored elsewhere.  -->
 * Initial FMI3 static model created, but XML-to-VDM parser incomplete.
 * VDMCheck3.sh created.
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2 
+#### Peter Gorm Larsen
+* Initial planning of the face to face workshop to be held on the 27 -- 29 of January started up. This is checked into the DiT4CPS SVN. At the last afternoon the plan is to have a public event.
+* I had a meeting with Xcelco Thursday who have a simulation capability for UR robots that we potentially can exploit for the manufacturing case. Carloas and Hugo will probably follow up here
+* Stefan and I had a meeting with John Hatcliff Monday and there is a plan to arrange a 3 day event right before Easter discussing the use of Slang in relation to the co-simulation engine and verification of its properties. This will also be supported by a new PhD for Simon and a DK-US travel grant that Stefan has received.
+* I have a physical MADE meeting where this weeks bi-weekly NM takes place so I will most likely not be able to take part in the meeting.
 
 #### Stakeholder 3
 * Discussion Point 1
@@ -42,7 +44,7 @@ private information must be stored elsewhere.  -->
 #### Into-cps cloud app (HDM)
 * Corrected the bugs found on backend COE's assignment.
 * Launched a 5 COE version and performed first multi-user tests.
-* Extennded Overture workshop paper about it was sent for reviews.
+* Extended Overture workshop paper about it was sent for reviews.
 
 #### Maestro V2 DT enabled (CT)
 

@@ -39,6 +39,9 @@ private information must be stored elsewhere.  -->
 
 
 #### Into-cps cloud app (HDM)
+* Corrected the bugs found on backend COE's assignment.
+* Launched a 5 COE version and performed first multi-user tests.
+* Extennded Overture workshop paper about it was sent for reviews.
 
 #### Maestro V2 DT enabled (CT)
 

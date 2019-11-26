@@ -58,6 +58,7 @@ private information must be stored elsewhere.  -->
 * FMI3 static semantics is even less clear than FMI2 because of lack of documentation, so will seek to clarify with community.
 
 #### Tolerance Language (JW)
+* Continuing studying work suggested by Marcel V. Continuing writing paper on particle filter algorithms.
 
 #### Graphical configuration inside App (CL)
 

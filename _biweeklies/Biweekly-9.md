@@ -33,6 +33,9 @@ private information must be stored elsewhere.  -->
 * Stefan and I had a meeting with John Hatcliff Monday and there is a plan to arrange a 3 day event right before Easter discussing the use of Slang in relation to the co-simulation engine and verification of its properties. This will also be supported by a new PhD for Simon and a DK-US travel grant that Stefan has received.
 * I have a physical MADE meeting where this weeks bi-weekly NM takes place so I will most likely not be able to take part in the meeting.
 
+#### Claudio Gomes
+* Currently at CMU writing an FMU exporter for the tool Keymaera X. The exporter can be used to export controller that have been proven correct, and to export monitor that ensure that co-simulation results are still within the assumptions used to prove the correctness of a coupled system.
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

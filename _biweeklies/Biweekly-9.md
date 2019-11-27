@@ -44,6 +44,11 @@ private information must be stored elsewhere.  -->
 #### Christian Legaard
 * Working on R&D Project related to applying system identification techniques to create FMUs. Currently i am working on wrapping python code into a FMU and implementing automated process of loading data, estimating model and exporting FMU in Python.
 
+#### Carlos
+* Meeting with Xuping PhD students related to the configuration and control of the Enabled Robot arrengement(MiR with the UR5 on top)
+* Assistant to students using the manufacture equipment for the Robotics class
+* Continue with the VDM model for a case using the manufacture equipment
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

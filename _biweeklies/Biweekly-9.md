@@ -36,6 +36,11 @@ private information must be stored elsewhere.  -->
 #### Claudio Gomes
 * Currently at CMU writing an FMU exporter for the tool Keymaera X. The exporter can be used to export controller that have been proven correct, and to export monitor that ensure that co-simulation results are still within the assumptions used to prove the correctness of a coupled system.
 
+#### Casper
+* ESA task, API can be reused.
+* Pull request for FMI standard. We have fork in into-cps association github. Use that for future pull requests to the standard.
+* Discussion Point 2
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

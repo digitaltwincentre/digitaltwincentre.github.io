@@ -41,6 +41,9 @@ private information must be stored elsewhere.  -->
 * Pull request for FMI standard. We have fork in into-cps association github. Use that for future pull requests to the standard.
 * Discussion Point 2
 
+#### Christian Legaard
+* Working on R&D Project related to applying system identification techniques to create FMUs. Currently i am working on wrapping python code into a FMU and implementing automated process of loading data, estimating model and exporting FMU in Python.
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

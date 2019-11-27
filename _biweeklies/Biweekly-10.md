@@ -13,7 +13,7 @@ date: 13 December 2019, 1030 CEST
 
 |||
 |---|---|
-| Date | 27 November 2019, 10:30 CEST |
+| Date | 13 December 2019, 10:30 CEST |
 | Participants | AA, BB, ..., CC.  Minutes by DD. |
 
 

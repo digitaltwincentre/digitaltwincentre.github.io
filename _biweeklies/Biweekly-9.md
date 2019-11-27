@@ -53,6 +53,7 @@ private information must be stored elsewhere.  -->
 * Developing the cloud app.
 * Will visit Xcelgo with Carlos before next meeting. 
 * Met with Simon online about his project on Slang and INTO-CPS.
+* Still waiting for co-sim ws publication instructions.
 
 
 ## Sub-projects status

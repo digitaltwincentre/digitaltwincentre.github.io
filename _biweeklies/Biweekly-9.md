@@ -49,9 +49,10 @@ private information must be stored elsewhere.  -->
 * Assistant to students using the manufacture equipment for the Robotics class
 * Continue with the VDM model for a case using the manufacture equipment
 
-#### Stakeholder 3
-* Discussion Point 1
-* Discussion Point 2
+#### HDM
+* Developing the cloud app.
+* Will visit Xcelgo with Carlos before next meeting. 
+* Met with Simon online about his project on Slang and INTO-CPS.
 
 
 ## Sub-projects status

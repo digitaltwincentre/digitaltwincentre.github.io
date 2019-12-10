@@ -22,9 +22,11 @@ date: 13 December 2019, 1030 CEST
 <!-- Please keep in mind that the minutes are publicly available, and that
 private information must be stored elsewhere.  -->
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### Peter Gorm Larsen
+* Public part of the program for the 27 - 29 event will soon be put online (external participants can then register)
+* The internal part includes visit to Aarhus Vand but otherwise will be kept loose to optimise progress in 3 complementary areas
+* Fighting for the different PhD/post-doc projects inside the new MADE project have started
+* The ITEA application has gone to the next stage so we will meet with Benedict right after the HUBCAP kick-off
 
 #### Stakeholder 2
 * Discussion Point 1

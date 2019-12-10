@@ -34,11 +34,17 @@ private information must be stored elsewhere.  -->
 * Discussion Point 1
 * Discussion Point 2
 
+#### HDM
+* Continued working on the INTO-CPS application
+* Expects to visit Xcelgo with Carlos...
 
 ## Sub-projects status
 
 
 #### Into-cps cloud app (HDM)
+  * Submitted an extended version of the Overture workshop paper to the FM'Workshop prooceedings.
+  * Performed a comparison between the Desktop and the Cloud app deployed memory sizes, and is looking on how to optimize the app delpoyment.
+  * Researching whether [Progressive Web Apps](https://en.wikipedia.org/wiki/Progressive_web_application) functionality is enough to serve the cloud application as a Desktop version. 
 
 #### Maestro V2 DT enabled (CT)
 

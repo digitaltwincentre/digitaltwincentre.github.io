@@ -52,7 +52,9 @@ private information must be stored elsewhere.  -->
 
 #### Checker of FMUS (NB)
 
-#### Tolerance Language (JW)
+#### Tolerance Language (JW) 
+
+I've carried out some simple case studies to see how to make progress with the language. My small insight is that the language will be used to check execution sequences just like in runtime verification (RV). This means that a semantics based on temporal logic would be appropriate. This is because RV is a simplified form of model checking, where only a single trace is being checked, rather than the set of all behaviours. Although the trace can be infinite in model checking, the trace must be finite in RV. I need some simple but typical examples to find how expressive the language needs to be. I think that it needs to be probabilistic. I suspect that PLTL is not expressive enough, although we can generate RV monitors for LTL automatically. The workflow that I envisage is to specify properties in the tolerance language, generate an RV monitor for the property, and then check the physical asset and its digital twin simultaneously. You can add more properties in parallel, as checking will be compositional.
 
 #### Graphical configuration inside App (CL)
 

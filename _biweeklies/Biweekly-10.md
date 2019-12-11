@@ -30,15 +30,16 @@ private information must be stored elsewhere.  -->
 
 #### Stakeholder 2
 * Discussion Point 1
-* Discussion Point 2 
-
-#### Stakeholder 3
-* Discussion Point 1
 * Discussion Point 2
 
 #### HDM
 * Continued working on the INTO-CPS application
 * Expects to visit Xcelgo with Carlos...
+
+#### Carlos
+* Worked on VDM model of the robots
+* Expects to visit Xcelgo with Hugo...
+
 
 ## Sub-projects status
 

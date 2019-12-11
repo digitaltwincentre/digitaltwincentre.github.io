@@ -28,9 +28,10 @@ private information must be stored elsewhere.  -->
 * Fighting for the different PhD/post-doc projects inside the new MADE project have started
 * The ITEA application has gone to the next stage so we will meet with Benedict right after the HUBCAP kick-off
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Nick
+* VDMCheck for FMI3 is available for testing.
+* Established the FMI3 XSDs as the current state of the specification, rather than the standard document.
+* Some small issues discussed with FMI folk via GitHub.
 
 #### HDM
 * Continued working on the INTO-CPS application
@@ -58,6 +59,8 @@ private information must be stored elsewhere.  -->
 
 
 #### Checker of FMUS (NB)
+
+The VDMCheck3 tool is now relatively "complete". I believe the XML parser is correct and the errors produced for the (few) available FMUs seem to be valid. The FMI3 XSDs will probably continue to change though. There are various places where I've made assumptions that need to be verified, either with more FMU examples or by raising issues. The dynamic semantics work is still on hold, though now the FMI3 checker is stable, it might be best to update the FMI2 dynamic model to cover FMI3 semantics.
 
 #### Tolerance Language (JW) 
 

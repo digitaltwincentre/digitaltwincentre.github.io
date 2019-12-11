@@ -50,6 +50,12 @@ private information must be stored elsewhere.  -->
   * Researching whether [Progressive Web Apps](https://en.wikipedia.org/wiki/Progressive_web_application) functionality is enough to serve the cloud application as a Desktop version. 
 
 #### Maestro V2 DT enabled (CT)
+* Started development of FMU based on data from RabbitMQ. This FMU will represent the real system in context of a DT simulation. KEL can elaborate
+* FMI Utils is considered ready for FMI-advertisement in context of FMIChecker. Agree Nick?
+* Create example using new server VM and DOcker infrastructure. https://gitlab.au.dk/software-engineering/freja/wikis/Build-and-Docker---An-example
+* Had a great ESA review and handed in all ESA documents!!! WOHOO! Still some review work to be carried out, but this marks a major step for our contribution.
+* Started working on example of January event where we will use the LFR. To compare the simulated robot with the real robot, we need to know where the real robot is on a coordinate system. Therefore, we are trying to overlay a coordinate system to a recording of the real robot. Initial steps has been taken, video is posted on skype. 
+
 
 #### Checker of FMUS (NB)
 

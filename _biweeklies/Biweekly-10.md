@@ -41,6 +41,9 @@ private information must be stored elsewhere.  -->
 * Worked on VDM model of the robots
 * Expects to visit Xcelgo with Hugo...
 
+#### Claudio
+* Delivered cosim tutorial at wintersim.
+* Visited NIST and Software Engineering Institute (Arlington).
 
 ## Sub-projects status
 

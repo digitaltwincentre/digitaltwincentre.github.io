@@ -22,9 +22,10 @@ date: 12 February 2020, 1030 CEST
 <!-- Please keep in mind that the minutes are publicly available, and that
 private information must be stored elsewhere.  -->
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### Peter Gorm Larsen
+* I have given a series of external presentations about out digital twin research (more to come)
+* Are involved in a few more digital twin research applications with various stakehiolders
+* Hao Feng will change to me as the main supervisor and he will have his PhD subject adjusted in a more digital twin direction
 
 #### Nick
 * Working on FMI3 dynamic semantics mainly.

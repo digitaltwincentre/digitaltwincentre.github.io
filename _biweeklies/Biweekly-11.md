@@ -30,9 +30,9 @@ private information must be stored elsewhere.  -->
 * Discussion Point 1
 * Discussion Point 2
 
-#### Stakeholder 3
-* Discussion Point 1
-* Discussion Point 2
+#### HDM
+* Has been working on the Arhus Vand case. Produced a presentation title for a meeting with WATEC next 13 of March. Produced a small project description for a co-simulation model of chemical wastewater treatment abstraction with the help of Michael Sandberg. I am also gathering the list of interested in this case. So just send me an email if you did not mention it before...
+* More to report on the Sub-projects sections...
 
 ## Sub-projects status
 
@@ -55,6 +55,7 @@ private information must be stored elsewhere.  -->
 
 #### Graphical configuration inside App (CL)
 
+#### Sub-project X
 
 Next Meeting
 ------------

@@ -5,7 +5,7 @@ title: Digital Twin Centre Biweeklies
 
 # {{ page.title }}
 
-This is a placeholder for the DTC biweekly net meetings. Please keep in mind that **the minutes are publicly available**, and that private information must be stored elsewhere. 
+This is a placeholder for the DTC biweekly net meetings. Please keep in mind that **the minutes are publicly available**. 
 
 ## Upcoming meetings:
 

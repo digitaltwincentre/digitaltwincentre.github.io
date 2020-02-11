@@ -26,9 +26,13 @@ private information must be stored elsewhere.  -->
 * Discussion Point 1
 * Discussion Point 2
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Nick
+* Working on FMI3 API semantics mainly.
+* Several issues raised via the fmi-standard repository, and pull requests created to propose updates to the standard.
+* The FMI3 static semantics is stable, but probably subject to more change as the standard evolves.
+* The FMI3 dynamic semantics is only just started. I want to get the fundamentals right here before adding the bulk of the APIs (many of which can be lifted from the FMI2 API work).
+* Started talking to HDM about how to implement LSP/DAP against VDMJ.
+* Quite a few Overture bugs fixed, so we've scheduled a new bugfix release for that in the near future.
 
 #### HDM
 * Has been working on the Arhus Vand case. Produced a presentation title for a meeting with WATEC next 13 of March. Produced a small project description for a co-simulation model of chemical wastewater treatment abstraction with the help of Michael Sandberg. I am also gathering the list of interested in this case. So just send me an email if you did not mention it before...
@@ -48,7 +52,7 @@ private information must be stored elsewhere.  -->
 #### Maestro V2 DT enabled (CT)
 
 #### Checker of FMUS (NB)
-
+The static checkers for FMI2 and FMI3 have not changed a great deal over Xmas, just a few minor changes as a result of discussions of the fmi-standard. The main work is now focussed on dynamic semantics (see above).
 
 #### Tolerance Language (JW) 
 

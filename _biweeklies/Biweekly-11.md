@@ -27,9 +27,10 @@ private information must be stored elsewhere.  -->
 * Discussion Point 2
 
 #### Nick
-* Working on FMI3 API semantics mainly.
-* Several issues raised via the fmi-standard repository, and pull requests created to propose updates to the standard.
-* The FMI3 static semantics is stable, but probably subject to more change as the standard evolves.
+* Working on FMI3 dynamic semantics mainly.
+* Corrected mistake regarding variable index/references in FMI2 API. To avoid this kind of problem in FMI3, we need to check the dynamic semantic model using "external" callers (ie. verify that the formal modelled semantics is consistent with external parties' understanding and FMU implementation).
+* Several FMI3 issues raised via the fmi-standard repository, and pull requests created to propose updates to the standard.
+* The FMI3 static semantics/checker is stable, but probably subject to more change as the standard evolves.
 * The FMI3 dynamic semantics is only just started. I want to get the fundamentals right here before adding the bulk of the APIs (many of which can be lifted from the FMI2 API work).
 * Started talking to HDM about how to implement LSP/DAP against VDMJ.
 * Quite a few Overture bugs fixed, so we've scheduled a new bugfix release for that in the near future.

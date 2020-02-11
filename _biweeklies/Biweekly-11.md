@@ -54,6 +54,11 @@ private information must be stored elsewhere.  -->
 * RabbitMQ FMU has been released for cross-platform
 * MaestroV2 is well on its way, still prototyping
 * Simon will assist with developing a plugin for calculating dependencies.
+TBD:
+* Fix FMI pull requests
+* Attend FMI design meeting end of Feb
+* Clarify mobile robot case
+* FMI-Enable Chrono Engine 
 
 #### Checker of FMUS (NB)
 The static checkers for FMI2 and FMI3 have not changed a great deal over Xmas, just a few minor changes as a result of discussions of the fmi-standard. The main work is now focussed on dynamic semantics (see above).

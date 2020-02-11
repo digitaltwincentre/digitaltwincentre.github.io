@@ -65,7 +65,7 @@ TBD:
 The static checkers for FMI2 and FMI3 have not changed a great deal over Xmas, just a few minor changes as a result of discussions of the fmi-standard. The main work is now focussed on dynamic semantics (see above).
 
 #### Tolerance Language (JW) 
-
+JW gave two talks in Aarhus about the tolerance language. Started a collaboration with Cláudio in Aarhus on considering how to use STL (signal temporal logic). Now studying an example produced by Simon Foster and colleagues using a monitor to check the operational behaviour of an autonomous underwater vehicle. This is a useful example for the tolerance language.
 
 #### Graphical configuration inside App (CL)
 

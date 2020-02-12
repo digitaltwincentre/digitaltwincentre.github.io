@@ -44,6 +44,12 @@ private information must be stored elsewhere.  -->
 * Working on Maestrov2 AST and verification for FMI2.
 * Need to talk to Nick about how to incorporate the dynamic semantics of FMI2.
 
+#### Christian
+* Back from exchange, started Phd position.
+* Met with Grundfos to discuss their use of simulation and gain access to some real life data.
+* Working on prototyping tools to develop FMUs in Python.
+* Started work on paper for Sommersim conference related to the Python tool.
+
 ## Sub-projects status
 
 

@@ -40,6 +40,10 @@ private information must be stored elsewhere.  -->
 * Has been working on the Arhus Vand case. Produced a presentation title for a meeting with WATEC next 13 of March. Produced a small project description for a co-simulation model of chemical wastewater treatment abstraction with the help of Michael Sandberg. I am also gathering the list of interested in this case. So just send me an email if you did not mention it before...
 * More to report on the Sub-projects sections...
 
+#### Claudio
+* Working on Maestrov2 AST and verification for FMI2.
+* Need to talk to Nick about how to incorporate the dynamic semantics of FMI2.
+
 ## Sub-projects status
 
 
@@ -59,7 +63,8 @@ TBD:
 * Fix FMI pull requests
 * Attend FMI design meeting end of Feb
 * Clarify mobile robot case
-* FMI-Enable Chrono Engine 
+* FMI-Enable Chrono Engine
+* Abstract interpreter for verification of FMU calls.
 
 #### Checker of FMUS (NB)
 The static checkers for FMI2 and FMI3 have not changed a great deal over Xmas, just a few minor changes as a result of discussions of the fmi-standard. The main work is now focussed on dynamic semantics (see above).

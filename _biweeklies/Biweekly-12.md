@@ -29,9 +29,9 @@ date: 26 February 2020, 1030 CEST
 * Will most likely have new power-electronics PhD student using a digital twin approach for a battery
 * Will go to official Robotti release show 26/2
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Nick B
+* Been on holiday for most of the time since the last meeting :)
+* Some progress made on discussions with FMI Standard folk on the open issues
 
 #### Stakeholder 3
 * Discussion Point 1

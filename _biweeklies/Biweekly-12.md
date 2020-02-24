@@ -20,9 +20,14 @@ date: 26 February 2020, 1030 CEST
 
 <!-- Please keep in mind that the minutes are publicly available.-->
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### Peter Gorm Larsen
+* Interview with Villum in regards to Synergy grant 25/2
+* Meeting with Terma in regards to digital twin PhD 14/2
+* Meeting with B&O in regards to digital twin PhD 21/2
+* Work with optimal coordination internally
+* Hired new post-doc for the digital twin project
+* Will most likely have new power-electronics PhD student using a digital twin approach for a battery
+* Will go to official Robotti release show 26/2
 
 #### Stakeholder 2
 * Discussion Point 1

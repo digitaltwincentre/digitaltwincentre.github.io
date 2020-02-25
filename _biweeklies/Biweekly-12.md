@@ -33,6 +33,12 @@ date: 26 February 2020, 1030 CEST
 * Been on holiday for most of the time since the last meeting :)
 * Some progress made on discussions with FMI Standard folk on the open issues
 
+#### HDM
+* Prepared a release candidate for Oveture and has a working prototype of Overture running on top of the Eclipse 2019-12 platform.
+* Supervision of Jonas and Fredrik work on the VDM-LSP protocol is going good. The server prototype is now invoking VDMJ to syntax checking. 
+* Will deliver the first INTO-CPS Application tutorials to 60 students this week. 
+* Gave at talk at the Dep. of Management where I mentione the work of Centre for Digital Twins and the Aarhus Vand case among others.
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2
@@ -41,7 +47,10 @@ date: 26 February 2020, 1030 CEST
 ## Sub-projects status
 
 
-#### Sub-project X
+#### INTO-CPS cloud app (HDM)
+* Last week Kristofer finalized the dependency checker. We are currently checking whether the java and python dependencies are in place and warn the user instead of failing silently.
+* Armine is progressing with the Spectron tests and we are now able to do basic menu clicks... We are working towards the ivocation of a cosimulation.
+* In the tutorial delivery this week I will introduce the students to the development cycle of the app and open the way for contributions...
 
 #### Sub-project Y
 

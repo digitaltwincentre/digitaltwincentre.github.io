@@ -39,6 +39,12 @@ date: 26 February 2020, 1030 CEST
 * Will deliver the first INTO-CPS Application tutorials to 60 students this week. 
 * Gave a talk at the Dep. of Management where I mentioned the work of Centre for Digital Twins and the Aarhus Vand case among others.
 
+#### Christian Møldrup Legaard
+* More work on PyFMU, can now handle multiple instantiations in the same process.
+https://github.com/INTO-CPS-Association/pyfmu
+* Working on paper with Peter, Cláudio and Frederik related to PyFMU use as a monitor in co-simulation on Agro intelli autonomous robot.
+* Continued work on setting up machine learning pipeline for Grundfos data.
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

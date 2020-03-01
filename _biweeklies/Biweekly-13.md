@@ -20,9 +20,9 @@ date: 11 March 2020, 1030 CEST
 
 <!-- Please keep in mind that the minutes are publicly available.-->
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### Claudio Gomes
+* Attended FMI Design Meeting
+* Preparing papers for SummerSim conference on rabbitmq fmu and rapid prototyping of FMUs using python.
 
 #### Stakeholder 2
 * Discussion Point 1

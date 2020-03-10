@@ -32,7 +32,7 @@ date: 11 March 2020, 1030 CEST
 #### Nick Battle
 * FMI modelling paused util the FMI3 standard settles from its new Alias changes.
 * Work focussed on VDMJ support for LSP protocol instead.
-* Visitor infrastructure completed for VDMJ, and used to create vistors to locate arbitrary definitions, in response to LSP "definition" requests. Testing with lsp4e (Eclipse client) is currently timing out, though the definition lookup itself is very fast - still investigating.
+* Visitor infrastructure completed for VDMJ, and used to create vistors to locate arbitrary definitions, in response to LSP "definition" requests. Testing with lsp4e (Eclipse client). Seems to be working :)
 
 #### Peter Gorm Larsen
 * Looks like the DIGITBrain IA project will be funded (on digital twins for manufacturing)
@@ -52,7 +52,7 @@ There has been a burst of new activity on FMI3, which is making it difficult to 
 
 #### LSP
 
-Modifications are being made to a new "lspserver" branch of VDMJ to support the LSP protocol. I'm currently testing with the Eclipse lsp4e client, enabling one feature at a time to see what messages are sent - the Microsoft documentation for the protocol is not very clear (no examples), so we really have to progress by example. VDMJ itself is currently proving relatively easy to change to add this support, though I'm getting timeout problems with the lsp4e client (even though it's quite fast).
+Modifications are being made to a new "lspserver" branch of VDMJ to support the LSP protocol. I'm currently testing with the Eclipse lsp4e client, enabling one feature at a time to see what messages are sent - the Microsoft documentation for the protocol is not very clear (no examples), so we really have to progress by example. VDMJ itself is currently proving relatively easy to change to add this support, but we're starting with the simplest features...
 
 
 ##  Any Other Business

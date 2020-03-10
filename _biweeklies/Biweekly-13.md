@@ -24,9 +24,11 @@ date: 11 March 2020, 1030 CEST
 * Attended FMI Design Meeting
 * Preparing papers for SummerSim conference on rabbitmq fmu and rapid prototyping of FMUs using python.
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### HDM
+* Delivered Tutorials 0, 1 and 2 at the Systems Engineering Course at AU.
+* We are doing a lot of progress in the VDM agenda. The R&D project is moving good with a prototype of an LSP implementation for VDM performing syntax and type checking. I made some advances towards solving issue #716 (https://github.com/overturetool/overture/issues/716) affecting the Overture tool. 
+* The INTO-CPS App and its cloud version are moving. Student programmers are doing a great job see INTO-CPS subproject section below.
+
 
 #### Stakeholder 3
 * Discussion Point 1
@@ -36,7 +38,9 @@ date: 11 March 2020, 1030 CEST
 ## Sub-projects status
 
 
-#### Sub-project X
+#### INTO-CPS 
+
+The student programmers are doing a great job. Last week we achieved the coverage of all the steps of Tutorial 1. Some steps are checked in an abstract setting (e.g.: the co-simulation plot is not checked... We only check if the co-simulation stopped), but the progress looks good. We made a major leap in versioning updates already (from hundreds of deprecated to dozens). Nonetheless, we are currently dealing with more difficult updates. Last week we needed to debug functionality in the new-project.ts and found out the source maps for that and lots of other files were not being generated. This will keep us busy for a while. We have a new R&D project related to this. For now the focus will be on the cloud app.
 
 #### Sub-project Y
 

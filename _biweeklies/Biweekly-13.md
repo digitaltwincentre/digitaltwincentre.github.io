@@ -54,6 +54,15 @@ There has been a burst of new activity on FMI3, which is making it difficult to 
 
 Modifications are being made to a new "lspserver" branch of VDMJ to support the LSP protocol. I'm currently testing with the Eclipse lsp4e client, enabling one feature at a time to see what messages are sent - the Microsoft documentation for the protocol is not very clear (no examples), so we really have to progress by example. VDMJ itself is currently proving relatively easy to change to add this support, but we're starting with the simplest features...
 
+#### Tolerance Language
+
+I spent my time on two things.
+
+(1) Reading the paper on the harvest coach recommended to me by Hugo as a source of simple examples. This is a very nicely written paper. The examples for the tolerance language are indeed very simple but also very helpful.
+
+(2) I read a series of papers in the list sent to me by Claudio. I found one particularly useful: "Specification-Based Monitoring of Cyber-Physical Systems: A Survey on Theory, Tools and Applications". This led me to some papers in systems biology that have a version of linear temporal logic with a satisfaction relation with degrees of violation.
+
+I found that the ideas in (2) give an elegant formulation of the tolerance constraints in (1). What seems particularly good is making tolerance a first-class citizen: "the combine violates the position validity requirement by no more than 4 m".
 
 ##  Any Other Business
 

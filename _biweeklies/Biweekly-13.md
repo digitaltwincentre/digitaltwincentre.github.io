@@ -34,6 +34,10 @@ date: 11 March 2020, 1030 CEST
 * Work focussed on VDMJ support for LSP protocol instead.
 * Visitor infrastructure completed for VDMJ, and used to create vistors to locate arbitrary definitions, in response to LSP "definition" requests. Testing with lsp4e (Eclipse client) is currently timing out, though the definition lookup itself is very fast - still investigating.
 
+#### Peter Gorm Larsen
+* Looks like the DIGITBrain IA project will be funded (on digital twins for manufacturing)
+* Gave a presentation about digital twins last week at a seminar arranged by FORCE
+* Read selected digital twin survey papers
 
 ## Sub-projects status
 

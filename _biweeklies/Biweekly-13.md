@@ -29,10 +29,10 @@ date: 11 March 2020, 1030 CEST
 * We are doing a lot of progress in the VDM agenda. The R&D project is moving good with a prototype of an LSP implementation for VDM performing syntax and type checking. I made some advances towards solving issue #716 (https://github.com/overturetool/overture/issues/716) affecting the Overture tool. 
 * The INTO-CPS App and its cloud version are moving. Student programmers are doing a great job see INTO-CPS subproject section below.
 
-
-#### Stakeholder 3
-* Discussion Point 1
-* Discussion Point 2
+#### Nick Battle
+* FMI modelling paused util the FMI3 standard settles from its new Alias changes.
+* Work focussed on VDMJ support for LSP protocol instead.
+* Visitor infrastructure completed for VDMJ, and used to create vistors to locate arbitrary definitions, in response to LSP "definition" requests. Testing with lsp4e (Eclipse client) is currently timing out, though the definition lookup itself is very fast - still investigating.
 
 
 ## Sub-projects status

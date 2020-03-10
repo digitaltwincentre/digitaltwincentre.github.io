@@ -44,7 +44,7 @@ The student programmers are doing a great job. Last week we achieved the coverag
 
 #### Formal models of FMI
 
-There has been a burst of new activity on FMI3, which is making it difficult to track in the formal model. In particular, there are changes to the XML schema and changes to how variable aliases are declared which make produce fundamental changes in the model. I am therefore monitoring the Standard changes rather than actively trying to model them, while the standard is in flux.
+There has been a burst of new activity on FMI3, which is making it difficult to track in the formal model. In particular, there are changes to the XML schema and changes to how variable aliases are declared which may produce fundamental changes in the model. I am therefore monitoring the Standard changes rather than actively trying to model them, while the standard is in flux.
 
 #### LSP
 

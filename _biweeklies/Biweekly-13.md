@@ -39,6 +39,7 @@ date: 11 March 2020, 1030 CEST
 * Gave a presentation about digital twins last week at a seminar arranged by FORCE
 * Read selected digital twin survey papers
 * Discuss digital twin collaboration with FORCE
+* ITEA proposal led by VV has been submitted involving digital twins
 
 ## Sub-projects status
 

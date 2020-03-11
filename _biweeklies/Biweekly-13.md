@@ -38,6 +38,7 @@ date: 11 March 2020, 1030 CEST
 * Looks like the DIGITBrain IA project will be funded (on digital twins for manufacturing)
 * Gave a presentation about digital twins last week at a seminar arranged by FORCE
 * Read selected digital twin survey papers
+* Discuss digital twin collaboration with FORCE
 
 ## Sub-projects status
 

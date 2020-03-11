@@ -42,8 +42,8 @@ date: 11 March 2020, 1030 CEST
 * ITEA proposal led by VV has been submitted involving digital twins
 
 #### Carlos Hansen
-* Keep working in the model of the seingle joints for the Robotic Arms
-* A Real Time comunication setup to comunicate with the UR Robots is functional with a step-by-step setup for anyone interested.
+* Keep working in the model of the single joints for the Robotic Arms
+* A Real Time comunication setup to comunicate with the UR Robots, using Python, is functional with a step-by-step setup for anyone interested.
 
 #### Casper Thule
 * Similar to claudio

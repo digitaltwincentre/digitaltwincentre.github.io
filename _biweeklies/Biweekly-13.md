@@ -45,6 +45,11 @@ date: 11 March 2020, 1030 CEST
 * Keep working in the model of the seingle joints for the Robotic Arms
 * A Real Time comunication setup to comunicate with the UR Robots is functional with a step-by-step setup for anyone interested.
 
+#### Casper Thule
+* Similar to claudio
+* Starting roadmap on digital twin efforts
+* Discovered future java issue with maestro
+
 ## Sub-projects status
 
 

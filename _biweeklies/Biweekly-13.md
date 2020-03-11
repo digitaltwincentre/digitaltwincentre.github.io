@@ -41,6 +41,10 @@ date: 11 March 2020, 1030 CEST
 * Discuss digital twin collaboration with FORCE
 * ITEA proposal led by VV has been submitted involving digital twins
 
+#### Carlos Hansen
+* Keep working in the model of the seingle joints for the Robotic Arms
+* A Real Time comunication setup to comunicate with the UR Robots is functional with a step-by-step setup for anyone interested.
+
 ## Sub-projects status
 
 

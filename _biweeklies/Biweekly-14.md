@@ -31,9 +31,11 @@ In https://overture.au.dk/overture/development/latest/ you can also find the nex
 * New discussions with a power electronics group from AAU about digital twins
 * New Iranian PhD has been approved. To be working on a digital twin for a large battery from a power electrinics side
 
-#### Stakeholder 3
-* Discussion Point 1
-* Discussion Point 2
+#### Casper Thule
+* Had vacation
+* Working on rabbitmq fmu - bridging tla+ and c++.
+* Will update maestro to work with java 13
+* Went to FMI design meeting
 
 
 ## Sub-projects status
@@ -44,7 +46,9 @@ In https://overture.au.dk/overture/development/latest/ you can also find the nex
 * On the cloud side we are adding a new landing page to avoid requiring users to register before experimenting with the platform. We are also trying to improve the design of the upload files component. Armine is working on this. Regarding the testing using Spectron there is some issues with closing the created test windows that made us suspend the work for a while.
 * The plotting feature of the cloud app is underperforming. It takes too much time to show the graph. We have a new R&D student that will start his work in the context of the INTO-CPS App and the Digital Twin Centre, and he is looking into this problem.
 
-#### Sub-project Y
+#### RabbitMQ FMU
+* Work is progressing and substantial testing support is being developed.
+* 
 
 #### Sub-project Z
 

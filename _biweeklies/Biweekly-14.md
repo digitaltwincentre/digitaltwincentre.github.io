@@ -20,9 +20,11 @@ date: 25 March 2020, 1030 CEST
 
 <!-- Please keep in mind that the minutes are publicly available.-->
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### HDM
+* Released Overture 2.7.4 with minor updates. We expect 2.7.4 to be the last one bound to Java 8.
+In https://overture.au.dk/overture/development/latest/ you can find the next development release of Overture. It will be running on top of the most recent Eclipse platform and in my machine works with openjdk 13.
+* The INTO-CPS Apps development is on track check the details in the subprojects below.
+* Delivered the into-cps training Tutorial 3 in the systems engineering course last week. It was an online Q/A session due to the coronavirus lockdown... Not a lot of participants or questions thought...
 
 #### Stakeholder 2
 * Discussion Point 1
@@ -36,7 +38,10 @@ date: 25 March 2020, 1030 CEST
 ## Sub-projects status
 
 
-#### Sub-project X
+#### INTO-CPS App
+* The INTO-CPS Desktop app now runs with Angular 5.... There is still a long way to go until we reach the current stable release Angular 9, specially because the next jump requires a major reworking of how the Angular app is build(definition of a angular.json CLI file and usage of it in the build process). Kristoffer is working on this.
+* On the cloud side we are adding a new landing page to avoid requiring users to register before experimenting with the platform. We are also trying to improve the design of the upload files component. Armine is working on this. Regarding the testing using Spectron there is some issues with closing the created test windows that made us suspend the work for a while.
+* The plotting feature of the cloud app is underperforming. It takes too much time to show the graph. We have a new R&D student that will start his work in the context of the INTO-CPS App and the Digital Twin Centre, and he is looking into this problem.
 
 #### Sub-project Y
 

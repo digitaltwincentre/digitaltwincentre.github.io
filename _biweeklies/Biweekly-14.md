@@ -23,7 +23,7 @@ date: 25 March 2020, 1030 CEST
 #### HDM
 * Released Overture 2.7.4 with minor updates. We expect 2.7.4 to be the last one bound to Java 8.
 In https://overture.au.dk/overture/development/latest/ you can also find the next development release of Overture. It will be running on top of the most recent Eclipse platform and in my machine works well on top of openjdk 13.
-* The INTO-CPS Apps development is on track check the details in the subprojects below.
+* The INTO-CPS Apps development is on track. Please check the details in its subproject entry below.
 * Delivered the into-cps training Tutorial 3 in the systems engineering course last week. It was an online Q/A session due to the coronavirus lockdown... Not a lot of participants or questions thought...
 
 #### Stakeholder 2

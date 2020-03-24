@@ -37,6 +37,12 @@ In https://overture.au.dk/overture/development/latest/ you can also find the nex
 * Will update maestro to work with java 13
 * Went to FMI design meeting
 
+#### Nick Battle
+* Produced a pure Java version of the VDMCheck top level script, to make things easier for Windows folk.
+* Made a lot of progress with the LSP server version of VDMJ:
+* Editing and syntax/type checking seems to work reasonably well via lsp4e
+* Debugging is more difficult, but breakpoints work and display in the right Eclipse views.
+* Variable display at breakpoints is proving difficult.
 
 ## Sub-projects status
 

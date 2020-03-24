@@ -55,7 +55,10 @@ In https://overture.au.dk/overture/development/latest/ you can also find the nex
 
 #### RabbitMQ FMU
 * Work is progressing and substantial testing support is being developed.
-* 
+
+#### Tolerance Language
+
+* First draft of paper produced. This consists of about 60 LaTeX beamer slides with bullet points for the final paper and most of the required technical material.
 
 #### Sub-project Z
 

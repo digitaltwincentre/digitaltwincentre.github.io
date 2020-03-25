@@ -52,6 +52,10 @@ In https://overture.au.dk/overture/development/latest/ you can also find the nex
 * Support FMI Steering committee on Hybrid Co-sim interfaces
 * Developed tracking simulator proof of concept (for Christian's paper) using dynamic bycicle model.
 
+#### Christian Møldrup Legaard
+* Writing paper related to Python FMUs (deadline this monday)
+* Work on PyFMU implementation
+
 ## Sub-projects status
 
 

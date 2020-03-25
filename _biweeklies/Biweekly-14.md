@@ -48,6 +48,10 @@ In https://overture.au.dk/overture/development/latest/ you can also find the nex
 #### Carlos Hansen
 * Conexion to Polyscope simulator
 
+#### Claudio Gomes
+* Support FMI Steering committee on Hybrid Co-sim interfaces
+* Developed tracking simulator proof of concept (for Christian's paper) using dynamic bycicle model.
+
 ## Sub-projects status
 
 

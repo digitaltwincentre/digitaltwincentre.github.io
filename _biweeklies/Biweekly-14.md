@@ -44,6 +44,9 @@ In https://overture.au.dk/overture/development/latest/ you can also find the nex
     * Editing and syntax/type checking seems to work reasonably well via lsp4e. The Outline view is populated.
     * Debugging is more difficult, but breakpoints work and display in the right Eclipse views.
     * Variable display at breakpoints is working in simple cases, though structured data displays will need more work.
+    
+#### Carlos Hansen
+* Conexion to Polyscope simulator
 
 ## Sub-projects status
 

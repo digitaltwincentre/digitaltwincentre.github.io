@@ -20,9 +20,9 @@ date: 08 April 2020, 1030 CEST
 
 <!-- Please keep in mind that the minutes are publicly available.-->
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### Casper Thule
+* AU GitLab instead of Github because of Subgroups?
+* AU Gitlab CI support - Christian check it?
 
 #### Stakeholder 2
 * Discussion Point 1

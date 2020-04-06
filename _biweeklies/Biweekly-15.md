@@ -36,7 +36,9 @@ date: 08 April 2020, 1030 CEST
 ## Sub-projects status
 
 
-#### Sub-project X
+#### Tolerance Language
+
+Draft paper completed and sent to PGL, HDM, and CGG for comments. New deadline for ISoLA version is 31st May.
 
 #### Sub-project Y
 

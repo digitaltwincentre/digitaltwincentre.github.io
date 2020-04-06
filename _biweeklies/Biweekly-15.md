@@ -24,9 +24,10 @@ date: 08 April 2020, 1030 CEST
 * AU GitLab instead of Github because of Subgroups?
 * AU Gitlab CI support - Christian check it?
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Nick Battle
+* LSP/DAP support for VDM-SL and VDM++ is progressed to the point where I would like to try the server with a VScode client. Suggesting we get in touch with the chap who wrote the existing VScode extension (which uses VDMJ to do simple syntax checking). Jonas and Frederik have started to look at it (via Eclipse) too.
+* I've updated the FMI3 VDM-SL static model to use the latest schema (and raised a bug and pull request to fix problems with the schema). At Christian's suggestion, I've added XSD schema validation to the VDMCheck tools, though none of the 700-odd FMUs in the cross-check repository have schema errors.
+* Met with Claudio on Monday to discuss the way forward with the formal models. I will spend some time looking at TLA+ to that end.
 
 #### Stakeholder 3
 * Discussion Point 1

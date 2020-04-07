@@ -29,9 +29,10 @@ date: 08 April 2020, 1030 CEST
 * I've updated the FMI3 VDM-SL static model to use the latest schema (and raised a bug and pull request to fix problems with the schema). At Christian's suggestion, I've added XSD schema validation to the VDMCheck tools, though none of the 700-odd FMUs in the cross-check repository have schema errors.
 * Met with Claudio on Monday to discuss the way forward with the formal models. I will spend some time looking at TLA+ to that end.
 
-#### Stakeholder 3
-* Discussion Point 1
-* Discussion Point 2
+#### Peter Gorm Larsen
+* Mustafa Dinc is now on the team and starting to interact with multiple team members (remotely due to Covid-19
+* A new ITEA proposal called UPSIM including digital twins has informally been accepted for funding
+* Teaching curiculum paper and HUBCAP collaboration platform papers are now almost complete. 
 
 
 ## Sub-projects status

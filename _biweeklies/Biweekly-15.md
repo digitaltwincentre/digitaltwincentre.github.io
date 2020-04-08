@@ -23,9 +23,6 @@ date: 08 April 2020, 1030 CEST
 #### Casper Thule
 * AU GitLab instead of Github because of Subgroups?
 * AU Gitlab CI support - Christian check it?
-* org.intocps.fmi Support for Java 13 in staging
-* Focusing on stability of into-cps maestro.
-* Add flag for relaxed FMU dependencies - How will this work with INTO-CPS APP?
 
 #### Nick Battle
 * LSP/DAP support for VDM-SL and VDM++ is progressed to the point where I would like to try the server with a VScode client. Suggesting we get in touch with the chap who wrote the existing VScode extension (which uses VDMJ to do simple syntax checking). Jonas and Frederik have started to look at it (via Eclipse) too.
@@ -44,6 +41,10 @@ date: 08 April 2020, 1030 CEST
 * Some holidays last week.
 * Started working on an FMU dynamic model for model checking.
 * Checked Jim's paper.
+
+#### Christian Møldrup Legaard
+* Submitted PyFMU paper to summersim conference.
+* Working on framework + paper for preprocessing ML data: https://github.com/LukasHedegaard/datasetops
 
 ## Sub-projects status
 

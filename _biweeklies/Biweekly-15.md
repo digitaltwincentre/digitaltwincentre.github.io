@@ -33,6 +33,7 @@ date: 08 April 2020, 1030 CEST
 * Mustafa Dinc is now on the team and starting to interact with multiple team members (remotely due to Covid-19
 * A new ITEA proposal called UPSIM including digital twins has informally been accepted for funding
 * Teaching curiculum paper and HUBCAP collaboration platform papers are now almost complete. 
+* Special track on digital twins at Isola (see http://isola-conference.org/isola2020/tracks/)
 
 #### Hugo Daniel Macedo
 * A new release of into-cps should be out soon containing the dependencies upgrades by Kristoffer and bug fixes.

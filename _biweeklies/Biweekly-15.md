@@ -34,6 +34,10 @@ date: 08 April 2020, 1030 CEST
 * A new ITEA proposal called UPSIM including digital twins has informally been accepted for funding
 * Teaching curiculum paper and HUBCAP collaboration platform papers are now almost complete. 
 
+#### Hugo Daniel Macedo
+* A new release of into-cps should be out soon containing the dependencies upgrades by Kristoffer and bug fixes.
+
+
 
 ## Sub-projects status
 

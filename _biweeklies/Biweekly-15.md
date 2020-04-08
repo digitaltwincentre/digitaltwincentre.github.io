@@ -37,7 +37,10 @@ date: 08 April 2020, 1030 CEST
 #### Hugo Daniel Macedo
 * A new release of into-cps should be out soon containing the dependencies upgrades by Kristoffer and bug fixes.
 
-
+#### Claudio Gomes
+* Some holidays last week.
+* Started working on an FMU dynamic model for model checking.
+* Checked Jim's paper.
 
 ## Sub-projects status
 

@@ -26,6 +26,9 @@ date: 08 April 2020, 1030 CEST
 * org.intocps.fmi 1.0.8 Support for Java 13 in staging
 * Focusing on stability of into-cps maestro.
 * Add flag for relaxed FMU dependencies - How will this work with INTO-CPS APP?
+* MaestroV2: Type resolving somewhat done
+* MaestroV2: PLugins somewhat done
+* MAestroV2: Infrastructure in beta after week 13
 
 #### Nick Battle
 * LSP/DAP support for VDM-SL and VDM++ is progressed to the point where I would like to try the server with a VScode client. Suggesting we get in touch with the chap who wrote the existing VScode extension (which uses VDMJ to do simple syntax checking). Jonas and Frederik have started to look at it (via Eclipse) too.

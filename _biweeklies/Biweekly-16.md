@@ -33,7 +33,7 @@ date: 22 April 2020, 1030 CEST
 * Prepare model checking video lecture.
 
 #### Mustafa Dinç
-* I am testing INTO-CPS App 4.0.0 with tutorials (0,1,2,3 completed so far)
+* I am testing INTO-CPS App 4.0.0 with tutorials (0,1,2, and 3 completed so far)
 
 #### Stakeholder
 * Discussion Point 1

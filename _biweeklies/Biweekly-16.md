@@ -35,6 +35,9 @@ date: 22 April 2020, 1030 CEST
 #### Mustafa Dinç
 * I am testing INTO-CPS App 4.0.0 with tutorials (0,1,2, and 3 completed so far)
 
+#### Jim
+* I've been working on the bibliography for the Tolerance Language technical report.
+
 #### Stakeholder
 * Discussion Point 1
 * Discussion Point 2
@@ -43,7 +46,23 @@ date: 22 April 2020, 1030 CEST
 ## Sub-projects status
 
 
-#### Sub-project X
+#### Tolerance Language
+
+Prter, Cláudio, Hugo, and discussed the first draft of a technical report on the Tolerance Language. We agree on the following outstanding issues:
+1. Add a section on methodology and tools.
+3. Change all examples to relate to Aarhus digital twin examples, such as combine harvesters.
+4. Add a glossary of terms.
+6. Discuss how to modify runtime monitoring to take account of quantified satisfaction.
+7. Change consistently from Leibniz’s notation to Newton's for differentiation.
+8. Decide the following technical niggles:
+  (a) Are traces are finite or infinite?
+  (b) Do trace indexes start at 0 or 1?
+  (c) Are the logics all classical? Except in runtime verification?
+  (d) Check usage of open and closed intervals.
+9. Add related work section and complete the bibliography.
+10. Add conclusions and further work.
+
+We also agreed to extract an ISoLA paper from the technical report. Peter set up an outline of the paper in the SVN.
 
 #### Sub-project Y
 

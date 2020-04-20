@@ -20,9 +20,9 @@ date: 22 April 2020, 1030 CEST
 
 <!-- Please keep in mind that the minutes are publicly available.-->
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### Peter Gorm Larsen
+* Will meet with Poul Toft, PDF Foundation right after the biweekly meeting
+* Started up a paper for Isola on the tolerance language as agreed last time
 
 #### Stakeholder 2
 * Discussion Point 1

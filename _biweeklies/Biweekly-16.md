@@ -32,6 +32,8 @@ date: 22 April 2020, 1030 CEST
 * Work on fmi-standard doc (https://github.com/modelica/fmi-standard/pull/895)
 * Prepare model checking video lecture.
 
+#### Mustafa Dinç
+* I am testing INTO-CPS App 4.0.0 with tutorials (0,1,2,3 completed so far)
 
 #### Stakeholder
 * Discussion Point 1

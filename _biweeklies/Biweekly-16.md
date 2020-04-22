@@ -57,6 +57,9 @@ date: 22 April 2020, 1030 CEST
 
 * MaestroV2 progress
 
+#### Hao
+* I will update from the next meeting
+
 ## Sub-projects status
 
 

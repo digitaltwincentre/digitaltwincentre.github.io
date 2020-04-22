@@ -76,7 +76,7 @@ We also agreed to extract an ISoLA paper from the technical report. Peter set up
 
 * I am working with Kristofer on the deprecation of the traceability feature of the INTO-CPS Application. The works has just started, and we expect to remove 10 dependencies and a good amount of dead code... Eventually this may reduce the app size... 
 
-* Last Friday I was did some work to try improve the Spectron testing component, particularly trying to automate the current manual steps, as this prevents us to use the tests in a Continuous Integration environment.
+* Last Friday I did some work to try improve the Spectron testing component, particularly trying to automate the current manual steps, as this prevents us to use the tests in a Continuous Integration environment.
 
 * I have been in close contact with Mustafa regarding the tests and expect to do several improvements based on his comments. 
 

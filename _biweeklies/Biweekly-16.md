@@ -48,6 +48,14 @@ date: 22 April 2020, 1030 CEST
 
 * I recently became a fan of VSCode (The LaTeX Workshop plugin works impressive well right out of the box), and given the impressive and also quick results by Nick, Jonas, and Fredrik, I look forward into running the new VDM VSCode extension on my machine. I hope to report back soon.
 
+#### Casper
+* Various upgrades for Maestro and java native interface
+
+* Chrono for FMU development
+
+* Working on python fmu together with maestro
+
+* MaestroV2 progress
 
 ## Sub-projects status
 

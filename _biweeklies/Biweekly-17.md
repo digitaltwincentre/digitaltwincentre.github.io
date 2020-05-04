@@ -47,9 +47,11 @@ delay paper. He has been doing good advances on that side.
 #### Jim
 * I've been working on a paper on probability in RoboChart (deadline 4th May). I'll now return to the technical report and ISoLA paper on the tolerance language.
 
-#### Stakeholder 3
-* Discussion Point 1
-* Discussion Point 2
+#### Peter Gorm Larsen
+* Two more digital twin projects in the area of buildings have been approved (PI for AU for both of them are Jochen Teizer) 
+* Creased presentation that will be shown to the DiT4CPS board next week
+* Submitted HUBCAP extended draft to ESA's MBSE event in September
+* Another proposal involving digital twins was submitted to Villum Friday last week (we have a small role)
 
 ## Sub-projects status
 

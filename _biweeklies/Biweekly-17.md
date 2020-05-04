@@ -20,9 +20,28 @@ date: 06 May 2020, 1030 CEST
 
 <!-- Please keep in mind that the minutes are publicly available.-->
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### HDM
+  
+* The Three Water Tank is currently broken and needs a quick fix. No major 
+  rework or move. We just need somebody to merge the currently working version
+  as by Tutorial 1 and commit it to git. A major decision that we need to do,
+  is to whom we pass Carl's responsibility. This case study and the LFR one must
+  have an active maintainer.
+
+* There have been some advances in the water case study. There is a new lead from
+  Aarhus Vand, Lene for the ones who been to the meetings. From our side we will 
+  have Mustafa. Lene will kick-of new developments after discussions with Grundfoss.
+ 
+* I have been online in the last two Systems Engineering Tutorial sessions.
+
+* I have been helping  Hao to reuse the VDM model of the Ether example in our time 
+delay paper. He has been doing good advances on that side.
+
+* I was invited to present at a WATEC led virtual meeting next week.
+
+* I plan to add several improvements to my contribution to the ISOLA paper, but 
+  I did not find the time yet.
+
 
 #### Stakeholder 2
 * Discussion Point 1
@@ -36,8 +55,59 @@ date: 06 May 2020, 1030 CEST
 ## Sub-projects status
 
 
-#### Sub-project X
+#### INTO-CPS Application
 
+* Testing: Last week I was able to run the new spectron test on my machine, 
+  which means the tests are more robust. More work is being done to make the 
+  tests ready to check the CI pipeline. Me and Armine are working on developing
+  further tests.  We started Tutorial 3 last Friday to add to the covered
+  tests: 1,2,7,3.
+
+* Development: Traceability dead code was removed from the INTO-CPS App and it is in 
+  testing. We are refactoring the code, to separate Electron related features
+  from Angular features.
+    
+* New member: Mustafa has been welcomed to our dev team to fill in some gaps. He 
+  will be running tests and managing external tools. We are in the process of
+  (re-)/creating two procedures on how to test and how to update the INTO-CPS 
+  External Tools. 
+
+  
+#### Sub-project Y
+
+#### Sub-project Z
+
+
+#### Stakeholder 2
+* Discussion Point 1
+* Discussion Point 2
+
+#### Stakeholder 3
+* Discussion Point 1
+* Discussion Point 2
+
+
+## Sub-projects status
+
+
+#### INTO-CPS Application
+
+* Testing: Last week I was able to run the new spectron test on my machine, 
+  which means the tests are more robust. More work is being done to make the 
+  tests ready to check the CI pipeline. Me and Armine are working on developing
+  further tests.  We started Tutorial 3 last Friday to add to the covered
+  tests: 1,2,7,3.
+
+* Development: Traceability dead code was removed from the INTO-CPS App and it is in 
+  testing. We are refactoring the code, to separate Electron related features
+  from Angular features.
+    
+* New member: Mustafa has been welcomed to our team to fill in some gaps. He 
+  will be running tests and managing external tools. We are in the process of
+  (re-)/creating two procedures on how to test and how to update the INTO-CPS 
+  External Tools
+
+  
 #### Sub-project Y
 
 #### Sub-project Z

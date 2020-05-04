@@ -76,8 +76,6 @@ delay paper. He has been doing good advances on that side.
   
 #### Improve the DSE  
 
-# Plan for DSE
-
 I am preparing a maintenance plan to the DSE feature. I gathered a preliminary
 list of the tasks that need to be done. I foresee at least three people
 focusing on different parts: Python development, Angular Development, and 

@@ -85,7 +85,7 @@ be in charge of which of the following tasks.
 		* Remove dead code
 		* Remove unimplemented features
 		* Make sure the scripts file names case match the app
-    * Upgrade to Python 3
+    		* Upgrade to Python 3
 		 
 	* INTO-CPS App
 		* Correct issue #87

@@ -43,9 +43,8 @@ delay paper. He has been doing good advances on that side.
   I did not find the time yet.
 
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Jim
+* I've been working on a paper on probability in RoboChart (deadline 4th May). I'll now return to the technical report and ISoLA paper on the tolerance language.
 
 #### Stakeholder 3
 * Discussion Point 1

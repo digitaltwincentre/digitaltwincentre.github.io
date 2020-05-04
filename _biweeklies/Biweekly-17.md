@@ -22,9 +22,10 @@ date: 06 May 2020, 1030 CEST
 
 #### HDM
   
-* The Three Water Tank is currently broken and needs a quick fix. No major 
-  rework or move. We just need somebody to merge the currently working version
-  as by Tutorial 1 and commit it to git. A major decision that we need to do,
+* The Three Water Tank is currently broken and needs a quick fix:
+  (https://github.com/INTO-CPS-Association/example-three_tank_watertank/issues/2). 
+  No major rework or move. We just need somene to merge the currently working version
+  as by Tutorial 1 and commit it to git. A major decision that we need to do, though,
   is to whom we pass Carl's responsibility. This case study and the LFR one must
   have an active maintainer.
 

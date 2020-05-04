@@ -50,42 +50,6 @@ delay paper. He has been doing good advances on that side.
 * Discussion Point 1
 * Discussion Point 2
 
-
-## Sub-projects status
-
-
-#### INTO-CPS Application
-
-* Testing: Last week I was able to run the new spectron test on my machine, 
-  which means the tests are more robust. More work is being done to make the 
-  tests ready to check the CI pipeline. Me and Armine are working on developing
-  further tests.  We started Tutorial 3 last Friday to add to the covered
-  tests: 1,2,7,3.
-
-* Development: Traceability dead code was removed from the INTO-CPS App and it is in 
-  testing. We are refactoring the code, to separate Electron related features
-  from Angular features.
-    
-* New member: Mustafa has been welcomed to our dev team to fill in some gaps. He 
-  will be running tests and managing external tools. We are in the process of
-  (re-)/creating two procedures on how to test and how to update the INTO-CPS 
-  External Tools. 
-
-  
-#### Sub-project Y
-
-#### Sub-project Z
-
-
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
-
-#### Stakeholder 3
-* Discussion Point 1
-* Discussion Point 2
-
-
 ## Sub-projects status
 
 

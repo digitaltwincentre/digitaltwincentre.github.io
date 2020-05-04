@@ -108,7 +108,29 @@ delay paper. He has been doing good advances on that side.
   External Tools
 
   
-#### Sub-project Y
+#### Improve the DSE  
+
+# Plan for DSE
+
+I am preparing a maintenance plan to the DSE feature. I gathered a preliminary
+list of the tasks that need to be done. I foresee at least three people
+focusing on different parts: Python development, Angular Development, and 
+Educational/Training Material development. I am open to suggestions on who will
+be in charge of which of the following tasks.
+
+	* Python Scripts:
+		* Remove dead code
+		* Remove unimplemented features
+		* Make sure the scripts file names case match the app
+    * Upgrade to Python 3
+		 
+	* INTO-CPS App
+		* Correct issue #87
+
+	* Tutorial text 
+		* Reshape the long paragraphs
+		* Test the new steps
+
 
 #### Sub-project Z
 

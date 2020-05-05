@@ -60,6 +60,12 @@ delay paper. He has been doing good advances on that side.
 * I'm talking to Claudio about the possibility of helping out with a new FMI mathematical model.
 * A couple of bug fixes made to Overture/VDMJ due to Leo's work.
 
+#### Mustafa
+*  I have been working on test report of INTO-CPS tool new version 4.0.0 using first 9(nine) tutorials.
+*  I have been reading all materials relating to Aarhus Vand Digital Twin Project for my taking over the project.
+*  I am also planning to contribute to the paper whose title is "Introducing Angular Tests and Upgrades to the
+   INTO-CPS Application".
+
 ## Sub-projects status
 
 

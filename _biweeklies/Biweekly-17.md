@@ -66,6 +66,11 @@ delay paper. He has been doing good advances on that side.
 *  I am also planning to contribute to the paper whose title is "Introducing Angular Tests and Upgrades to the
    INTO-CPS Application".
 
+#### Casper Thle
+* Working on Maestro 2. Initializer plugin and Java Interpreter close to working.
+* Worked on Overture-FMU. Mac and Linux version working. Missing Windows version.
+* Maestro 1.0.10 released. Java native errors should not occur anymore.
+
 #### Christian Møldrup Legaard
 * Integrated FMU compliance checker and Maestro into PyFMU test suite.
 * Refactoring PyFMU to use Pybind11(C++) rather than the CPython api.

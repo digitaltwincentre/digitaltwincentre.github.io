@@ -53,6 +53,13 @@ delay paper. He has been doing good advances on that side.
 * Submitted HUBCAP extended draft to ESA's MBSE event in September
 * Another proposal involving digital twins was submitted to Villum Friday last week (we have a small role)
 
+#### Nick
+* I've resumed work on the FMI3 static model, bringing the VDM into line with the latest 3.0 XSD schema and FMU structure changes. They have moved several of the XML elements out of the main modelDescription.xml into separate buildDescription.xml and terminalsAndIcons.xml files within the FMU. The model still has static checking functions for these, so the VDMCheck tool is being updated to separately validate (up to) three XML files per FMU.
+* The LSP server is really pretty stable now for all dialects. I'm routinely using it, via the vscode IDE, to work with the FMI model. This is because (unlike Overture) it will process the @OnFail annotations, so it's easier to test.
+* I now own a copy of "Concrete Semantics" :-) I've read some of it too, with an eye to helping with Leo's work. I'm in touch with Jamie, who did the Isabelle translation.
+* I'm talking to Claudio about the possibility of helping out with a new FMI mathematical model.
+* A couple of bug fixes made to Overture/VDMJ due to Leo's work.
+
 ## Sub-projects status
 
 

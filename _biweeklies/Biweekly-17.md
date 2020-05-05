@@ -76,6 +76,11 @@ delay paper. He has been doing good advances on that side.
 * Refactoring PyFMU to use Pybind11(C++) rather than the CPython api.
 * It should now easier to maintain and potentially extend for FMI3
 
+#### Hao Feng
+* Working on a paper relative to a line-following robot with time-delayed control signal.
+* Built a co-simulation of a line-following robot with signals transmitted over an ethernet.
+* Preparing for a course project.
+
 ## Sub-projects status
 
 

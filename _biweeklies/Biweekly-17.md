@@ -66,6 +66,11 @@ delay paper. He has been doing good advances on that side.
 *  I am also planning to contribute to the paper whose title is "Introducing Angular Tests and Upgrades to the
    INTO-CPS Application".
 
+#### Christian Møldrup Legaard
+* Integrated FMU compliance checker and Maestro into PyFMU test suite.
+* Refactoring PyFMU to use Pybind11(C++) rather than the CPython api.
+* It should now easier to maintain and potentially extend for FMI3
+
 ## Sub-projects status
 
 

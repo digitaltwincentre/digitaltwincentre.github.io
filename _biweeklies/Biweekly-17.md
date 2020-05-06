@@ -81,6 +81,11 @@ delay paper. He has been doing good advances on that side.
 * Built a co-simulation of a line-following robot with signals transmitted over an ethernet.
 * Preparing for a course project.
 
+#### Claudio Gomes
+* Working on Marie Curie EF proposal (something along run time monitoring with guaranteed numerical models)
+* Got blessing from fmi to work on journal paper with mathematical models of the interface.
+* Preliminary calibration of single joint model of a UR robot done (with much help from Carlos)
+
 ## Sub-projects status
 
 

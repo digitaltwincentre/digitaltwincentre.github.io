@@ -86,6 +86,9 @@ delay paper. He has been doing good advances on that side.
 * Got blessing from fmi to work on journal paper with mathematical models of the interface.
 * Preliminary calibration of single joint model of a UR robot done (with much help from Carlos)
 
+#### Carlos Hansen
+* Work on calibrating the model of the robotic arm, thanks to the great help from Claudio, we found conceptual errors and we are restructuring the model
+
 ## Sub-projects status
 
 

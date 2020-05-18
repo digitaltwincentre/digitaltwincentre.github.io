@@ -34,10 +34,19 @@ date: 20 May 2020, 1030 CEST
 #### Jim
 * Made progress with three research proposal bids in the UK. All are on different aspects of Trustworthy Autonomous Systems: Verification, Security, and Resilience, respectively. Started work on joint research proposal on collaboration between Peter's group in Aarhus and mine in York.
 
-#### Stakeholder 3
-* Discussion Point 1
-* Discussion Point 2
+#### Peter
+* Had successful board meeting with the PDJ Foundation project board
+* Coordinated on the Isola paper together with Jim
+* Suggested Joint Webinar from HUBCAP, Centre for Digital Twins, INTO-CPS Association
+** 29th June from 10h00 to 12h00 CEST
 
+* 10:00: The Future of MBD CPS Development by Peter Gorm Larsen
+* 10:20: Demonstrating the the INTO-CPS Application inside the HUBCAP collaboration platform sandbox by Hugo Daniel Macedo
+* 10:50: Demonstrating the RT-Tester functionality and its connection to INTO-CPS Application by Jörg Brauer
+* 11:10: Demonstrating the FMU Static Checker by Nick Battle
+* 11:20: Demonstrating the Python FMU capabilities by Christian Legaard
+* 11:40: Presenting the RabbitFMU capability by Casper Thule
+* 11:55: Closing remarks by Peter Gorm Larsen
 
 ## Sub-projects status
 

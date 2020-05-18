@@ -47,6 +47,12 @@ date: 20 May 2020, 1030 CEST
 * 11:40: Presenting the RabbitFMU capability by Casper Thule
 * 11:55: Closing remarks by Peter Gorm Larsen
 
+#### Mustafa
+* have completed test report of INTO-CPS app new version 4.0.0 using the first 9(nine) tutorials. Now, I have been working on 
+writing testing procedures of INTO-CPS app.
+* have been continuing to read all materials relating to Aarhus Vand Digital Twin Project.
+* have a meeting with Claudio and Capser on the TLA+ state generation model for the RabbitMQ FMU.
+
 ## Sub-projects status
 
 

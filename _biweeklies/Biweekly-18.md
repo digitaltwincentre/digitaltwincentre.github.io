@@ -37,9 +37,8 @@ date: 20 May 2020, 1030 CEST
 #### Peter
 * Had successful board meeting with the PDJ Foundation project board
 * Coordinated on the Isola paper together with Jim
-* Suggested Joint Webinar from HUBCAP, Centre for Digital Twins, INTO-CPS Association
-** 29th June from 10h00 to 12h00 CEST
-
+* Suggested Joint Webinar from HUBCAP, Centre for Digital Twins, INTO-CPS Association:
+* 29th June from 10h00 to 12h00 CEST
 * 10:00: The Future of MBD CPS Development by Peter Gorm Larsen
 * 10:20: Demonstrating the the INTO-CPS Application inside the HUBCAP collaboration platform sandbox by Hugo Daniel Macedo
 * 10:50: Demonstrating the RT-Tester functionality and its connection to INTO-CPS Application by Jörg Brauer

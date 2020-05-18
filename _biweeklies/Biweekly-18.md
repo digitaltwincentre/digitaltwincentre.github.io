@@ -27,9 +27,9 @@ date: 20 May 2020, 1030 CEST
 * The FMI3 model itself is progressing, though there is still a dizzying amount of change still coming into the spec from the Community. The initialization of the four possible calls to fmi3InstantiateXXX are now complete, though testing continues.
 * Some bug fixes to Overture that came in via Leo and PJ. Helping Hugo with the test of the latest RC.
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Casper
+* Worked on Maestrov2. Has initialization plugin, fixed step plugin and csv plugin. Supports existing multimodel format.
+* MaestroV2 also gives some insights on the into-cps app. Expect to set up a meeting with Hugo about maestrov2 and into-cps app.
 
 #### Stakeholder 3
 * Discussion Point 1
@@ -39,7 +39,9 @@ date: 20 May 2020, 1030 CEST
 ## Sub-projects status
 
 
-#### Sub-project X
+#### Sub-project Desktop Robotti
+* Students are starting to work on it - awesome!
+* Still awaiting Chrono Input from Frederik.
 
 #### Sub-project Y
 

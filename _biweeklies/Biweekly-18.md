@@ -31,6 +31,9 @@ date: 20 May 2020, 1030 CEST
 * Worked on Maestrov2. Has initialization plugin, fixed step plugin and csv plugin. Supports existing multimodel format.
 * MaestroV2 also gives some insights on the into-cps app. Expect to set up a meeting with Hugo about maestrov2 and into-cps app.
 
+#### Jim
+* Made progress with three research proposal bids in the UK. All are on different aspects of Trustworthy Autonomous Systems: Verification, Security, and Resilience, respectively. Started work on joint research proposal on collaboration between Peter's group in Aarhus and mine in York.
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2
@@ -43,7 +46,8 @@ date: 20 May 2020, 1030 CEST
 * Students are starting to work on it - awesome!
 * Still awaiting Chrono Input from Frederik.
 
-#### Sub-project Y
+#### Tolerance language
+* Completred a new draft of the ISoLA paper. Discussed the contents with Peter and formed a plan to complete the missing sections (Introduction and Conclusions).
 
 #### Sub-project Z
 

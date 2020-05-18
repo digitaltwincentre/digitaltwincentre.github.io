@@ -22,8 +22,10 @@ date: 20 May 2020, 1030 CEST
 
 #### Nick
 * VDMCheck3 now checks up to three separate XML files from within an FMU, to account for the new FMI3 structures. Individual XML files of any type can also be checked.
-* I'm working on the FMI3 VDM model using VS Code and the LSP server. This helps to flush out problems as well as highlighting which features are useful to add. Basic commands now added to the interface, which makes it more like Overture/VDMJ's command line.
+* I'm working on the FMI3 VDM model using VS Code and the LSP server. This helps to flush out LSP problems as well as highlighting which features are useful to add to the server. Basic commands now added to the execution interface, which makes it more like Overture/VDMJ's command line (so `print expression` and `set annotations off` etc).
+* Widening the group of people who are willing to try out the LSP server. Paul Chisholm is now using it as well as Leo.
 * The FMI3 model itself is progressing, though there is still a dizzying amount of change still coming into the spec from the Community. The initialization of the four possible calls to fmi3InstantiateXXX are now complete, though testing continues.
+* Some bug fixes to Overture that came in via Leo and PJ. Helping Hugo with the test of the latest RC.
 
 #### Stakeholder 2
 * Discussion Point 1

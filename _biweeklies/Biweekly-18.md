@@ -47,17 +47,7 @@ date: 20 May 2020, 1030 CEST
 * 11:40: Presenting the RabbitFMU capability by Casper Thule
 * 11:55: Closing remarks by Peter Gorm Larsen
 
-In addition the plan is to organise INTO-CPS Application Developers Workshop (mainly AU Internal but open to interested parties)
-
-29th June from 14h00 to 15h30 CEST
-
-* 14:00: Opening by Hugo Daniel Macedo 
-* 14:10: The status of the Maestro V2 by Casper Thule
-* 14:20: Modernizing the INTO-CPS Application by Kristoffer Villadsen
-* 14:30: Testing the INTO-CPS App Tutorials using Spectron by Armine Sanjari
-* 14:40: New Test and Upgrade Procedures by Mustafa Dinc
-* 14:50: Q&A and Discussion on The Future of the INTO-CPS Application by Hugo Daniel Macedo
-
+In addition the plan is to organise INTO-CPS Application Developers Workshop (mainly AU Internal but open to interested parties) as reported by Hugo below.
 
 #### Mustafa
 * have completed test report of INTO-CPS app new version 4.0.0 using the first 9(nine) tutorials. Now, I have been working on 

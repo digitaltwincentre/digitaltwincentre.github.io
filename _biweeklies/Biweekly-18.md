@@ -54,6 +54,29 @@ writing testing procedures of INTO-CPS app.
 * found that the download manager of the latest INTO-CPS App downloads a 20-sim version 4.8.1 that exports broken FMUs. We confirmed that the new 4.8.2 version was generating working FMUs. So, I will update the version of 20-sim in downloads.
 * have a meeting with Claudio and Capser on the TLA+ state generation model for the RabbitMQ FMU.
 
+#### Hugo Daniel Macedo
+* There is interest in operating the cloud into-cps soon.
+* I gave a talk to Grundfos and AU's WATEC center on the Aarhus Water case. Received positive feedback, added a couple of contacts to the followers/interested partners group. Some advances in building interdisciplinary teams to address the Data/Waste Water lines challenge mentioned at the Aarhus Vand presentation at the Internal Workshop 
+* Reports on the developments in the Overture and INTO-CPS Application can be found below
+* Working with Hao to improve the paper on Time Delay Systems and its readaptation of the Ether FMU from the INTO-CPS Examples.
+* Suggested to join a INTO-CPS Application Developers Workshop (mainly AU Internal but open to interested parties from the morning seminar mentioned above) to PGL suggestion
+
+29th June from 14h00 to 15h30 CEST
+
+* 14:00: Opening by Hugo Daniel Macedo
+
+* 14:10: The status of the Maestro V2 by Casper Thule
+
+* 14:20: Modernizing the INTO-CPS Application by Kristoffer Villadsen
+
+* 14:30: Testing the INTO-CPS App Tutorials using Spectron by Armine Sanjari
+
+* 14:40: New Test and Upgrade Procedures by Mustafa Dinc
+
+* 14:50: Q&A and Discussion on The Future of the INTO-CPS Application by Hugo Daniel Macedo 
+
+Despite the "workshop" work in the title, it is conceived as a sequence of lightning talks with Q&A and ideas discussion at the end.
+
 ## Sub-projects status
 
 
@@ -64,7 +87,17 @@ writing testing procedures of INTO-CPS app.
 #### Tolerance language
 * Completred a new draft of the ISoLA paper. Discussed the contents with Peter and formed a plan to complete the missing sections (Introduction and Conclusions).
 
-#### Sub-project Z
+#### INTO-CPS Application
+* INTO-CPS first usage on a Sandbox was made last week.
+* Working on covering Tutorial 9 and 11 with the Spectron tests. The first dev cycle on testing is coming to an end. Right on time before student exam period.
+* Traceability work was merged to the development branch. Kristoffer is taking the lead on issue 88 regarding the broken setting json file, which causes trouble with the app (blank electron screen)
+* INTO-CPS first usage on a HUBCAP Sandbox was made last week.
+
+
+#### Overture Tool
+* Preparing the 3.0.0 release. A release candidate was distributed. Most features are OK, but no release is to be made soon due to some long-standing Overture issues. I will have a go on the issues ASAP.
+* Added the possibility to declare two files with the same name given those are placed into different folders. 
+
 
 ##  Any Other Business
 

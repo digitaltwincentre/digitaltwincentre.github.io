@@ -75,7 +75,7 @@ writing testing procedures of INTO-CPS app.
 
 * 14:50: Q&A and Discussion on The Future of the INTO-CPS Application by Hugo Daniel Macedo 
 
-Despite the "workshop" work in the title, it is conceived as a sequence of lightning talks with Q&A and ideas discussion at the end.
+Despite the "workshop" word in the title, it is conceived as a sequence of lightning talks with Q&A and ideas discussion at the end.
 
 ## Sub-projects status
 

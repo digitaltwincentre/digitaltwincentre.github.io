@@ -51,6 +51,7 @@ date: 20 May 2020, 1030 CEST
 * have completed test report of INTO-CPS app new version 4.0.0 using the first 9(nine) tutorials. Now, I have been working on 
 writing testing procedures of INTO-CPS app.
 * have been continuing to read all materials relating to Aarhus Vand Digital Twin Project.
+* found that the download manager of the latest INTO-CPS App downloads a 20-sim version 4.8.1 that exports broken FMUs. We confirmed that the new 4.8.2 version was generating working FMUs. So, I will update the version of 20-sim in downloads.
 * have a meeting with Claudio and Capser on the TLA+ state generation model for the RabbitMQ FMU.
 
 ## Sub-projects status

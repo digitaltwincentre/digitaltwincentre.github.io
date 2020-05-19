@@ -88,7 +88,7 @@ Despite the "workshop" work in the title, it is conceived as a sequence of light
 * Completred a new draft of the ISoLA paper. Discussed the contents with Peter and formed a plan to complete the missing sections (Introduction and Conclusions).
 
 #### INTO-CPS Application
-* INTO-CPS first usage on a hubcap.eu Sandbox was made last week.
+* INTO-CPS first usage on a <hubcap.eu> Sandbox was made last week.
 * Working on covering Tutorial 9 and 11 with the Spectron tests. The first dev cycle on testing is coming to an end. Right on time before student exam period.
 * Traceability work was merged to the development branch. Kristoffer is taking the lead on issue 88 regarding the broken setting json file, which causes trouble with the app (blank electron screen)
 * INTO-CPS first usage on a HUBCAP Sandbox was made last week.

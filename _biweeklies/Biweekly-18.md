@@ -79,6 +79,11 @@ writing testing procedures of INTO-CPS app.
 
 Despite the "workshop" word in the title, it is conceived as a sequence of lightning talks with Q&A and ideas discussion at the end.
 
+#### Carlos Hansen
+
+* Continue modelling the Manufacturing case, focusing on positioning (Kinematics) rather than in the dynamic setup.
+* *** Will not be at the meeting due to sickness***
+
 ## Sub-projects status
 
 

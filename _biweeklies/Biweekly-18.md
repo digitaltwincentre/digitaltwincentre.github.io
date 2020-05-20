@@ -87,6 +87,11 @@ Despite the "workshop" word in the title, it is conceived as a sequence of light
 * Continue modelling the Manufacturing case, focusing on positioning (Kinematics) rather than in the dynamic setup.
 * *** Will not be at the meeting due to sickness***
 
+#### Claudio Gomes
+* Me and Carlos get the dynamical model of the robot to work, but no luck with calibration
+* Working with Christian on ML of ODEs
+
+
 ## Sub-projects status
 
 

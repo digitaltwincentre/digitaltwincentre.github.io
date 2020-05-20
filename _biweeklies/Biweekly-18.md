@@ -30,8 +30,9 @@ date: 20 May 2020, 1030 CEST
 #### Casper
 * Worked on Maestrov2. Has initialization plugin, fixed step plugin and csv plugin. Supports existing multimodel format.
 * MaestroV2 also gives some insights on the into-cps app. Expect to set up a meeting with Hugo about maestrov2 and into-cps app.
-* Succesfully build Chrono Engine and Frederiks Chrono demo on Mac OS.
-* Overture FMU cross-compilation is progression
+* Succesfully build Chrono Engine and Frederiks Chrono demo on Mac OS. Will proceed to mapping.
+* Overture FMU cross-compilation has succeeded but needs testing to ensure its functionality. Attempting to figure out how github actions artifact transfer functinoality works!
+* FMI 3 java native interface fmu api?
 
 #### Jim
 * Made progress with three research proposal bids in the UK. All are on different aspects of Trustworthy Autonomous Systems: Verification, Security, and Resilience, respectively. Started work on joint research proposal on collaboration between Peter's group in Aarhus and mine in York.

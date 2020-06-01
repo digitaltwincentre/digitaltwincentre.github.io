@@ -26,9 +26,9 @@ date: 03 June 2020, 1030 CEST
 * Gave up on the digital twin plan with Terma for now
 * Supplied digital twin feedback for a Danish paper on digital twins (see https://ipaper.ipapercms.dk/TekniskLandsforbund/teknikeren-2020/teknikeren-032020/?page=18#/)
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Jim Woodcock
+* Completed near-final draft of ISoLa 2020 paper with Peter, Cláudio, and Hugo.
+* Working on a new research proposal for Digital Twins: UK EPSRC's Centre to Centre programme.
 
 #### Stakeholder 3
 * Discussion Point 1

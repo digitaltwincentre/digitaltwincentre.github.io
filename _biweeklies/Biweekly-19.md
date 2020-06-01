@@ -30,7 +30,12 @@ date: 03 June 2020, 1030 CEST
 * Completed near-final draft of ISoLa 2020 paper with Peter, Cláudio, and Hugo.
 * Working on a new research proposal for Digital Twins: UK EPSRC's Centre to Centre programme.
 
-#### Stakeholder 3
+#### Claudio Gomes
+* Finally got some decent calibration results out of the UR3E Robot (torque equations only).
+* Working on Isola 2020 paper
+* Misc FMI-standard tasks. 
+
+#### Stakeholder
 * Discussion Point 1
 * Discussion Point 2
 

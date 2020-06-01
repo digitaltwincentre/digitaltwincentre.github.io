@@ -35,10 +35,13 @@ date: 03 June 2020, 1030 CEST
 * Working on Isola 2020 paper
 * Misc FMI-standard tasks. 
 
-#### Stakeholder
-* Discussion Point 1
-* Discussion Point 2
-
+#### Nick Battle
+* Made some progress with the FMI3 API model, as well as some updates to the static semantics as the FMI Standard is being changed.
+* Fixed conditional breakpoints, hit counts and tracepoints in the LSP server, so you can now stop conditionally, stop when the break hitcount is =, >, >= or a multiple of some number, and "trace evaluate" expressions as the tracepoints are reached, without stopping.
+* Raised some problems with the (new) Reference FMUs defined in the FMI Standard repository, both for FMI2 and FMI3.
+* Made a couple of Overture fixes, following from bugs raised by Fuyuki Ishikawa.
+* Had a quick look at some Maestro user documentation.
+* Reviewed an ACM Survey document.
 
 ## Sub-projects status
 

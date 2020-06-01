@@ -35,6 +35,12 @@ date: 03 June 2020, 1030 CEST
 * Working on Isola 2020 paper
 * Misc FMI-standard tasks. 
 
+#### Mustafa Dinç
+* Have still been working on writing testing procedures of INTO-CPS app.
+* Reviewed WATEC presentation made by Hugo regarding Aarhus Vand Digital Twin Project.
+* found that the download manager of the latest INTO-CPS App downloads a 20-sim version 4.8.1 that exports broken FMUs. So, I updated the new version (4.8.2) of 20-sim in downloads.
+* have been working on converting states from the TLA+ model checker into states for the rabbitmq fmu.
+
 #### Nick Battle
 * Made some progress with the FMI3 API model, as well as some updates to the static semantics as the FMI Standard is being changed.
 * Fixed conditional breakpoints, hit counts and tracepoints in the LSP server, so you can now stop conditionally, stop when the break hitcount is =, >, >= or a multiple of some number, and "trace evaluate" expressions as the tracepoints are reached, without stopping.

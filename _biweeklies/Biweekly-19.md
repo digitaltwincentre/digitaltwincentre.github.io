@@ -20,9 +20,11 @@ date: 03 June 2020, 1030 CEST
 
 <!-- Please keep in mind that the minutes are publicly available.-->
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### Peter Gorm Larsen
+* Working on different papers for the ditital twin track of Isola 2020
+* Progressed the different MADE FAST part projects involvement of digital twins
+* Gave up on the digital twin plan with Terma for now
+* Supplied digital twin feedback for a Danish paper on digital twins (see https://ipaper.ipapercms.dk/TekniskLandsforbund/teknikeren-2020/teknikeren-032020/?page=18#/)
 
 #### Stakeholder 2
 * Discussion Point 1

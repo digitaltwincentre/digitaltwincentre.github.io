@@ -49,6 +49,13 @@ date: 03 June 2020, 1030 CEST
 * Had a quick look at some Maestro user documentation.
 * Reviewed an ACM Survey document.
 
+#### Hugo Daniel Macedo
+* Fixed a couple of issues of Overture. I am currently looking at longstanding issues caused by several deprecated APIs. I hope this will fix the Debug Perspective layout problem. 
+* First development cycle of tests for the INTO-CPS App reached full coverage of Tutorials 1 to 11. The Work will be presented on the 29th, and Armine is on "study for exams vacation" leave until then. 
+* Helped Kristoffer solve a INTO-CPS settings loading problem forcing the user to delete the json file to be able to launch the app. Working on a close project button feature, which is intersting regarding testing purposes.
+* Worked with Hao on a DSE approach to compute tolerable delays in a refinement of the LFR model. 
+* Contributed to the Isola Tolerance Paper.
+
 ## Sub-projects status
 
 

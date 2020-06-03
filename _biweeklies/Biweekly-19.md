@@ -63,6 +63,9 @@ date: 03 June 2020, 1530 CEST
 * Working on Maestro 2. Can run co-simulation. Executed new performance test - good results again.
 * Simon Hansen is working on new initialization plugin
 
+#### Carlos Hansen
+* Got the calibrated parameters for positioning of the UR3e robot.
+
 ## Sub-projects status
 
 

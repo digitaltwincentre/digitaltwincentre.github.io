@@ -13,7 +13,7 @@ date: 03 June 2020, 1530 CEST
 
 |||
 |---|---|
-| Date | 03 June 2020, 10:30 CEST |
+| Date | 03 June 2020, 15:30 CEST |
 
 
 ## Pre-meeting stakeholder's reports

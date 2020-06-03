@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Biweekly 20
-date: 01 July 2020, 1030 CEST
+date: 17 June 2020, 1030 CEST
 ---
 
 <script src="https://code.jquery.com/jquery-1.11.1.min.js">
@@ -13,7 +13,7 @@ date: 01 July 2020, 1030 CEST
 
 |||
 |---|---|
-| Date | 01 July 2020, 10:30 CEST |
+| Date | 17 June 2020, 10:30 CEST |
 
 
 ## Pre-meeting stakeholder's reports
@@ -47,7 +47,7 @@ date: 01 July 2020, 1030 CEST
 Next Meeting
 ------------
 
-15 July 2020, 1030 CET
+To be defined before mid August.
 
 
 <div id="edit_page_div"></div>

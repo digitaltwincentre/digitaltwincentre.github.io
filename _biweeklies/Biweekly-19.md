@@ -57,7 +57,7 @@ date: 03 June 2020, 1530 CEST
 * Contributed to the Isola Tolerance Paper.
 
 #### Casper Thule & Kenneth Lausdahl
-* Fixed overture-FMU such that it works the mac catalana. Also updated internal dependences.
+* Fixed overture-FMU such that it works on mac catalana. Also updated internal dependences.
 * Fixed rabbitmq-fmu, such that it is cross-platform. Needs documentatino and needs linux testing. Needs to be checked with tla model.
 * Working on wrapping robotti within an FMU. Sanity check has been conducted and compilation is ongoing.
 * Working on Maestro 2. Can run co-simulation. Executed new performance test - good results again.

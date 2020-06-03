@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Biweekly 19
-date: 03 June 2020, 1030 CEST
+date: 03 June 2020, 1530 CEST
 ---
 
 <script src="https://code.jquery.com/jquery-1.11.1.min.js">

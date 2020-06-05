@@ -81,6 +81,10 @@ date: 03 June 2020, 1530 CEST
   - built in package manager and cross platform build.
   - definitly a more pleasant development experience.
 
+#### Prasad Talasila
+* Joined HUBCAP project this week.
+* Started review of *D5.1 HUBCAP Collaboration Platform Prototype_0.41* report.
+* Working on fixing the memory leak and porting bugs in Overture.
 
 ## Sub-projects status
 

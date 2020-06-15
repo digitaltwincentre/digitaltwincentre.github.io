@@ -20,9 +20,10 @@ date: 17 June 2020, 1030 CEST
 
 <!-- Please keep in mind that the minutes are publicly available.-->
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### Peter Gorm Larsen
+* Produced my first blog today at medium.com (about digital twins)
+* Almost complete with additional PhD project with Kamstrup to be added to teh MSDE FAST project (meet with top-level management from Kamstrup on 16-6)
+* The Norwegium centre for digital twins was unfortunately not funded
 
 #### Stakeholder 2
 * Discussion Point 1

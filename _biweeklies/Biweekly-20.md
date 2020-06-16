@@ -42,7 +42,7 @@ date: 17 June 2020, 1030 CEST
 * Some VDMJ and Overture bug fixes, either found while modelling or via Leo.
 * Downloaded and reviewed the Maestro 2.0.0-alpha code, feedack sent - I will also give some thoughts on how best to create the type checking for MABL.
 * LSP is now capable of debugging the initialization of a specification. Overture cannot do this, and it is a very useful feature (when your spec will not initialize!)
-* Started to refresh my familiarity with solving differential equations, in anticipation of work on Claudio's new model.
+* Started to refresh my familiarity with differential equations, in anticipation of work on Claudio's new model.
 * Used VDMCheck3 to identify various errors in the FMI standard examples, and created a PR to fix.
 
 

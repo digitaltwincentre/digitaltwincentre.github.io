@@ -25,9 +25,12 @@ date: 17 June 2020, 1030 CEST
 * Almost complete with additional PhD project with Kamstrup to be added to teh MSDE FAST project (meet with top-level management from Kamstrup on 16-6)
 * The Norwegium centre for digital twins was unfortunately not funded
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Claudio Gomes
+* Reviewing papers and chair duties for summersim 2020 - CPS track
+* Cosimcps administration work (mostly publicity)
+* Polishing case study of Viola paper
+* Met with Bentley Oakes about possibility of using his python tool to implement property monitoring.
+* Will attend the fmi design meeting this week (Wednesday and Friday)
 
 #### Stakeholder 3
 * Discussion Point 1

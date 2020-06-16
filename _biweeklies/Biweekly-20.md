@@ -32,6 +32,10 @@ date: 17 June 2020, 1030 CEST
 * Met with Bentley Oakes about possibility of using his python tool to implement property monitoring.
 * Will attend the fmi design meeting this week (Wednesday and Friday)
 
+#### Jim Woodcock
+* Continued working on Viola the paper for ISoLA.
+* Started work on the Centre-to-Centre proposal for robotic digital twins.
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

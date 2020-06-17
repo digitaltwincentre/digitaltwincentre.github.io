@@ -72,6 +72,7 @@ THe state space has to be trimmed somehow! Ideas or general approaches are welco
     
 * Work in progress
     * Help Leo Freitas solve memory leak for his proprietary VDMJ model.
+    * Work with Hugo to fix errors in Overture and release the next version.    
     * Complete parts of IntoCPS tool upgrade paper.
     * Work with Hugo on setting up the sanbox demonstration of IntoCPS tool.
     * Get started with Maestro v2 development.

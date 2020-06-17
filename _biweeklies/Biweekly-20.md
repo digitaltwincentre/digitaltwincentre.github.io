@@ -48,6 +48,11 @@ date: 17 June 2020, 1030 CEST
 #### Carlos Hansen
 * Extension of the Universal Robot Library to command the robot via a PC
 
+#### Hugo Daniel Macedo
+* Submitted paper with Hao Feng on a time delay analysis analysis of a networked control version of our line follower robot.
+* Met with Prasad to go over Overture issues and the tool and the INTO-CPS tool build process. 
+* Met with Kristoffer to discuss the Modernizing the INTO-CPS Application talk outline.
+* Added the INTO-CPS line follower robot to the HUBCAP platform.
 
 ## Sub-projects status
 

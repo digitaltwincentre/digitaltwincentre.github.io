@@ -25,6 +25,16 @@ date: 17 June 2020, 1030 CEST
 * Almost complete with additional PhD project with Kamstrup to be added to teh MSDE FAST project (meet with top-level management from Kamstrup on 16-6)
 * The Norwegium centre for digital twins was unfortunately not funded
 
+#### Casper Thule & Kenneth Lausdahl
+* Got summersim 2020 paper on rabbitmq FMU accepted
+* Documenting and updating rabbitMQ FMU
+* Working with Simon on CoSimCPS 2020 paper on the new initialization plugin for Maestro 2
+* Working on chronoengine FMU (Robotti) (Successfully compiled chronoengine example on github actions)
+* Working on Maestro2 (Livelogging now working) - next step is maturity.
+* Working with Mustafa on generating json tests for testing RabbitMQ FMU
+* Something seems off with the test strategy on generaitng tests for rabbitmq from tla+. We are going to get 2.5 million+.
+THe state space has to be trimmed somehow! Ideas or general approaches are welcome.
+
 #### Claudio Gomes
 * Reviewing papers and chair duties for summersim 2020 - CPS track
 * Cosimcps administration work (mostly publicity)

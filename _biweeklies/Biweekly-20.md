@@ -45,6 +45,9 @@ date: 17 June 2020, 1030 CEST
 * Started to refresh my familiarity with differential equations, in anticipation of work on Claudio's new model.
 * Used VDMCheck3 to identify various errors in the FMI standard examples, and created a PR to fix.
 
+#### Carlos Hansen
+* Extension of the Universal Robot Library to command the robot via a PC
+
 
 ## Sub-projects status
 

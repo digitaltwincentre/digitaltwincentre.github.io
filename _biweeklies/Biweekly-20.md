@@ -59,7 +59,7 @@ THe state space has to be trimmed somehow! Ideas or general approaches are welco
 * Extension of the Universal Robot Library to command the robot via a PC
 
 #### Hugo Daniel Macedo
-* Submitted paper with Hao Feng on a time delay analysis analysis of a networked control version of our line follower robot.
+* Submitted paper with Hao Feng and Peter Gorm Larsen on a time delay analysis analysis of a networked control version of our line follower robot. We propose to estimate maximum allowable delay bounds using the DSE feature of the INTO-CPS Application. 
 * Met with Prasad to go over Overture issues and the tool and the INTO-CPS tool build process. 
 * Met with Kristoffer to discuss the Modernizing the INTO-CPS Application talk outline.
 * Added the INTO-CPS line follower robot to the HUBCAP platform.

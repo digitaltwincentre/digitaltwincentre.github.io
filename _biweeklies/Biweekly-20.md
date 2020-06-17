@@ -64,6 +64,18 @@ THe state space has to be trimmed somehow! Ideas or general approaches are welco
 * Met with Kristoffer to discuss the Modernizing the INTO-CPS Application talk outline.
 * Added the INTO-CPS line follower robot to the HUBCAP platform.
 
+#### Prasad Talasila
+* Work completed
+    * Worked with Hugo on the memory leak problems in Overture. The memory leak problems in Overture core are fixed.
+    * Review and improvements for *D5.1 HUBCAP collaboration platform prototype* document.
+    * Install and run IntoCPS tutorials and tests on the local computer. These will be useful for writing the paper on upgrades to IntoCPS tool.
+    
+* Work in progress
+    * Help Leo Freitas solve memory leak for his proprietary VDMJ model.
+    * Complete parts of IntoCPS tool upgrade paper.
+    * Work with Hugo on setting up the sanbox demonstration of IntoCPS tool.
+    * Get started with Maestro v2 development.
+
 ## Sub-projects status
 
 

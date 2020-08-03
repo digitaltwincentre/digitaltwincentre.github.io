@@ -20,9 +20,9 @@ date: 04 August 2020, 1430 CEST
 
 <!-- Please keep in mind that the minutes are publicly available.-->
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### Peter Gorm Larsen
+* I will give a keynote about digital twins at the SERENE workshop on the 7th of September
+* Have been involved in 3 papers on digital twins submitted to the Isola conference
 
 #### Stakeholder 2
 * Discussion Point 1

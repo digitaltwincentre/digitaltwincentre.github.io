@@ -24,9 +24,12 @@ date: 04 August 2020, 1430 CEST
 * I will give a keynote about digital twins at the SERENE workshop on the 7th of September
 * Have been involved in 3 papers on digital twins submitted to the Isola conference
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Nick Battle
+* Testing Overture RCs with Hugo
+* Enable automatic generation of VDM-SL for mode/state permissions from FMI3 API matrix spreadsheet.
+* Webinar at end June.
+* More cleanup of VDMJ visitors.
+* 100% API "signature" for FMI3, but some APIs are still "not yet specified".
 
 #### HDM
 * Working towards release of Overture

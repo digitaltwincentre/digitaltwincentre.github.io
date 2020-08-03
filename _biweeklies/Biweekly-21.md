@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Biweekly 21
-date: 04 August 2020, 1400 CEST
+date: 04 August 2020, 1430 CEST
 ---
 
 <script src="https://code.jquery.com/jquery-1.11.1.min.js">

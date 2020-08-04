@@ -54,6 +54,12 @@ date: 04 August 2020, 1430 CEST
 * Created network diagrams for extensions to HUBCAP sandbox environment
 * TODO: tool development
 
+#### Maurizio Palmieri
+* Submitted a paper to Cosim-CPS 2020 about Processor Emulation within co-simulation using SESAM
+* Got a paper accepted on the MDPI journal Energies, about integration of formal methods and co-simulation
+* Presented a paper to SummerSim2020 about co-siulation of a bio-inspired algorithm for map exploration
+* About to go on holidays
+
 
 ## Sub-projects status
 

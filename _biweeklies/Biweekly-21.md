@@ -48,6 +48,13 @@ date: 04 August 2020, 1430 CEST
 * Delivered presentation at Summersim 2020
 * Returned from Vacation
 
+#### Prasad Talasila
+* Working on the drafts for FMU package manager and public cloud-specific version of co-simulation setup along the lines of HUBCAP.
+* Going through the AWS services to pick the right ones for cloud-specific deployment of co-simulation.
+* Created network diagrams for extensions to HUBCAP sandbox environment
+* TODO: tool development
+
+
 ## Sub-projects status
 
 

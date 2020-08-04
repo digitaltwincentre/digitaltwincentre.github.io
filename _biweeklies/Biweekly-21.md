@@ -36,6 +36,11 @@ date: 04 August 2020, 1430 CEST
 * Working on INTO-CPS App DSE UI
 * Meet with Aarhus Vand and received data "pakke" to run case study on.
 
+#### Casper Thule
+* Fixing various things in Maestro
+* Worked on Maestro2 - considering to make it more research feature-drivenish and less software-engineeringish (ish ish ish)
+* Working on Chrono FMU
+* Called meeting on collective case study on August 10+, when all are back from vacation.
 
 ## Sub-projects status
 

@@ -42,6 +42,12 @@ date: 04 August 2020, 1430 CEST
 * Working on Chrono FMU
 * Called meeting on collective case study on August 10+, when all are back from vacation.
 
+#### Christian Møldrup Legaard
+* Working with Peter on improving BSc programming course
+* Working with Prasad (he did all the work) on proposal on a package manager for publishing and sharing FMUs
+* Delivered presentation at Summersim 2020
+* Returned from Vacation
+
 ## Sub-projects status
 
 

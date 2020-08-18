@@ -28,9 +28,8 @@ date: 18 August 2020, 1430 CEST
 * read some materials about graph neural network 
 * Discussed with a PhD in Aalborg university regarding to a potential paper
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Jim Woodcock
+* I've been working on an outline joint research bid between Aarhus and York on robotic digital twins (one of the reseach strands is specifically on the discrepancy language). I now have a complete draft of the case for support. I've had feedback from PGL. I have a meeting on 18 August pm with Ana C to review the proposal. Target date for submission is 8 September.
 
 #### Stakeholder 3
 * Discussion Point 1

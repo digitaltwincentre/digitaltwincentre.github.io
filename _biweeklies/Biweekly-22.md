@@ -31,9 +31,12 @@ date: 18 August 2020, 1430 CEST
 #### Jim Woodcock
 * I've been working on an outline joint research bid between Aarhus and York on robotic digital twins (one of the reseach strands is specifically on the discrepancy language). I now have a complete draft of the case for support. I've had feedback from PGL. I have a meeting on 18 August pm with Ana C to review the proposal. Target date for submission is 8 September.
 
-#### Stakeholder 3
-* Discussion Point 1
-* Discussion Point 2
+#### Peter Gorm Larsen
+* Selected the next 3 PhD candidates for the MADE FAST project
+* Starting up with new research assistant, PhD and post-docs in the team
+* Preparing presentations for ESA MBSE, new students and keynote for SERENE
+* Finishing a couple of research proposals
+* Had a new invitation for a new research proposal
 
 
 ## Sub-projects status

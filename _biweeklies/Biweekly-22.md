@@ -46,6 +46,13 @@ date: 18 August 2020, 1430 CEST
 * Maestro is being kept updated, recently added functionality to CLI interface as requested by christian and ken
 * Initiated shared Digital Twin "simple" project. https://github.com/INTO-CPS-Association/Example_Digital-Twin_Incubator
 
+#### Nick Battle
+* Convert remaining VDMJ recursive processes to use visitor framework (prompted by LSP work)
+* Raised a PR for ReferenceFMU errors found by VDMCheck3
+* Started quoting VDM-SL snippets in response to fmuChecker bug reports (ie. 'this is what we think the rule is')
+* Small updates to FMI2/3 models in view of above
+* Testing of RC for Overture 3
+* Fixed a nasty VDMJ/Overture bug raised by one of Leo's students (affecting maps of mixed record types)
 
 ## Sub-projects status
 

@@ -24,9 +24,9 @@ date: 18 August 2020, 1430 CEST
 * Prepared Overture 3.0.0 release candidate
 * Working on bug fixes 
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### Hao Feng
+* read some materials about graph neural network 
+* Discussed with a PhD in Aalborg university regarding to a potential paper
 
 #### Stakeholder 2
 * Discussion Point 1

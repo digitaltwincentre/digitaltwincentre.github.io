@@ -59,6 +59,14 @@ date: 18 August 2020, 1430 CEST
 * Holidays (studer lidt dansk)
 * Working on project proposal.
 
+#### Maurizio Palmieri
+* Holidays in my hometown
+* Will work on revision of the cosim-cps paper in the next week
+* Last achievements before holidays:
+* Submitted a paper to Cosim-CPS 2020 about Processor Emulation within co-simulation using SESAM
+* Got a paper accepted on the MDPI journal Energies, about integration of formal methods and co-simulation
+* Presented a paper to SummerSim2020 about co-siulation of a bio-inspired algorithm for map exploration
+
 ## Sub-projects status
 
 

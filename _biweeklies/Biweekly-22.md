@@ -38,6 +38,14 @@ date: 18 August 2020, 1430 CEST
 * Finishing a couple of research proposals
 * Had a new invitation for a new research proposal
 
+#### Casper Thule
+* Had meetings with Mathias on robotti tracking
+* Had meeting with bachelor people on robotti
+* Had meeting with Christian Schattle from SDU on project
+* Working on Maestro2 - coming together. Still footwork to do. 
+* Maestro is being kept updated, recently added functionality to CLI interface as requested by christian and ken
+* Initiated shared Digital Twin "simple" project. https://github.com/INTO-CPS-Association/Example_Digital-Twin_Incubator
+
 
 ## Sub-projects status
 
@@ -49,6 +57,7 @@ date: 18 August 2020, 1430 CEST
 #### Sub-project Z
 
 ##  Any Other Business
+* Mathias is in need of suggestions for differentiating between rectangles and ellipsis during image detection. See https://github.com/INTO-CPS-Association/mono-camera-robot-tracking/issues/13#issuecomment-675309984
 
 Next Meeting
 ------------

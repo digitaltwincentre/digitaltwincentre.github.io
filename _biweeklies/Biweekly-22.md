@@ -54,6 +54,11 @@ date: 18 August 2020, 1430 CEST
 * Testing of RC for Overture 3
 * Fixed a nasty VDMJ/Overture bug raised by one of Leo's students (affecting maps of mixed record types)
 
+#### Claudio Gomes
+* Proposed and defended a "simple" digital twin project: the incubator.
+* Holidays (studer lidt dansk)
+* Working on project proposal.
+
 ## Sub-projects status
 
 

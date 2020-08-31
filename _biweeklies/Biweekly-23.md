@@ -36,10 +36,12 @@ date: 01 September 2020, 1400 CEST
 * Delivered video for a keynote of the SERENE workshop
 * Discussing a new ITEA apoplication including B&O as a partner
 
-#### Stakeholder 3
-* Discussion Point 1
-* Discussion Point 2
-
+#### Nick Battle
+* Proposed a polygon/ellipse distinction algorithm :-)
+* Testing new Overture RCs (several)
+* Fixed problem with F12 location of definitions in LSP
+* Added some new FMI3 API implementations - now at 77% done
+* Fixed a nasty recursive-type-resolution bug in VDMJ and Overture
 
 ## Sub-projects status
 

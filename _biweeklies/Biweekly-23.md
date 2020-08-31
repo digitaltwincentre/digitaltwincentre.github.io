@@ -29,9 +29,12 @@ date: 01 September 2020, 1400 CEST
 * Welcoming Mirgita
 * Documentation Efforts 
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Peter Gorm Larsen
+* Starting up lots of new people in the group
+* Gave presentation to the new BSc students
+* Delivered video for a MBSE event at ESA at the end of September
+* Delivered video for a keynote of the SERENE workshop
+* Discussing a new ITEA apoplication including B&O as a partner
 
 #### Stakeholder 3
 * Discussion Point 1

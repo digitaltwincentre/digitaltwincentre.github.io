@@ -43,12 +43,15 @@ date: 01 September 2020, 1400 CEST
 * Added some new FMI3 API implementations - now at 77% done
 * Fixed a nasty recursive-type-resolution bug in VDMJ and Overture
 
+#### Jim Woodcock
+* Completed the proposal for an International Centre-to-Centre Collaboration. It's now ready to submit (deadline 8th September).
+
 ## Sub-projects status
 
 
 #### Incubator Digital Twin
 * Pieces bought
-* Raspberry Pie and temperature sensors
+* Raspberry Pi and temperature sensors
 * Modelling ongoing (Claudio)
 * DSE opportunity
 * HIL opportunity?

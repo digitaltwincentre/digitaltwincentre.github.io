@@ -20,9 +20,14 @@ date: 01 September 2020, 1400 CEST
 
 <!-- Please keep in mind that the minutes are publicly available.-->
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### Casper Thule
+* Maestro2
+* Example Incubator
+* Digitbrain
+* AgroIntelli Fleet
+* Bachelor Students
+* Welcoming Mirgita
+* Documentation Efforts 
 
 #### Stakeholder 2
 * Discussion Point 1
@@ -36,7 +41,12 @@ date: 01 September 2020, 1400 CEST
 ## Sub-projects status
 
 
-#### Sub-project X
+#### Incubator Digital Twin
+* Pieces bought
+* Raspberry Pie and temperature sensors
+* Modelling ongoing (Claudio)
+* DSE opportunity
+* HIL opportunity?
 
 #### Sub-project Y
 

@@ -46,6 +46,13 @@ date: 01 September 2020, 1400 CEST
 #### Jim Woodcock
 * Completed the proposal for an International Centre-to-Centre Collaboration. It's now ready to submit (deadline 8th September).
 
+
+#### Hugo Daniel Macedo
+* Released Overture 3.0.0. It allows next semester students to use Java versions from 9 to 13. 
+* Overture 3.0.1 development already going on. The latest snapshot runs well on top of Java 14.
+* Will visit Grundfos and meet Aarhus Vand next week.
+* Working with Kristoffer to improve the INTO-CPS DSE launch and configuration components.
+
 ## Sub-projects status
 
 

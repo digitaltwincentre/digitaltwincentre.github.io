@@ -53,6 +53,13 @@ date: 01 September 2020, 1400 CEST
 * Will visit Grundfos and meet Aarhus Vand next week.
 * Working with Kristoffer to improve the INTO-CPS DSE launch and configuration components.
 
+### Prasad Talasila
+* HUBCAP Sandbox implementation on AWS.
+* Creation of research objectives and Security middleware paper outline for HUBCAP Task 5.4. This was done in collaboraion with Hugo and Tomas.
+* Revision of Co-Sim paper on Testing and Upgrade of INTO-CPS application.
+* Participation in DIGITbrain meeting and understanding about the components proposed for DIGITbrain project architecture.
+
+
 ## Sub-projects status
 
 

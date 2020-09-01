@@ -59,6 +59,13 @@ date: 01 September 2020, 1400 CEST
 * Revision of Co-Sim paper on Testing and Upgrade of INTO-CPS application.
 * Participation in DIGITbrain meeting and understanding about the components proposed for DIGITbrain project architecture.
 
+#### Claudio Gomes
+* Example Incubator
+* Marie curie proposal
+* FMI steering committee tasks
+* Possibly found a way to know when to switch order when running a gauss seidel co-simulation
+* Some survey work on DL for simulation.
+
 
 ## Sub-projects status
 
@@ -66,9 +73,10 @@ date: 01 September 2020, 1400 CEST
 #### Incubator Digital Twin
 * Pieces bought
 * Raspberry Pi and temperature sensors
-* Modelling ongoing (Claudio)
+* Modelling ongoing (Claudio & Hao)
 * DSE opportunity
 * HIL opportunity?
+
 
 #### Sub-project Y
 

@@ -27,9 +27,12 @@ date: 14 September 2020, 1400 CEST
 * Ready to open the Co-Sim CPS workshop on the 14th of september
 * Prepared video for the ESA MBSE worksop at the end of september about the HUBCAP solution
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Nick Battle
+* Slow progress on FMI3 dynamic API semantics, while many changes are being made to the FMI standard.
+* Some improvements made to LSP Server in anticipation of resumption of VSCode client work.
+* Tracked a bug raised by one of Leo's students to the behaviour of "let" statements in VDMJ/Overture.
+* Checked Hugo's builds of 3.0.1 that relate to the -strict flag (to fix the "let" bug)
+* On holiday from 14th to 19th :-)
 
 #### Stakeholder 3
 * Discussion Point 1

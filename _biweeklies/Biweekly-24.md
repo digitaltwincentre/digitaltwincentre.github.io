@@ -20,9 +20,12 @@ date: 14 September 2020, 1400 CEST
 
 <!-- Please keep in mind that the minutes are publicly available.-->
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### Peter Gorm Larsen
+* Preparing the start of the ITEA digital twin project called UPSIM
+* Agreeing with Jorchen Teizer about the approach for hiring new PhDs and post-docs for the 2 building construction digital twin H2020 projects
+* Expect that the digital twin track at the Isola conference will be postponed to 2021 (currently clarifying about the corresponding papers)
+* Ready to open the Co-Sim CPS workshop on the 14th of september
+* Prepared video for the ESA MBSE worksop at the end of september about the HUBCAP solution
 
 #### Stakeholder 2
 * Discussion Point 1

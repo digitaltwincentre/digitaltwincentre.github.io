@@ -53,9 +53,9 @@ date: 14 September 2020, 1400 CEST
 * Submitted the proposal on an International Centre-to-Centre Collaboration on Robotic Digital Twins (RoboTwin).
 * Working on a DFF proposal on Security by Design for Mobile Autonomous Robots (RoboSec-DK). Deadline: 30th September 2020.
 
-#### Stakeholder 3
-* Discussion Point 1
-* Discussion Point 2
+#### Hugo Daniel Macedo
+* Visited Grundfos facilities in Bjerringbro. Some of their internal projects on "Intelligent water treatment" demonstrate the advantages of using digitalization and digital twin tech in the optimization of water operations.
+* Working on the addition of a stric type-check to let def added by Nick into VDMJ into Overture.
 
 
 ## Sub-projects status

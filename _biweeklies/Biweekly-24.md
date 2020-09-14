@@ -50,7 +50,7 @@ date: 14 September 2020, 1400 CEST
 * Will be attending the cosimcps workshop this afternoon.
 
 #### Jim Woodcock
-* Submitted the proposal on an International Cenre-to-Centre Collaboration on Robotic Digital Twins (RoboTwin).
+* Submitted the proposal on an International Centre-to-Centre Collaboration on Robotic Digital Twins (RoboTwin).
 * Working on a DFF proposal on Security by Design for Mobile Autonomous Robots (RoboSec-DK). Deadline: 30th September 2020.
 
 #### Stakeholder 3

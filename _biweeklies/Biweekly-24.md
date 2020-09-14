@@ -42,6 +42,13 @@ date: 14 September 2020, 1400 CEST
 * Have a working Python interface for the Universal Robots (UR) robots for executing robot motion commands and logging data - needs documentation still but is fully functional.
 * Works for the real robots as well as the UR simulator (a virtual machine provided by UR which runs Polyscope, i.e. UR robot operating system + GUI)
 
+#### Claudio Gomes
+* Working on python interface with Emil
+* Found problem with ur robot dynamics equations (didn't find the solution yet, but Emil is looking into this).
+* Incubator equations ready for calibration.
+* Finished marie curie proposal.
+
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

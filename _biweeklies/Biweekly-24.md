@@ -34,6 +34,10 @@ date: 14 September 2020, 1400 CEST
 * Checked Hugo's builds of 3.0.1 that relate to the -strict flag (to fix the "let" bug)
 * On holiday from 14th to 19th :-)
 
+#### Christian Møldrup Legaard
+* Migrated INTO-CPS documentation to [repo](https://github.com/INTO-CPS-Association/Documentation), which can be accessed on [Read the docs](https://into-cps-association.readthedocs.io/en/latest/?badge=latest)
+* Worked with Prasad on proposal for a FMU package manager, similar to Maven, Npm, or pip
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

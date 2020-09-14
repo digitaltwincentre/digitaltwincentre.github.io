@@ -57,11 +57,20 @@ date: 14 September 2020, 1400 CEST
 * Visited Grundfos facilities in Bjerringbro. Some of their internal projects on "Intelligent water treatment" demonstrate the advantages of using digitalization and digital twin tech in the optimization of water operations.
 * Working on the addition of a stric type-check to let def added by Nick into VDMJ into Overture.
 
+#### Casper Thule
+* Updating INTO-CPS Documentation with Christian
+* Made additions to FMU Package Manager
+* Working on Maestro2, hereamong calculating derivatives
+* Working on Incubator, RabbitMQ is being set up (Hao)
+* Localization might switch to Aruca Markers
+
 
 ## Sub-projects status
 
 
 #### Sub-project X
+* Maestro2 is coming along. Will start preparing examples next week for presentation on September 29th.
+* Incubator is nearing experiment stage.
 
 #### Sub-project Y
 

@@ -47,6 +47,7 @@ date: 14 September 2020, 1400 CEST
 * Found problem with ur robot dynamics equations (didn't find the solution yet, but Emil is looking into this).
 * Incubator equations ready for calibration.
 * Finished marie curie proposal.
+* Will be attending the cosimcps workshop this afternoon.
 
 
 #### Stakeholder 3

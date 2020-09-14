@@ -38,6 +38,10 @@ date: 14 September 2020, 1400 CEST
 * Migrated INTO-CPS documentation to [repo](https://github.com/INTO-CPS-Association/Documentation), which can be accessed on [Read the docs](https://into-cps-association.readthedocs.io/en/latest/?badge=latest)
 * Worked with Prasad on proposal for a FMU package manager, similar to Maven, Npm, or pip
 
+#### Emil Madsen
+* Have a working Python interface for the Universal Robots (UR) robots for executing robot motion commands and logging data - needs documentation still but is fully functional.
+* Works for the real robots as well as the UR simulator (a virtual machine provided by UR which runs Polyscope, i.e. UR robot operating system + GUI)
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

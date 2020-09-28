@@ -20,9 +20,13 @@ date: 29 September 2020, 1400 CEST
 
 <!-- Please keep in mind that the minutes are publicly available.-->
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### Peter Gorm Larsen
+* Completed DFF application about digital twins about manufacturing process to DFF
+* Supported a niúmber of additional DFF application related to digital twins
+* Last week the contract for a new project with the Ringkøbing-Skjern municipality was signed. 15.8MDKK over the next 3,5 years
+* Attend the ESA MBSE event 28-29 of September and present HUBCAP 
+* To be involved in TV programme about EU and innovation on Friday
+* Involved in a new Villum application where we are responsible for a WP on digital twins
 
 #### Stakeholder 2
 * Discussion Point 1

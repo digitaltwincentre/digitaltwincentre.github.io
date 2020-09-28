@@ -28,9 +28,11 @@ date: 29 September 2020, 1400 CEST
 * To be involved in TV programme about EU and innovation on Friday
 * Involved in a new Villum application where we are responsible for a WP on digital twins
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Nick Battle
+* One week holiday :)
+* Looked at function comparison "bug" reported for Overture. Fixed to distinguish lambdas with different free variables and added warnings.
+* Talked to Jonas and Frederik about how to progress LSP for PO Generation with the VSCode client
+* Started looking at how to include VDMCheck3 into the automatic check for ReferenceFMUs.
 
 #### Jim Woodcock
 * I have been working on the DFF proposal on RoboSec: Security by Design for Robotics. This is due for submission on Wednesday. Almost ready to go.

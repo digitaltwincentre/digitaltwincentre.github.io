@@ -29,7 +29,7 @@ date: 29 September 2020, 1400 CEST
 * Discussion Point 2
 
 #### Jim Woodcock
-* I have been working on the DFF proposal on RoboSec: Security by Design for Robotics. This is due for submission on Wednesday. Alm ost ready to go.
+* I have been working on the DFF proposal on RoboSec: Security by Design for Robotics. This is due for submission on Wednesday. Almost ready to go.
 
 
 ## Sub-projects status

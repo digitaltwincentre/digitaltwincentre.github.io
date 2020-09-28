@@ -30,7 +30,7 @@ date: 29 September 2020, 1400 CEST
 
 #### Jim Woodcock
 * I have been working on the DFF proposal on RoboSec: Security by Design for Robotics. This is due for submission on Wednesday. Almost ready to go.
-* The UK project on the Verifiability Research Nodxe for the Trustworthy Automonous Systems Progrqamme was successful.
+* The UK project proposal on the Verifiability Research Node for the Trustworthy Automonous Systems Programme was successful.
 
 
 ## Sub-projects status

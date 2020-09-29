@@ -38,6 +38,11 @@ date: 29 September 2020, 1400 CEST
 * I have been working on the DFF proposal on RoboSec: Security by Design for Robotics. This is due for submission on Wednesday. Almost ready to go.
 * The UK project proposal on the Verifiability Research Node for the Trustworthy Automonous Systems Programme was successful.
 
+#### Claudio Gomes
+* Some progress with adaptive master algorithm that switches order of simulation units.
+* Work on fmi synchronous clocks: examples, ambiguities
+* Prepared small step by step getting started guides for maestro command line interface, and into-cps java FMI library.
+
 
 ## Sub-projects status
 

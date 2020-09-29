@@ -54,6 +54,13 @@ date: 29 September 2020, 1400 CEST
 * INTO-CPS Application
    * Regarding INTO-CPS, we sorted a bug in the into-cps application last week. We have been having troubles making DSE run in Kristoffer's machine. He is now able to run the DSE, but we found that Tutorial7.zip from the INTO-CPS Association SVN was the cause of the issue... Something wrong with it. Maybe problems in the filenames capitalizations...
    * We plan to finish the DSE improvement sprint soon and move towards upgrading the Electron version to the latest, and start improving the testing.
+   * Helped Mirgita troubleshooting FMU zipping issue.
+
+* Other
+   * Manning "Company booth" at ESA MBSE event Peter mentioned. We have a stand for the AU CPS group and we are promoting the HUBCAP to potential SMEs and MBD tools and model providers.
+  
+   
+
 
 ## Sub-projects status
 

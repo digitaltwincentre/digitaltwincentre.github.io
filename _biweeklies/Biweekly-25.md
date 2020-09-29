@@ -59,7 +59,14 @@ date: 29 September 2020, 1400 CEST
 * Other
    * Manning "Company booth" at ESA MBSE event Peter mentioned. We have a stand for the AU CPS group and we are promoting the HUBCAP platform www.hubcap.eu to potential SMEs and MBD tools and model providers.
   
-   
+
+#### Prasad Talasila
+* Work with Tomas and Hugo to create the system model for the HUBCAP sandbox system. Provide feedback to Tomas on the VDM model created for the HUBCAP Sandbox system.
+* Participation in DIGITbrain architecture discussion and code camp.
+* Create network performance benchmark measurements and video recordings for distributed Sandbox system. The distributed Sandbox system was implemented on Azure cloud platform.
+* Work on the draft of the "Sandbox Performance in Cloud Services" paper.
+
+
 
 
 ## Sub-projects status

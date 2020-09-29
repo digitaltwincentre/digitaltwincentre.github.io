@@ -57,7 +57,7 @@ date: 29 September 2020, 1400 CEST
    * Helped Mirgita troubleshooting FMU zipping issue.
 
 * Other
-   * Manning "Company booth" at ESA MBSE event Peter mentioned. We have a stand for the AU CPS group and we are promoting the HUBCAP to potential SMEs and MBD tools and model providers.
+   * Manning "Company booth" at ESA MBSE event Peter mentioned. We have a stand for the AU CPS group and we are promoting the HUBCAP platform www.hubcap.eu to potential SMEs and MBD tools and model providers.
   
    
 

@@ -73,6 +73,12 @@ date: 29 September 2020, 1400 CEST
 * Maestro2 working on interface
 * Discussing with Simon on how to apply formal methods to Maestro2/Mabl
 
+
+#### Maurizio Palmieri
+* Resuming the work on drones co-simulation and formal verification: working on improving the quality of a paper we are writing a UNIPI
+* About to start a University project which might involve using co-simulation to build a database for AI. The aim of the project is using AI in medical devices.
+
+
 ## Sub-projects status
 
 

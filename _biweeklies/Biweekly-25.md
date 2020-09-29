@@ -58,7 +58,7 @@ date: 29 September 2020, 1400 CEST
 
 * Other
    * Manning "Company booth" at ESA MBSE event Peter mentioned. We have a stand for the AU CPS group and we are promoting the HUBCAP platform www.hubcap.eu to potential SMEs and MBD tools and model providers.
-  
+ 
 
 #### Prasad Talasila
 * Work with Tomas and Hugo to create the system model for the HUBCAP sandbox system. Provide feedback to Tomas on the VDM model created for the HUBCAP Sandbox system.
@@ -67,12 +67,19 @@ date: 29 September 2020, 1400 CEST
 * Work on the draft of the "Sandbox Performance in Cloud Services" paper.
 
 
-
+#### Casper Thule
+* Working on robot localization - getting there
+* Assisting with Robotti FLeet
+* Maestro2 working on interface
+* Discussing with Simon on how to apply formal methods to Maestro2/Mabl
 
 ## Sub-projects status
 
 
-#### Sub-project X
+#### VDMCheck
+Very interested in getting this integrated within Maestro2 and getting the most out of the work conducted:
+* How can we call it through java and possibly get some nice outputs?
+* Is it possible to query it for i.e. the initial and variability property of a ScalarVariable if left undefined? 
 
 #### Sub-project Y
 

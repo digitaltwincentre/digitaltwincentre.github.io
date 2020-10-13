@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Biweekly 26
-date: 13 October 2020, 1400 CEST
+date: 16 October 2020, 1400 CEST
 ---
 
 <script src="https://code.jquery.com/jquery-1.11.1.min.js">
@@ -13,7 +13,7 @@ date: 13 October 2020, 1400 CEST
 
 |||
 |---|---|
-| Date | 13 October 2020, 14:00 CEST |
+| Date | 16 October 2020, 14:00 CEST |
 
 
 ## Pre-meeting stakeholders' reports

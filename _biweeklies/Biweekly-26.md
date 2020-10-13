@@ -20,9 +20,10 @@ date: 16 October 2020, 1400 CEST
 
 <!-- Please keep in mind that the minutes are publicly available.-->
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### Peter Gorm Larsen
+* Attending kick-off meeting for the UPSIM project this week
+* Planning meeting with Rinkjøbing-Skjern municipality in two weeks time
+* Involved in digital twin discussions related to the DIGITbrain project
 
 #### Stakeholder 2
 * Discussion Point 1

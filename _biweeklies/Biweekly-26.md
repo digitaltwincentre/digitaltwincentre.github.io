@@ -32,9 +32,14 @@ date: 16 October 2020, 1400 CEST
 * FMI 3.0 Work on semantics of clocks (anybody interested in applying formal methods to fmi 3.0 clocks?)
 * Reading up on optimal experimental design
 
-#### Stakeholder 3
-* Discussion Point 1
-* Discussion Point 2
+#### Nick Battle
+* Did some renaming and restructuring of the FMI2/3 VDM-SL models, with Kenneth.
+* Completed and pushed a bugfix for more sensible function value comparisons (that works better with lambdas)
+* Created first cut of POG methods in LSP Server for Jonas and Frederik
+* Added some POs to VDMJ that were missing from Overture (to do with inv/post satisfiability)
+* Helped Kenneth get annotations working (without using a plugin jar)
+* Fixed FMI-2-VDM's toVDM() method to return a String rather than print to stdout
+* Look into an Overture bug of Leo's that gets an incorrect warning for expressions like post_func[type].
 
 
 ## Sub-projects status

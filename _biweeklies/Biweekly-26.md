@@ -24,6 +24,7 @@ date: 16 October 2020, 1400 CEST
 * Attending kick-off meeting for the UPSIM project this week
 * Planning meeting with Rinkjøbing-Skjern municipality in two weeks time
 * Involved in digital twin discussions related to the DIGITbrain project
+* Suggest to have a webinar on the 25th of November 2020 for the INTO-CPS Association posibilities (input welcome)
 
 #### Claudio Gomes
 * Robot Manipulator Model calibrated (with Emil)

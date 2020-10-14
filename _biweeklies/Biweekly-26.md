@@ -25,9 +25,10 @@ date: 16 October 2020, 1400 CEST
 * Planning meeting with Rinkjøbing-Skjern municipality in two weeks time
 * Involved in digital twin discussions related to the DIGITbrain project
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Claudio Gomes
+* Robot Manipulator Model calibrated (with Emil)
+* FMI 3.0 Work on semantics of clocks (anybody interested in applying formal methods to fmi 3.0 clocks?)
+* Reading up on optimal experimental design
 
 #### Stakeholder 3
 * Discussion Point 1

@@ -41,6 +41,12 @@ date: 16 October 2020, 1400 CEST
 * Fixed FMI-2-VDM's toVDM() method to return a String rather than print to stdout
 * Look into an Overture bug of Leo's that gets an incorrect warning for expressions like post_func[type].
 
+#### Casper Thule
+* Case study with Ken Pierce and Sam Hall on Digital Twin 3-joint robot arm.
+* Working on release 1 of Maestro2
+* Initiating proof of Mabl spec (termination)
+* Implementing CI and deployment for FMI2/3 VDM-SL models
+* Identified VDM2C issue - I am not continuing on this. What is the plan here? I think it is a pity to give up on this, as vdm2c creates MUCH better FMUs than overture toolwrapper and makes it possible to run it on microcontroller
 
 ## Sub-projects status
 

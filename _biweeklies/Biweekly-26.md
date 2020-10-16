@@ -24,8 +24,10 @@ date: 16 October 2020, 1400 CEST
 * Attending kick-off meeting for the UPSIM project this week
 * Planning meeting with Rinkjøbing-Skjern municipality in two weeks time
 * Involved in digital twin discussions related to the DIGITbrain project
+* Ensured that Denmark will vote yes for 2 new ISO draft standards around digital twins
 * Suggest to have a webinar on the 25th of November 2020 for the INTO-CPS Association posibilities (input welcome)
 * In kick-off of UPSIM saw http://www.the-mtc.org/our-projects/simready which looks relevant in particular for our manufactoring research projects
+* Suggest that someone in the group gather as many definitions of digital twins as possible. This could potentially turn into a technical report related to the differences depending upon different dimensions e.g. research/commercial, research focus and application domain.
 
 #### Claudio Gomes
 * Robot Manipulator Model calibrated (with Emil)

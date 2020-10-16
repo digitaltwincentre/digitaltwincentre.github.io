@@ -71,7 +71,12 @@ date: 16 October 2020, 1400 CEST
 
 * Other
    * Working with Till on his survey on DT. Now and then he finds papers about digital twins in water,  and I see good work comming out of the partnership in the long run.
-   
+
+#### Emil Madsen
+* Developed - together with Claudio - a dynamic model (mapping between motion and joint torque/actuator current) of an arbitrary robot with revolute (rotational) joints
+* The model is validated on the six axes Universal Robots UR5e robot arm
+* Working on expressing the dynamic model linearly in a set of dynamic coefficients for easy identification
+* When that's done the rest of the work is easy and papers will be flowing
 
 ## Sub-projects status
 

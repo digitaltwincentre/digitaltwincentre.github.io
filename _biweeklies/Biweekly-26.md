@@ -50,6 +50,12 @@ date: 16 October 2020, 1400 CEST
 * Implementing CI and deployment for FMI2/3 VDM-SL models
 * Identified VDM2C issue - I am not continuing on this. What is the plan here? I think it is a pity to give up on this, as vdm2c creates MUCH better FMUs than overture toolwrapper and makes it possible to run it on microcontroller
 
+
+#### Maurizio Palmieri
+* Initiating proof of Mabl spec (termination) in UPPAAL with Casper
+* Studying the DSE scripts for genetic algorithm (sounds close the the third point of Claudio)
+* Finalizing the paper on formal analysis of drones at unipi
+
 ## Sub-projects status
 
 

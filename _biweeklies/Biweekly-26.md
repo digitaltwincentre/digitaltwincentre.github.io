@@ -59,14 +59,14 @@ date: 16 October 2020, 1400 CEST
 #### Hugo Daniel Macedo
 * Overture
   * Working towards Overture 3.0.2 Release 
-  * A release candidate was produced and Nick tests found issues I will go over next week.
+  * A release candidate was produced and Nick tests found issues, that I will go over starting next week.
 
 * DT for water case
    * I have been in a workshop organized by AVK https://www.avkventiler.dk/ as part of the the Danish Water Cluster initiave 
    * Next week I will participate in the kickoff of a platform for sharing data generated in the water sector: Innovationsdataplatform - Data Ecosystem Water workshop. 
    
 * INTO-CPS Application
-   * Regarding INTO-CPS. We were able to upgrade the Electron version to the latest version! From 6 to 10.3! It required sorting out troubles with the download manager and dialogs, but we are now done with it. Kristoffer solved an issue Mirgita found and we are now working towards a new release. 
+   * Regarding INTO-CPS. We were able to upgrade the Electron version to the latest version! From 6 to 10.1.3! It required sorting out troubles with the download manager and dialogs, but we are now done with it. Kristoffer solved an issue Mirgita found and we are now working towards a new release and unit testing.
    * Looking forward to collaborate with Maurizio in the improvement of DSE. Kristoffer and Hao can also join to both extend the app and create a new DSE project with the scripts from the paper about time-delay.
 
 * Other

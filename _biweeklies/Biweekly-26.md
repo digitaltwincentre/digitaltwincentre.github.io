@@ -82,6 +82,10 @@ date: 16 October 2020, 1400 CEST
 * Been writing the technical report of the Incubator. 
 * Disscussed with Claudio about the details of the report.
 
+#### Prasad Talasila
+* There was round table discussion on DIGITbrain experiments that use the INTO CPS toolchain.
+* No digital twin specific work in the last fortnight.
+
 ## Sub-projects status
 
 

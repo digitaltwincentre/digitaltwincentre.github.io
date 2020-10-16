@@ -78,6 +78,10 @@ date: 16 October 2020, 1400 CEST
 * Working on expressing the dynamic model linearly in a set of dynamic coefficients for easy identification
 * When that's done the rest of the work is easy and papers will be flowing
 
+#### Hao Feng
+* Been writing the technical report of the Incubator. 
+* Disscussed with Claudio about the details of the report.
+
 ## Sub-projects status
 
 

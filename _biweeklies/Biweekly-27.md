@@ -29,7 +29,9 @@ date: 27 October 2020, 1400 CEST
 #### Nick Battle
 * Continue POG LSP work for VSCode with Jonas and Frederik - PO display now seems to be working.
 * Large restructure completed in LSP internals to anticipate Combinatorial Testing and Coverage Reporting
+* Attempted to add multi-folder workspace support (still under test)
 * Some Overture bug fixes and investigation, prompted by Leo.
+* Started review of papers for Overture Workshop.
 
 #### Stakeholder 3
 * Discussion Point 1

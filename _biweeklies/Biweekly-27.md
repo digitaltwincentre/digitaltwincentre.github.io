@@ -26,9 +26,10 @@ date: 27 October 2020, 1400 CEST
 * Expect to send out agenda for November 25 INTO-CPS Association/digital twins webinar next weekend (also to be distributed to members of MADE FAST, DIGITbrain, UPSIM and other projects that are attended by other members of the board of the INTO-CPS Association)
 * Expect to hear from Danish green technology research applications next week
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Nick Battle
+* Continue POG LSP work for VSCode with Jonas and Frederik - PO display now seems to be working.
+* Large restructure completed in LSP internals to anticipate Combinatorial Testing and Coverage Reporting
+* Some Overture bug fixes and investigation, prompted by Leo.
 
 #### Stakeholder 3
 * Discussion Point 1

@@ -62,6 +62,11 @@ date: 27 October 2020, 1400 CEST
 #### Maurizio Palmieri
 * Working on the UPPAAL model for Master algorithm and FMUs with Simon.
 
+#### Emil Madsen
+* Working on minimal robot dynamics description
+* Working for PUMA 560 robot but need implementation for Universal Robot manipulators
+* Going to visit AAU and SDU in November (5th and 12th) to see their robotic and production equipment to get inspiration for own DKK 5-6 million purchase for Skjern/Ringkøbing project
+
 #### Hugo Daniel Macedo
 * Participated in Den Danske Vandklynge workshop about anInnovations data platform and a Data Ecosystem for Water.
 * Will participate in a workshop next week on models for water balance.

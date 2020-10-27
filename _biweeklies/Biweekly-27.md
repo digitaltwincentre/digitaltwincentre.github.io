@@ -58,6 +58,9 @@ date: 27 October 2020, 1400 CEST
 * Write DIGITbrain experiment for AgroIntelli in collaboration with Xuping, ULBS and Alea Scovill. This experiment uses INTO-CPS toolchain.
 * Working on the API documentation for Maestro2.
 
+#### Maurizio Palmieri
+* Working on the UPPAAL model for Master algorithm and FMUs with Simon.
+
 
 ## Sub-projects status
 

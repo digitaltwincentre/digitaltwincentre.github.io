@@ -62,6 +62,12 @@ date: 27 October 2020, 1400 CEST
 #### Maurizio Palmieri
 * Working on the UPPAAL model for Master algorithm and FMUs with Simon.
 
+#### Hugo Daniel Macedo
+* Participated in Den Danske Vandklynge workshop about anInnovations data platform and a Data Ecosystem for Water.
+* Will participate in a workshop next week on models for water balance.
+* Working with Kristoffer to invoke Electron's javascript virtual machine to test the app functionality in a  non E2E setting.
+* Made Overture website secure by serving the assets via HTTPS. Looking forward to work on the test report by Nick and release.
+
 
 ## Sub-projects status
 

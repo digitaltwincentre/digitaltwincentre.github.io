@@ -37,6 +37,7 @@ date: 27 October 2020, 1400 CEST
 * Maestro2 has been released!
 * Setting feature plan for Maestro2 development. 
 * Formal approach to proving that a given specification adheres to i.e. a gauss-seidel/jacobi simulation algorithm with UPPAAL
+* Released offical version of FMI-VDM - hope that is okay nick?! Needed it for maestro2 release
 
 #### Claudio Gomes
 * Got good preliminary results for a master algorithm that changes order of FMU stepping during the co-simulation

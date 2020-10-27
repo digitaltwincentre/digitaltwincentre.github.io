@@ -33,9 +33,10 @@ date: 27 October 2020, 1400 CEST
 * Some Overture bug fixes and investigation, prompted by Leo.
 * Started review of papers for Overture Workshop.
 
-#### Stakeholder 3
-* Discussion Point 1
-* Discussion Point 2
+#### Casper Thule
+* Maestro2 has been released!
+* Setting feature plan for Maestro2 development. 
+* Formal approach to proving that a given specification adheres to i.e. a gauss-seidel/jacobi simulation algorithm with UPPAAL
 
 
 ## Sub-projects status

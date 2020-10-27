@@ -48,6 +48,10 @@ date: 27 October 2020, 1400 CEST
 #### Hao Feng
 * Still in the process of modifying the technical report about the Incubator
 
+#### Mirgita Frasheri
+* Can send data from the rabbitmq fmu to a ROS/Gazebo simulation.
+* Looking into the timing and synchronization issues when coupling the co-simulation with external simulators like Gazebo.
+* Working on a manuscript for a paper on autonomy levels in the agriculture domain.
 
 ## Sub-projects status
 

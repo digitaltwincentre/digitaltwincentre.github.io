@@ -38,6 +38,13 @@ date: 27 October 2020, 1400 CEST
 * Setting feature plan for Maestro2 development. 
 * Formal approach to proving that a given specification adheres to i.e. a gauss-seidel/jacobi simulation algorithm with UPPAAL
 
+#### Claudio Gomes
+* Got good preliminary results for a master algorithm that changes order of FMU stepping during the co-simulation
+* Close to formalization of synchronous clocks for the FMI standard 3.0
+* Working on machine learning survey (focusing on optimal experimental design and active learning).
+* Helped Emil finish the linearization of the UR robot equations (Emil also checked that the symbolic procedure is correct).
+  * This will make online monitoring algorithms work much faster (if we use a recursive LSE scheme).
+
 
 ## Sub-projects status
 

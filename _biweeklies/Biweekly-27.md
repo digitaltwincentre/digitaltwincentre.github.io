@@ -53,6 +53,11 @@ date: 27 October 2020, 1400 CEST
 * Looking into the timing and synchronization issues when coupling the co-simulation with external simulators like Gazebo.
 * Working on a manuscript for a paper on autonomy levels in the agriculture domain.
 
+#### Prasad Talasila
+* Write DIGITbrain experiment for AgroIntelli in collaboration with Xuping, ULBS and Alea Scovill. This experiment uses INTO-CPS toolchain.
+* Working on the API documentation for Maestro2.
+
+
 ## Sub-projects status
 
 

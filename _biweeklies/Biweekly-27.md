@@ -32,6 +32,7 @@ date: 27 October 2020, 1400 CEST
 * Attempted to add multi-folder workspace support (still under test)
 * Some Overture bug fixes and investigation, prompted by Leo.
 * Started review of papers for Overture Workshop.
+* Started discussions about the design of the CT testing feature.
 
 #### Casper Thule
 * Maestro2 has been released!

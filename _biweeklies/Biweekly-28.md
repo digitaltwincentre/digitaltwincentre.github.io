@@ -29,9 +29,14 @@ date: 10 November 2020, 1400 CEST
 * Completed review of digital twin paper related to safety-critical systems
 * Prepared interview with Ole Green
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Nick Battle
+* Skype with Jonas/Frederik about the best way to enable the Combinatorial Testing UI feature
+* Implemented the basic protocol for the above - list traces, generate tests, execute tests.
+* Implement cancellable operations and intermediate result notifications for better UI interaction.
+* Look at some VDMJ/Overture issues for Leo
+* Re-structured VDMJ (suite) Maven POMs to allow direct release to Aarhus ArtiFactory repository (for Maestro)
+* Released VDM 4.3.0 to ArtiFactory, with help from Casper
+* Started work on "runtrace" command to allow "Send to Debugger" CT functionality
 
 #### Stakeholder 3
 * Discussion Point 1

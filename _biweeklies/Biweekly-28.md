@@ -38,9 +38,12 @@ date: 10 November 2020, 1400 CEST
 * Released VDM 4.3.0 to ArtiFactory, with help from Casper
 * Started work on "runtrace" command to allow "Send to Debugger" CT functionality
 
-#### Stakeholder 3
-* Discussion Point 1
-* Discussion Point 2
+#### Hugo Daniel Macedo
+* Sorted issues Leo found on running External Tools with Overture
+* Started testing MaestroV2 inside the INTO-CPS App
+* Helped a student from Newcastle troubleshooting the INTO-CPS app
+* Worked with Gita on scenario generation
+* Discussing with Till on Digital Twins for Manufacturing Survey
 
 
 ## Sub-projects status

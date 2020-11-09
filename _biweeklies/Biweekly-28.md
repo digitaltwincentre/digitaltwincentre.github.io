@@ -23,7 +23,7 @@ date: 10 November 2020, 1400 CEST
 #### Peter Gorm Larsen
 * Met with Poul Toft from the PDJ Foundation last week
 * Together with Lukas selected the post-doc candidate to work in the UPSIM project (start early 2021)
-* Announced the webinar at the end of November (will do more publicity at LinkedIn and to different projects)
+* Announced the webinar at the end of November (see https://into-cps.org/events/show/artikel/into-cps-webinar-1/)
 * Read and made edits to the technical report that Hao has produced for the incubator case study
 * Read and made minor adjustments to the Isola paper driven by Carl and Beidi for buiulding digital twins
 * Completed review of digital twin paper related to safety-critical systems

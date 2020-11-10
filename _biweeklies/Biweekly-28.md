@@ -53,6 +53,15 @@ date: 10 November 2020, 1400 CEST
 * Facing some challenges with symbolic manipulation of UR robot newton-euler equations.
 * Prepare simple continuous model of steam boiler for Bachelor course.
 
+#### Casper THule
+* Released Maestro2
+* WOrking on typechecker for Maestro2
+* Fixed issue in classmapper usage of VDMJ
+* Assisted Nick with maven related stuff
+* Wondering about basing a plugin entirely on Prolog
+* Fixed issue in RabbitMQ FMU
+* Discussed RabbitMQ Future with Gita
+* Maestro2 plan: Support legacy features followed by focus on digital twins.
 
 ## Sub-projects status
 

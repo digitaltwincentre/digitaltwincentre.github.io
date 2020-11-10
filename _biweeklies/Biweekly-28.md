@@ -63,6 +63,11 @@ date: 10 November 2020, 1400 CEST
 * Discussed RabbitMQ Future with Gita
 * Maestro2 plan: Support legacy features followed by focus on digital twins.
 
+#### Mirgita Frasheri
+* Implemented the fix for the rabbitmq fmu based on Casper's input.
+* Working on getting the rabbitmq fmu to check whether it is running behind (in time) an external system/simulator.
+* Discussed with Hugo on adopting the DSE for generating scenarios for simulation.
+
 ## Sub-projects status
 
 

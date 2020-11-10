@@ -45,6 +45,14 @@ date: 10 November 2020, 1400 CEST
 * Worked with Gita on scenario generation
 * Discussing with Till on Digital Twins for Manufacturing Survey
 
+#### Claudio Gomes
+* Helped Hao finalize his tecnical report on the incubator case study.
+* Clarified semantics of synchronous clocks for the FMI standard
+* Helped Simon finalize his UPPAAL interpreter for co-simulation algorthms with step rejection and algebraic loop solving.
+* Met with Fateme, Peter, and Novo Nordisk on Fateme's phd project.
+* Facing some challenges with symbolic manipulation of UR robot newton-euler equations.
+* Prepare simple continuous model of steam boiler for Bachelor course.
+
 
 ## Sub-projects status
 

@@ -73,6 +73,16 @@ date: 10 November 2020, 1400 CEST
  - based on a message queue zmq
  - supports distribution / remote execution
 
+#### Emil Madsen
+* AU DTL-Skjern:
+- Last week: Met Charles Møller at AAU to see Festo industry 4.0 production equipment.
+- Investigated possible Festo Didactic equipment and 3D printers.
+- Wrote Festo Didactic.
+- This week: Meet Christian Schlette at SDU to see robotic systems.
+* Identified error in converting linear robot dynamics to linear AND minimal robot dynamics
+To-do / upcoming:
+* Webinar presentation on November 25 on robot dynamics calibration 
+
 ```toml
 [command]
 windows = [ "python", "launch.py" ]

@@ -62,6 +62,7 @@ date: 10 November 2020, 1400 CEST
 * Fixed issue in RabbitMQ FMU
 * Discussed RabbitMQ Future with Gita
 * Maestro2 plan: Support legacy features followed by focus on digital twins.
+* Discussed FMI2 interface functionality with Christian
 
 #### Mirgita Frasheri
 * Implemented the fix for the rabbitmq fmu based on Casper's input.

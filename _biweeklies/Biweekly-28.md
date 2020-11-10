@@ -67,6 +67,23 @@ date: 10 November 2020, 1400 CEST
 #### Prasad Talasila
 * Work with ULBS, Romania researchers to create co-simulation of AgroIntelli's Robotti manufacturing line.
 
+#### Christian Møldrup Legaard
+
+* Using the lessons learned from PyFMU, i am finishing implementation of a generic version.
+ - based on a message queue zmq
+ - supports distribution / remote execution
+
+```toml
+[command]
+windows = [ "python", "launch.py" ]
+linux = [ "python3.8-dbg", "launch.py" ]
+macos = ["python3.8","launch.py"]
+
+[timeout]
+launch = 500
+command = 500
+```
+
 
 ## Sub-projects status
 

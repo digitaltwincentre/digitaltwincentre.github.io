@@ -64,10 +64,9 @@ date: 10 November 2020, 1400 CEST
 * Maestro2 plan: Support legacy features followed by focus on digital twins.
 * Discussed FMI2 interface functionality with Christian
 
-#### Mirgita Frasheri
-* Implemented the fix for the rabbitmq fmu based on Casper's input.
-* Working on getting the rabbitmq fmu to check whether it is running behind (in time) an external system/simulator.
-* Discussed with Hugo on adopting the DSE for generating scenarios for simulation.
+#### Prasad Talasila
+* Work with ULBS, Romania researchers to create co-simulation of AgroIntelli's Robotti manufacturing line.
+
 
 ## Sub-projects status
 

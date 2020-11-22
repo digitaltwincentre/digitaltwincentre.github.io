@@ -20,9 +20,14 @@ date: 24 November 2020, 1400 CEST
 
 <!-- Please keep in mind that the minutes are publicly available.-->
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### Peter Gorm Larsen
+* Made opening presentation for the webinar on the 25th of November
+* Polished a bit on various Overture papers
+* Met with Technicon regarding their MADE FAST part project with Daniella
+* Met with Novo regarding their MADE FAST project with Fatemeh
+* Discussed equipment for Ringkjøbing-Skjern with Emil
+* Working on presentations for kick-off meeting with Ringkjøbing Skjern
+* Preparing digital twin presentation for MADE innovation event
 
 #### Stakeholder 2
 * Discussion Point 1

@@ -36,9 +36,13 @@ date: 24 November 2020, 1400 CEST
 * Draft of scenario verification tool (with Simon, Maurizio, Casper)
 * Met with digit brain stakeholders to discuss basics of FMI (with Prasad)
 
-#### Stakeholder 3
-* Discussion Point 1
-* Discussion Point 2
+#### Nick Battle
+* Continue LSP Combinatorial Testing implementation with Jonas and Frederik
+* Add error numbers to VDMCheck static semantic model for Maestro integration
+* Fix some VDMJ/Overture problems (via Leo)
+* Look at CT examples for PGL - Luhn model proposed and working on Basket Service model
+* Fixed a memory leak in VDMJ for CT
+* Made 4.4.0 release of VDMJ for Maestro, bumping to 4.4.1-SNAPSHOT
 
 
 ## Sub-projects status

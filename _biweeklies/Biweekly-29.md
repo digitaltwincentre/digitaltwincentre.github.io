@@ -29,9 +29,12 @@ date: 24 November 2020, 1400 CEST
 * Working on presentations for kick-off meeting with Ringkjøbing Skjern
 * Preparing digital twin presentation for MADE innovation event
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Claudio Gomes
+* Met with Novo and Technicon (with Peter, Fateme, and Daniella)
+* Advances on the background section on M&S for ML Survey (with Christian)
+* Planned roadmap for digital twinning of incubator case study (with Hao, Till, Casper)
+* Draft of scenario verification tool (with Simon, Maurizio, Casper)
+* Met with digit brain stakeholders to discuss basics of FMI (with Prasad)
 
 #### Stakeholder 3
 * Discussion Point 1

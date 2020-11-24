@@ -114,6 +114,11 @@ to sending on change. Close to the next rabbitMQ release.
 - Talked with Hugo about the DSE and building scenarios for simulation, including fault injection. Also discussing the latter with Casper and Kenneth, and whether it is something we want for maestro.
 - Working also on the autonomy paper.
 
+#### Daniella Tola
+- Met with Technicon
+- Working on a more elaborate project description.
+- Still looking at different DSLs, and methods to describe manufacturing robots, e.g. which attributes are important for a robotic arm, or for a tool etc.
+
 ## Sub-projects status
 
 #### Sub-project X

@@ -53,6 +53,36 @@ date: 24 November 2020, 1400 CEST
 * Interested in verifying MaBL scenario and FMU employment via UPPAAL model - how do we verify all traces of a MaBL program? Control flow graph?
 * Supporting Gita with fault-injection.
 
+#### Christian Møldrup Legaard
+
+- Implemented a generic solution for implementing FMUs in **ANY** language.
+- Based on the lessons learned from PyFMU.
+- Advantages:
+  - Language agnostic
+  - Remote deployment possible (just ssh into remote and launch)
+  - Standalone, easy to bundle runtime in FMU
+  - Precompiled binaries. No need to install compiler toolchain, cross-platform support out of box
+
+```toml
+[command]
+windows = [ "python", "launch.py" ]
+linux = [ "python3", "launch.py" ]
+macos = ["python3","launch.py"]
+```
+
+- GUI + CLI for creating and modifying FMUs
+
+![](2020-11-24-11-57-57.png)
+
+- [UniFMU repostiory](https://github.com/INTO-CPS-Association/unifmu)
+
+- Intrested in:
+
+  - "Java and friends" backend
+    ![](2020-11-24-12-06-59.png)
+
+- Working on DL+M&S survey (with Claudio)
+
 
 ## Sub-projects status
 

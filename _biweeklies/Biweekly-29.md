@@ -45,6 +45,15 @@ date: 24 November 2020, 1400 CEST
 * Made 4.4.0 release of VDMJ for Maestro, bumping to 4.4.1-SNAPSHOT
 
 
+#### CAsper Thule
+* Typechecker for Maestro2
+* Multi-dimensional arrays for Maestro2
+* Maestro2 presentation
+* Working with Claudio, Simon, Maurizio on UPPAAL model
+* Interested in verifying MaBL scenario and FMU employment via UPPAAL model - how do we verify all traces of a MaBL program? Control flow graph?
+* Supporting Gita with fault-injection.
+
+
 ## Sub-projects status
 
 

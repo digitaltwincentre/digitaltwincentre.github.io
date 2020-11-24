@@ -118,6 +118,7 @@ to sending on change. Close to the next rabbitMQ release.
 - Met with Technicon
 - Working on a more elaborate project description.
 - Still looking at different DSLs, and methods to describe manufacturing robots, e.g. which attributes are important for a robotic arm, or for a tool etc.
+- Will visit SDU robotlab 8/12 and Aalborg robotlab 14/12
 
 #### Hao Feng
 - The technical report is closed to be finished. 

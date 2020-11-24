@@ -99,6 +99,14 @@ macos = ["python3","launch.py"]
 - Perfomed a preliminary analysis on a new case study that will be used in the EPI european project (it also involves INTO-CPS and DSE)
 - Starting the process of collecting the project assigned to students about data alteration attacks on the LFR.
 
+#### Emil Madsen
+- AU-DTL Skjern project:
+  - Responsible for acquiring production equipment and 
+  - The company Technicon is currently working out an offer
+  - Festo Didactic CP Factory equipment was considered but it is too expensive
+- UR robot modeling and calibration:
+  - equations formulated linearly in the dynamic parameters
+  - allows for very fast least squares calibration using Moore-Penrose generalized/pseudo inverse (5 seconds vs 8 hours for nonlinear optimization)
 
 ## Sub-projects status
 

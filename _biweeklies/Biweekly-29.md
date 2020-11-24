@@ -92,6 +92,14 @@ macos = ["python3","launch.py"]
 - Met with WATEC and starting to developing ideas on Digital Twins for Water comsumption
 - Provided input for the Digitalization track of a White Book Strategy document for the new Tech faculty at AU
 
+#### Maurizio Palmieri
+- Working with Claudio, Simon, Casper on UPPAAL model
+- Introduced a collegue from University of Milan to FMI and INTO-CPS (thanks to PyFMU)
+	- they have a python network simulator that we want to couple with Simulink model of cars.
+- Perfomed a preliminary analysis on a new case study that will be used in the EPI european project (it also involves INTO-CPS and DSE)
+- Starting the process of collecting the project assigned to students about data alteration attacks on the LFR.
+
+
 ## Sub-projects status
 
 #### Sub-project X

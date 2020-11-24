@@ -108,6 +108,12 @@ macos = ["python3","launch.py"]
   - equations formulated linearly in the dynamic parameters
   - allows for very fast least squares calibration using Moore-Penrose generalized/pseudo inverse (5 seconds vs 8 hours for nonlinear optimization)
 
+#### Mirgita Frasheri
+- Discussed with Casper and Kenneth the best way to implement inputs in rabbitMQ. Based on their input, switched from the solution with flags, 
+to sending on change. Close to the next rabbitMQ release.
+- Talked with Hugo about the DSE and building scenarios for simulation, including fault injection. Also discussing the latter with Casper and Kenneth, and whether it is something we want for maestro.
+- Working also on the autonomy paper.
+
 ## Sub-projects status
 
 #### Sub-project X

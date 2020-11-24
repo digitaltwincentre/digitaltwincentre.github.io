@@ -119,6 +119,12 @@ to sending on change. Close to the next rabbitMQ release.
 - Working on a more elaborate project description.
 - Still looking at different DSLs, and methods to describe manufacturing robots, e.g. which attributes are important for a robotic arm, or for a tool etc.
 
+#### Hao Feng
+- The technical report is closed to be finished. 
+- Meet with Claudio about the road for publications.
+- Wrote the controller codes for the incubator and co-somulation. 
+-Investigated a platoon control with time delay. 
+
 ## Sub-projects status
 
 #### Sub-project X

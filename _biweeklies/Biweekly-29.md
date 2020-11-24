@@ -86,6 +86,12 @@ macos = ["python3","launch.py"]
 
 - Working on DL+M&S survey (with Claudio)
 
+#### Hugo Daniel Macedo
+- Released Overture 3.0.2
+- Prepared a release candidate for 4.0.1 for the INTO-CPS Application. Testing the new changes and starting to test the MaestroV2. 
+- Met with WATEC and starting to developing ideas on Digital Twins for Water comsumption
+- Provided input for the Digitalization track of a White Book Strategy document for the new Tech faculty at AU
+
 ## Sub-projects status
 
 #### Sub-project X

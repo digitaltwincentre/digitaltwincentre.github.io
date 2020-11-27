@@ -114,6 +114,12 @@ to sending on change. Close to the next rabbitMQ release.
 - Talked with Hugo about the DSE and building scenarios for simulation, including fault injection. Also discussing the latter with Casper and Kenneth, and whether it is something we want for maestro.
 - Working also on the autonomy paper.
 
+#### Till Boettjer
+- Working on the Digital Twin survey. Coming up with a initial report sturcture in our next meeting. 
+Participants: Fateme, Daniella, Mojtaba 
+Guidance: Hugo and Claudio
+
+=======
 #### Daniella Tola
 - Met with Technicon
 - Working on a more elaborate project description.

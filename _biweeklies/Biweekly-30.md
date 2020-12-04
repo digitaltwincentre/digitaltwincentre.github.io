@@ -35,6 +35,7 @@ date: 08 December 2020, 1400 CEST
 
 ## Sub-projects status
 
+* FMI - Utilities website https://sweng.au.dk/fmiutils/ for showcasing some of our tools. Should it be maintained? Who should do it? Is it a priority? 
 
 #### Sub-project X
 

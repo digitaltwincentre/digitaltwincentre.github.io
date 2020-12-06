@@ -28,9 +28,14 @@ date: 08 December 2020, 1400 CEST
 * Led the webinar on the 25th of November 2020 with different research presentations (also about digital twins) and booked slot for the next webinar for the 23 of February 2021 (if you wish to speak there please let us know)
 * Attended a follow group about digital twins with the Dansh GTSs and a few companies
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Nick Battle
+* Work on Luhn and Basket Service models for CT training
+* Presented VDMCheck to INTO-CPS Webinar
+* Some LSP fixes for VDM-RT
+* Create a VDMJ ValueVisitor to allow Leo to create an @Limit annotation
+* Implemented LSP "translate" method to produce LaTeX output for a spec
+* Response to VDMCheck feedback from Verified GmbH.
+* Created VDMJ example for tree mapping.
 
 #### Stakeholder 3
 * Discussion Point 1

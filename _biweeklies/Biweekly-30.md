@@ -20,9 +20,13 @@ date: 08 December 2020, 1400 CEST
 
 <!-- Please keep in mind that the minutes are publicly available.-->
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### Peter Gorm Larsen
+* Had kick-off meeting with the board of the new Ringkjøbing Skjern project (and have interviewed 2 candidates for the new lab manager)
+* Presentation about digital twins for a MADE workshop
+* Produced video with Ole Green about their use of model-based stuff and prospects with digital twins (will probably be released this week)
+* Discussed a new proposal to be submitted for the Danish Innovation Foundation August 2021 where we will lead a WP on digital twins
+* Led the webinar on the 25th of November 2020 with different research presentations (also about digital twins) and booked slot for the next webinar for the 23 of February 2021 (if you wish to speak there please let us know)
+* Attended a follow group about digital twins with the Dansh GTSs and a few companies
 
 #### Stakeholder 2
 * Discussion Point 1

@@ -42,6 +42,10 @@ date: 08 December 2020, 1400 CEST
 * Met with Prasad over definitions of models, solvers, simulators, FMUs, and machine learned models (with Christian and Prasad)
 * Met with Novo with Fateme to clarify data Novo sent us and logistics for Fateme.
 
+#### Jim Woodcock
+* Started work on preparing six guest lectures for the BSc Programming & Modelling course. The lectures are on an Introduction to Probabilistic Robotics, to be delivered late April/early May.
+* I'm proposing to start work on reasoning about cosimulation in Isabelle, building on Frank Zeyda's work (see Frank Zeyda, Julien Ouy, Simon Foster, Ana Cavalcanti: Formalising Cosimulation Models. SEFM Workshops 2017: 453-468). I'd welcome comments on this approach.
+
 ## Sub-projects status
 
 * FMI - Utilities website https://sweng.au.dk/fmiutils/ for showcasing some of our tools. Should it be maintained? Who should do it? Is it a priority? 

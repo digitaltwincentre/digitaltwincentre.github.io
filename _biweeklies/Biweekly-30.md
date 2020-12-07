@@ -37,10 +37,10 @@ date: 08 December 2020, 1400 CEST
 * Response to VDMCheck feedback from Verified GmbH.
 * Created VDMJ example for tree mapping.
 
-#### Stakeholder 3
-* Discussion Point 1
-* Discussion Point 2
-
+#### Claudio Gomes
+* Worked on the scenario verifier tool (algebraic loops and step finding loops done), with Simon
+* Met with Prasad over definitions of models, solvers, simulators, FMUs, and machine learned models (with Christian and Prasad)
+* Met with Novo with Fateme to clarify data Novo sent us and logistics for Fateme.
 
 ## Sub-projects status
 

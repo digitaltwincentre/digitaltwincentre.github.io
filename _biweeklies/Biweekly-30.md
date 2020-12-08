@@ -46,6 +46,14 @@ date: 08 December 2020, 1400 CEST
 * Started work on preparing six guest lectures for the BSc Programming & Modelling course. The lectures are on an Introduction to Probabilistic Robotics, to be delivered late April/early May.
 * I'm proposing to start work on reasoning about cosimulation in Isabelle, building on Frank Zeyda's work (see Frank Zeyda, Julien Ouy, Simon Foster, Ana Cavalcanti: Formalising Cosimulation Models. SEFM Workshops 2017: 453-468). I'd welcome comments on this approach.
 
+#### Daniella Tola
+* Went through the different robot-related components Technicon supplies.
+* Listed the main attributes I believe are relevant for describing a robotic arm, with regards to integration, e.g. (reachability, payload, weight, precision, footprint, mounting, communication protocols, manufacturer). 
+* Started describing the "constraints" of the relationship of the robot and its attributes, e.g. it only has one manufacturer (m \in M), but can support multiple protocols ({c1,c2} \subseteq C).
+* Found some nice robot simulation tools, e.g. RoboDK, Webots (open source). If anyone knows other good tools, please tell me.
+* Presented at overture workshop.
+   
+
 ## Sub-projects status
 
 * FMI - Utilities website https://sweng.au.dk/fmiutils/ for showcasing some of our tools. Should it be maintained? Who should do it? Is it a priority? 

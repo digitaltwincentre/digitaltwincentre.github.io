@@ -55,9 +55,9 @@ date: 08 December 2020, 1400 CEST
    
 #### Hao Feng
 * Went through Least Square, Recursive Least Square, Kalman Filter.
-* Wrote down a section for a tutorial paper. 
+* Wrote down the section of Kalman Filter for a tutorial paper. 
 * Built a rabbitmq python class for further use.
-* Ran a co-simulation of th incubator. 
+* Ran a co-simulation of the incubator. 
    
 
 ## Sub-projects status

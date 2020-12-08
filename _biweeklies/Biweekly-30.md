@@ -69,6 +69,12 @@ date: 08 December 2020, 1400 CEST
 * Participation in Overture workshop. Tomas Kulik presented our paper on Sandbox security model.
 * Wrote parts of HUBCAP Sandbox performance paper.
    
+#### HDM
+* Gave a talk on the webinar about the into-cps application
+* Participated in the yearly meeting on the Danish Water Cluster
+* Provided two alternatives for fault-injection using Maestro V2 related to discussions with Gita
+* Lectured on Overture Java Code Generation
+* Stepped up as the AU representative in the OCMB of HUBCAP and have been busy on the different tasks associated with it
 
 
 

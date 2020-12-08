@@ -76,7 +76,13 @@ date: 08 December 2020, 1400 CEST
 * Lectured on Overture Java Code Generation
 * Stepped up as the AU representative in the OCMB of HUBCAP and have been busy on the different tasks associated with it
 
-
+#### Emil Madsen
+* AU DTL-Skjern:
+  * Proposed production equipment, waiting for response from industrial partners.
+* Robot model calibration:
+  * Obtained and validated linear system.
+  * Making linear least squares calibration case study with real data
+  
 
 ## Sub-projects status
 

@@ -59,6 +59,18 @@ date: 08 December 2020, 1400 CEST
 * Built a rabbitmq python class for further use.
 * Ran a co-simulation of the incubator. 
    
+#### Prasad Talasila
+* Participation in the System Architecture and Design (SAD) meetings of DIGITbrain project. We have been able to refine the architecture and design of the DIGITbrain software.
+* Created a presentation on different models used in the context of simulation, co-simulation and machine learning domains. The presentation have been used in WP5: Models of DIGITbrain project to agree on models and their meta-data for the DIGITbrain project.
+* Participation in WP5: Models and WP6: Algorithms meetings of DIGITbrain project.
+* DIGITbrain orientation program for Michael Sandberg. He is the new addition to our research group and will be participating in the DIGITbrain project.
+* Preparation for the upcoming DIGITbrain general assembly. The meeting is scheduled for 10 to 11 December, 2020.
+* Contribution to WP3 discussion of HUBCAP project to create and refine new requirements for next version of the HUBCAP Sandbox system.
+* Participation in Overture workshop. Tomas Kulik presented our paper on Sandbox security model.
+* Wrote parts of HUBCAP Sandbox performance paper.
+   
+
+
 
 ## Sub-projects status
 

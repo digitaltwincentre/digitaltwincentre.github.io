@@ -53,6 +53,12 @@ date: 08 December 2020, 1400 CEST
 * Found some nice robot simulation tools, e.g. RoboDK, Webots (open source). If anyone knows other good tools, please tell me.
 * Presented at overture workshop.
    
+#### Hao Feng
+* Went through Least Square, Recursive Least Square, Kalman Filter.
+* Wrote down a section for a tutorial paper. 
+* Built a rabbitmq python class for further use.
+* Ran a co-simulation of th incubator. 
+   
 
 ## Sub-projects status
 

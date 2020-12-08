@@ -83,6 +83,13 @@ date: 08 December 2020, 1400 CEST
   * Obtained and validated linear system.
   * Making linear least squares calibration case study with real data
   
+#### Casper Thule
+* Did a talk for kansas cooperation with SLANG
+* Talk for webinar
+* Creating external tester tool for maestro2 to root out ssues
+* Finalising the isola 2020 paper on chrono fmu - had meeting with Frederik
+
+
 
 ## Sub-projects status
 

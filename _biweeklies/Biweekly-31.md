@@ -20,7 +20,11 @@ date: 22 December 2020, 1400 CEST
 
 <!-- Please keep in mind that the minutes are publicly available.-->
 
-#### Stakeholder 1 
+#### Peter Gorm Larsen
+* progress on the different MADE FAST digital twin part projects
+* HUBCAP strategic progress producing requirements for the different stakeholders and assets
+* DIGITbrain distributed co-simulation is clearly progressing from a conceptual perspective
+* Plan for Isola paper finally in place
 
 #### Stakeholder 2
 

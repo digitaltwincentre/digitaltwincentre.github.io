@@ -26,7 +26,10 @@ date: 22 December 2020, 1400 CEST
 * DIGITbrain distributed co-simulation is clearly progressing from a conceptual perspective
 * Plan for Isola paper finally in place
 
-#### Stakeholder 2
+#### Nick Battle
+* Worked on the Combinatorial Testing Guide with Peter
+* Created an "example" VDMJ analysis tree to demonstrate the use of the ClassMapper
+* Looked into curious performance behaviour of LSP with Jonas and Frederik.
 
 #### Stakeholder 3
 

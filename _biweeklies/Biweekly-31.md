@@ -31,7 +31,14 @@ date: 22 December 2020, 1400 CEST
 * Created an "example" VDMJ analysis tree to demonstrate the use of the ClassMapper
 * Looked into curious performance behaviour of LSP with Jonas and Frederik.
 
-#### Stakeholder 3
+#### Claudio Gomes
+* New structure for survey with Christian
+* ANNSim work CPS Track work
+* Chair hybrid systems session at CDC Conference.
+* Work on Simon's nested loop scenario verifier.
+* Met with JIm and Simon for formal methods and co-simulation.
+
+#### Stakeholder
 
 
 ## Sub-projects status

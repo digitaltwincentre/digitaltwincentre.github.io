@@ -38,7 +38,10 @@ date: 22 December 2020, 1400 CEST
 * Work on Simon's nested loop scenario verifier.
 * Met with JIm and Simon for formal methods and co-simulation.
 
-#### Stakeholder
+#### Hugo Daniel Macedo
+* Looked at performance issues with Jonas and Fredrik
+* Focused on HUBCAP project tasks (article writing, call launching, webinar planning) 
+* Kristoffer fixed the remaingn issues with INTO-CPS App. We are preparing a more active release plan for 2021
 
 
 ## Sub-projects status

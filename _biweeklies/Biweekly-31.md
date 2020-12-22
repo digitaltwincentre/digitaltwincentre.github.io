@@ -49,6 +49,15 @@ date: 22 December 2020, 1400 CEST
 * Fix the issues of the python class Rabbitmq created by Hao
 * Wrote a section introducing the Kalman Filter
 
+#### Emil Madsen
+* AU DTL-Skjern:
+  * Ordering two mobile robots: Done
+  * Ordering a flexcell with robot arm(s): Awaiting response from Technicon wrt. integrating a (borrowed) Fanuc robot in the flexcell
+* URInterface software:
+  * Solving the issue that data has missing samples (from 1 sample, i.e. 2 ms, to multiple samples up to 0.3 s)
+* Robot Calibration:
+  * Almost done when sampling issue is solved
+
 ## Sub-projects status
 
 #### Sub-project X

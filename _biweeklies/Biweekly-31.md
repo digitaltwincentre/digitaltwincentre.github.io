@@ -38,6 +38,13 @@ date: 22 December 2020, 1400 CEST
 * Work on Simon's nested loop scenario verifier.
 * Met with JIm and Simon for formal methods and co-simulation.
 
+#### Casper and Kennth
+* Worked on abstract API for FMI2 in Maestro
+* Article with simon
+* Dicsussed DT framework bwteeen (Casper, Kenneth, Claudio)
+* Article with Frederik
+* Started adding FMI3 to the native part of Maestro
+
 #### Hugo Daniel Macedo
 * Looked at performance issues with Jonas and Fredrik
 * Focused on HUBCAP project tasks (article writing, call launching, webinar planning) 

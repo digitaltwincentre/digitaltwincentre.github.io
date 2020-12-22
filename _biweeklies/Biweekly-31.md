@@ -43,6 +43,11 @@ date: 22 December 2020, 1400 CEST
 * Focused on HUBCAP project tasks (article writing, call launching, webinar planning) 
 * Kristoffer fixed the remaingn issues with INTO-CPS App. We are preparing a more active release plan for 2021
 
+#### Hao Feng
+* Finish understanding Kalman Fiter
+* Built and tested the controller in the Incubator
+* Fix the issues of the python class Rabbitmq created by Hao
+* Wrote a section introducing the Kalman Filter
 
 ## Sub-projects status
 

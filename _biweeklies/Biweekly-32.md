@@ -41,6 +41,15 @@ date: 28 January 2021, 1230 CET
 * Working with Gita and Hugo on fault injection
 * Working with Gita on RabbitMQ
 
+#### Nick Battle
+* Completed and published the "Combinatorial Testing Guide"
+* Separate out DBGP client from VDMJ, so that LSP/DBGP/cmdline are indepedent alternatives
+* Improved LSP code-completion capabilities
+* Released VDMJ 4.4.1 to go with 1.0.0 release of VDM VSCode
+* Added asynchronous execution/interruption for LSP to enable stop and pause
+* Numerous fixes to "F12" go-to-definition functionality
+* Released VDM VSCode 1.0.4 including the above
+* Corrected some import/type resolution issues via Paul Chisholm.
 
 ## Sub-projects status
 

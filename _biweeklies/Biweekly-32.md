@@ -13,7 +13,7 @@ date: 28 January 2021, 1230 CET
 
 |||
 |---|---|
-| Date | 22 December 2020, 14:00 CET |
+| Date | 28 January 2021, 1230 CET |
 
 
 ## Pre-meeting stakeholders' reports

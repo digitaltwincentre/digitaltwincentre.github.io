@@ -42,7 +42,7 @@ date: 28 January 2021, 1230 CET
 * Working with Gita on RabbitMQ
 
 #### Nick Battle
-* Completed and published the "Combinatorial Testing Guide"
+* Completed and published the ["Combinatorial Testing Guide"](https://raw.github.com/overturetool/documentation/master/documentation/CombinatorialTesting/CombinatorialTesting.pdf)
 * Separate out DBGP client from VDMJ, so that LSP/DBGP/cmdline are indepedent alternatives
 * Improved LSP code-completion capabilities
 * Released VDMJ 4.4.1 to go with 1.0.0 release of VDM VSCode

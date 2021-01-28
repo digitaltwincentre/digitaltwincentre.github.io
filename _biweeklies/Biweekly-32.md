@@ -64,6 +64,12 @@ date: 28 January 2021, 1230 CET
 * Worked on DT methodology paper with Till and Fateme
 * Will start work on kinematic models of the robot equipment we have in skejby, together with Emil
 
+#### Maurizio Palmieri
+* Working on autonomous vehicle case study on the European project that funds me, using Simulink and INTO-CPS.
+* Preparing the presentation for the Webinar with my supervisor.
+* Prepared a small demo (5 minutes talking) for a local politician (using INTO-CPS).
+
+
 ## Sub-projects status
 
 #### Sub-project X

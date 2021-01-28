@@ -27,7 +27,11 @@ date: 28 January 2021, 1230 CET
   * Next Friday Kristoffer, Max, and I will meet to start working on adding the DSE scripts
   into INTO-CPS 4.0.3. 
 
-#### Stakeholder 2
+#### Peter Gorm Larsen
+* Organised the next webinar in a more professionel setting (please register online if you would like to attend)
+* Started up on the Rinkøbing-Skjern Digital Transformation Lab (2 PhDs to be hired soon)
+* Started planning book on engineering digital twins together with John Fitzgerald
+* Failed to get post-doc for UPSZIM hired, but managed to get good new MSc hired on a 12 months contract
 
 #### Stakeholder 3
 

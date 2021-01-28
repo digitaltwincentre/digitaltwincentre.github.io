@@ -58,6 +58,12 @@ date: 28 January 2021, 1230 CET
 * Working on getting the ns3 simulator (which provides fmi support) to work within the intocps in a very simple setup. This is part of the joint work with DTU, within ARF.
 * Autonomy paper draft is here, but needs to be finalised.
 
+#### Daniella
+* Created a proof of concept framework for finding combinations of compatibles components (using the interfaces between them). Will be used for finding compatible robot components, to create a robot work cell.
+* Started working on unifmu with Christian, and implementing a C# backend
+* Worked on DT methodology paper with Till and Fateme
+* Will start work on kinematic models of the robot equipment we have in skejby, together with Emil
+
 ## Sub-projects status
 
 #### Sub-project X

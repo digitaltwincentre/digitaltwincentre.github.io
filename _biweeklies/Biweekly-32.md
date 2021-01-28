@@ -51,6 +51,13 @@ date: 28 January 2021, 1230 CET
 * Released VDM VSCode 1.0.4 including the above
 * Corrected some import/type resolution issues via Paul Chisholm.
 
+#### Mirgita Frasheri
+* First version for the fault injection plugin is done. We'll take the discussion today regarding the paper with Casper, Hugo, and Kenneth.
+* Worked on the rabbitmq fmu, switching from basic_consume to basic_get for get the data. This works now.
+* Next step on rabbitmq fmu: separating the dostep logic from the message consumption from the rabbitmq server. The idea for the paper here has shifted somewhat, we'll continue the discussions in the upcoming weeks with Casper and Kenneth.
+* Working on getting the ns3 simulator (which provides fmi support) to work within the intocps in a very simple setup. This is part of the joint work with DTU, within ARF.
+* Autonomy paper draft is here, but needs to be finalised.
+
 ## Sub-projects status
 
 #### Sub-project X

@@ -20,7 +20,12 @@ date: 28 January 2021, 1230 CET
 
 <!-- Please keep in mind that the minutes are publicly available.-->
 
-#### Stakeholder 1
+#### Hugo Daniel Macedo
+  * INTO-CPS Appliction 4.0.1 was released last week.
+  * Working with Till on modeling injection moulding machine
+  * Will meet with a company interested in unintended water management.
+  * Next Friday Kristoffer, Max, and I will meet to start working on adding the DSE scripts
+  into INTO-CPS 4.0.3. 
 
 #### Stakeholder 2
 

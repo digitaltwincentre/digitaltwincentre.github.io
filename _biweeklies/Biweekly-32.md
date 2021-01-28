@@ -74,11 +74,11 @@ date: 28 January 2021, 1230 CET
 * Discussion with Simon of DFKI team, and Michael to create a co-simulation case study that includes machine learning-based FMUs.
 * Writing the vision paper for DIGITbrain project.
 
-#### Hao Feng
-* Writing on the tutorial paper 
-* Working together with Christian for the benchamark work. 
-
-
+#### Till Boettjer
+* Working towards a VDM controller model for an Injection Mouling machine, and investigating the link to first order models 
+* Developing LSTM model for mould quality degredation 
+* Scoping the DT methodology paper and reviewing literature
+* Preparation of demonstrator @LEGO
 
 ## Sub-projects status
 

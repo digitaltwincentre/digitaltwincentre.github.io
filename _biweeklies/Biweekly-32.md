@@ -34,7 +34,12 @@ date: 28 January 2021, 1230 CET
 * Failed to get post-doc for UPSZIM hired, but managed to get good new MSc hired on a 12 months contract
 * Had a constructive meeting with Poul Toft
 
-#### Stakeholder 3
+#### Casper
+* Working on abstract API for maestro2.
+* Working on IFD proposal
+* Working with MAx on DSE for maestro2
+* Working with Gita and Hugo on fault injection
+* Working with Gita on RabbitMQ
 
 
 ## Sub-projects status

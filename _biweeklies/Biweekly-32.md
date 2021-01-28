@@ -69,6 +69,11 @@ date: 28 January 2021, 1230 CET
 * Preparing the presentation for the Webinar with my supervisor.
 * Prepared a small demo (5 minutes talking) for a local politician (using INTO-CPS).
 
+#### Prasad Talasila
+* Worked with Wolfgang of ATOS, Simon of DFKI create metadata structure for FMUs and co-simulation algorithms.
+* Discussion with Simon of DFKI team, and Michael to create a co-simulation case study that includes machine learning-based FMUs.
+* Writing the vision paper for DIGITbrain project.
+
 
 ## Sub-projects status
 

@@ -78,6 +78,14 @@ date: 28 January 2021, 1230 CET
 * Writing on the tutorial paper 
 * Working together with Christian for the benchamark work. 
 
+#### Emil Madsen
+* Robot calibration
+  * Procedure almost done to the point where parameter calibration and estimation results can be obtained
+  * Have "outsourced" tests to Claudio's desktop
+  * Future plans:
+    * Enhance computational performance: Evaluate symbolic expressions in float values use too much computational resources
+    * use 'scikit-learn' instead of 'numpy' for matrix pseudo-inversion
+
 
 
 ## Sub-projects status

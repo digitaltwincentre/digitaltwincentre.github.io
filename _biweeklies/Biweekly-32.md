@@ -32,6 +32,7 @@ date: 28 January 2021, 1230 CET
 * Started up on the Rinkøbing-Skjern Digital Transformation Lab (2 PhDs to be hired soon)
 * Started planning book on engineering digital twins together with John Fitzgerald
 * Failed to get post-doc for UPSZIM hired, but managed to get good new MSc hired on a 12 months contract
+* Had a constructive meeting with Poul Toft
 
 #### Stakeholder 3
 

@@ -35,6 +35,7 @@ date: 11 February 2021, 1230 CET
 * Added automatic (SNAPSHOT) deploy of VDMJ to ArtiFactory, with help from Casper, so it is guaranteed to be up to date.
 * Added nested comment support to the parser (and Jonas added to the UI)
 * Started an HLD document for the LSP Server
+* Added experimental "ordering" file to VSCode to allow Leo's enormous specification to typecheck efficiently.
 * Contact from Lars Ivar Hatledal about integrating VDMCheck with their sspgen tool.
 
 #### Stakeholder 2

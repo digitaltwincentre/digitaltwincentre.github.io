@@ -32,7 +32,7 @@ date: 11 February 2021, 1230 CET
 
 #### Nick Battle
 * Various VDMJ fixes, due to LSP (VSCode) users and Maestro on Windows
-* Added automatic (SNAPSHOT) deploy of VDMJ to AtriFactory, so it is guaranteed to be up to date.
+* Added automatic (SNAPSHOT) deploy of VDMJ to ArtiFactory, with help from Casper, so it is guaranteed to be up to date.
 * Added nested comment support to the parser (and Jonas added to the UI)
 * Started an HLD document for the LSP Server
 * Contact from Lars Ivar Hatledal about integrating VDMCheck with their sspgen tool.

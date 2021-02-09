@@ -38,9 +38,10 @@ date: 11 February 2021, 1230 CET
 * Added experimental "ordering" file to VSCode to allow Leo's enormous specification to typecheck efficiently.
 * Contact from Lars Ivar Hatledal about integrating VDMCheck with their sspgen tool.
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Peter Gorm Larsen
+* Luxenbourg University now also paying member of the INTO-CPS Association
+* Started up digital twin work Vestas in the MADE FAST
+* Applications from PhD student received for the 2 new posts in connection with the Ringkøbing-Skjern project
 
 #### Stakeholder 3
 * Discussion Point 1

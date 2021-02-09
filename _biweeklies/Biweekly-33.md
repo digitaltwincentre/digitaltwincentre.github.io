@@ -48,6 +48,14 @@ date: 11 February 2021, 1230 CET
 * Working on co-simulation and formal verification of a new case study based on a bicycle vehicle with a Master student who is doing his thesis under my supervision.
 * Preparing the slides for the incoming lectures on formal methods and co-simulation .
 
+#### Hugo Daniel Macedo
+* Met with SCUBIC https://scubic.tech/en/company/ an SME operating Digital Twins for Water.
+* Will meet with Kuono and DenDanskeVandKlynge partners on future Water data platform IFD project lead by DTU.
+* Working with Kristoffer on INTO-CPS App development see below.
+* Writting with Mirgita and Casper et al on FI paper.
+* Met with Claudio about the INTO-CPS tutorials. Looking forward for feedabck on new RC testing.
+* Met weekly with Till in the deveoplment of the IMM model.
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2
@@ -60,6 +68,31 @@ date: 11 February 2021, 1230 CET
 * Derivatives: Need to be added in abstract API. Kenneth and Casper will do this, hopefully this week.
 * Variable Step: Need to be added to maestro2. Plan that frederik (Feb. 15) will do this
 * FMI3?
+
+#### INTO-CPS Application
+* New release process is in place. Kristoffer is now doing those.
+* We have a plan of releases/milestones for 2021.  
+* Release candiate 4.0.2 is ready for testing https://github.com/INTO-CPS-Association/into-cps-application/releases/tag/v4.0.2-rc
+* Tested the release with Max Rose DSE scripts. We are free from Python 2. 
+* Mac version signing is broken due. Working on a fix. 
+* Met with Claudio about the Tutorials and System Engineering course TAing.
+
+#### INTO-CPS-Association.github.io
+* Upgraded release process.
+* Started releasing 1.0.7
+* Updated some broken links.
+* New release is stuck with broken RT-Tester links.
+* Modelio links need to be updated, but we have the new ones already.
+
+#### DSE Scripts
+* @maxsrose is now the maintainer/owner of https://github.com/INTO-CPS-Association/dse_scripts
+* DSE runs with Python 3 now
+* Progress on Genetic Algorithm to be integrated in the app and maybe in a new tutorial 
+* Will move from fetching releases inside the repo folder to a release tag fetching soon
+
+#### Overture
+* Planing to have new release soon.
+* Auto-update will not work for new releases after March due to bintray service end. Checking the impact of this issue.
 
 #### Sub-project X
 

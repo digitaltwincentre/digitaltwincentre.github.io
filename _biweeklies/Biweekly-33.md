@@ -43,6 +43,11 @@ date: 11 February 2021, 1230 CET
 * Started up digital twin work Vestas in the MADE FAST
 * Applications from PhD student received for the 2 new posts in connection with the Ringkøbing-Skjern project
 
+#### Maurizio Palmieri
+* Working on importing a Model Predictive Control C-library into an FMU and then into INTO-CPS. This is related to the European Processor Innovative project.
+* Working on co-simulation and formal verification of a new case study based on a bicycle vehicle with a Master who is doing his thesis under my supervision.
+* Preparing the slides for the incoming lectures on formal methods and co-simulation .
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

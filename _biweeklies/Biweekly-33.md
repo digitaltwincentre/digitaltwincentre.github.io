@@ -56,6 +56,12 @@ date: 11 February 2021, 1230 CET
 * Met with Claudio about the INTO-CPS tutorials. Looking forward for feedabck on new RC testing.
 * Met weekly with Till in the deveoplment of the IMM model.
 
+#### Hao Feng
+* Wrote the draft of a tutorial paper regarding to Kalman filter for ANNSIM conferecen.
+* Ploished the technical report of the incubator with Claudio. 
+* Working together with Christian on benchmark neural network. I am focusing on Koopman autoencoder.
+* Working on the CPS-track paper for ANNSIM. 
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

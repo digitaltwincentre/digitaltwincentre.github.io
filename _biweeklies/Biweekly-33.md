@@ -73,6 +73,9 @@ date: 11 February 2021, 1230 CET
 * Started working on paper describing the methodology, most likely to the conference SAC: Symposium on Applied Computing
   * SAC published the original paper regarding the Symoro software
 
+#### Claudio Gomes
+* Nothing to report.
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

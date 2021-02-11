@@ -68,6 +68,11 @@ date: 11 February 2021, 1230 CET
 * On-going discussions with Casper and Henrik for the development of the rabbitmq fmu.
 * have tried to couple a simple example fmu with the ns3 simulator, with the intocps+maestro. There is smth wrong with that fmu to begin with, waitng for feedback from the developers of the fmi based ns3.
 
+#### Emil Madsen
+* Obtained a (factor 60) speed-up in Python-based calibration routine by calling compiled C code - now I'm cleaning up the code
+* Started working on paper describing the methodology, most likely to the conference SAC: Symposium on Applied Computing
+  * SAC published the original paper regarding the Symoro software
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

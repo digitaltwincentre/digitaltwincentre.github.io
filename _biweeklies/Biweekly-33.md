@@ -62,6 +62,12 @@ date: 11 February 2021, 1230 CET
 * Working together with Christian on benchmark neural network. I am focusing on Koopman autoencoder.
 * Working on the CPS-track paper for ANNSIM. 
 
+#### Mirgita Frasheri
+* Set up the water-tank case-study for the fault injection paper. Finalising paper with the guys.
+* First draft for the autonomy paper.
+* On-going discussions with Casper and Henrik for the development of the rabbitmq fmu.
+* have tried to couple a simple example fmu with the ns3 simulator, with the intocps+maestro. There is smth wrong with that fmu to begin with, waitng for feedback from the developers of the fmi based ns3.
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

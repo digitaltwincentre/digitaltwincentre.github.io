@@ -36,13 +36,16 @@ date: 26 February 2021, 1330 CET
 * Debate the pros and cons of nested comment parsing with the Language Board :)
 * Added SPDX licensing comments to the whole of VDMJ (GPLv3 or later)
 
+#### Jim Woodcock
+* Making progress with Pedro Ribeiro, Simon, and Cláudio on an abstract characterisation of step revision in FMI. Pedro and I have a description using angelic nondeterminism. We will present this to Simon, Cláudio, and Jaco on Wednesday 24th Feb.
+* Started developing my lecture material on an introduction to probabilistic reobotic control for the modelling course.
+* Submitted a research proposal to EPSRC on verified co-simulation.
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2
 
-
 ## Sub-projects status
-
 
 #### Sub-project X
 

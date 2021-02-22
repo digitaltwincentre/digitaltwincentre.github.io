@@ -34,7 +34,7 @@ date: 26 February 2021, 1330 CET
 * Contributed to Jonas/Frederik's F-IDE paper about VDM VSCode
 * Create tool for automatic generation of ordered module dependencies (to support Leo's large specifications, but as a general tool)
 * Debate the pros and cons of nested comment parsing with the Language Board :)
-* Added SDPX licensing comments to the whole of VDMJ (GPLv3 or later)
+* Added SPDX licensing comments to the whole of VDMJ (GPLv3 or later)
 
 #### Stakeholder 3
 * Discussion Point 1

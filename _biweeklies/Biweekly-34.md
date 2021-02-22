@@ -20,9 +20,13 @@ date: 26 February 2021, 1330 CET
 
 <!-- Please keep in mind that the minutes are publicly available.-->
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### Peter Gorm Larsen
+* Attended a workshop on the Vico platform from NTNU last week
+* Discussed collaboration possibilities with Universal Robots
+* Further planning of the book on engineering digital twins carried out
+* Had brainstorm with Jakob regarding the Ringkøbing-Skjern project
+* Have selected 2 PhD students for the Ringkøbing-Skjern project
+* A new ITEA application called 3STARS have been submitted
 
 #### Stakeholder 2
 * Discussion Point 1

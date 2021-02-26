@@ -64,6 +64,7 @@ date: 26 February 2021, 1330 CET
 * Digital-twin-platform should go to Pypi some time.
 * Great effort by Frederik!
 * Working on proposal.
+* Bachelor project on FMI3 java api?
 
 #### Emil Madsen
 * Robot Calibration:

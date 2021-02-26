@@ -36,6 +36,8 @@ date: 26 February 2021, 1330 CET
 * Debate the pros and cons of nested comment parsing with the Language Board :)
 * Added SPDX licensing comments to the whole of VDMJ (GPLv3 or later)
 * Added an experimental feature to save/restore specification state rather than re-calculating it every time between trace tests. This significantly improves the performance of combinatorial testing with very large specifications.
+* Fixed some more F12 navigation issues (for ext and errs clauses)
+* Released the above as VDM VSCode 1.1.1
 
 #### Jim Woodcock
 * Making progress with Pedro Ribeiro, Simon, and Cláudio on an abstract characterisation of step revision in FMI. Pedro and I have a description using angelic nondeterminism. We will present this to Simon, Cláudio, and Jaco on Wednesday 24th Feb.

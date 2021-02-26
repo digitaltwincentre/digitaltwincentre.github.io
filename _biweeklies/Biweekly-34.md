@@ -49,6 +49,12 @@ date: 26 February 2021, 1330 CET
 * Starting looking into visualization of robots in Unity. They have recently been working on making it easier to visualize and simulate robots in Unity (https://github.com/Unity-Technologies/Unity-Robotics-Hub)
 * Starting looking into the Unity FMU in into-cps, to understand how it works. 
 
+#### Claudio Gomes
+* Finished Tutorial on Kalman Filtering for DTs with Hao
+* Almost done with paper on DT Engineering with Hao
+* Almost done with paper on adaptive master algorithm with Emin (KU Leuven)
+* Going to prepare paper on FMI Clocks with fmi steering committee.
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

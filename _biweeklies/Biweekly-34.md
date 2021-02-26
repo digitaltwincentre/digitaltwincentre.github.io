@@ -65,6 +65,13 @@ date: 26 February 2021, 1330 CET
 * Great effort by Frederik!
 * Working on proposal.
 
+#### Emil Madsen
+* Robot Calibration:
+  * Added capability of numerically estimating no. of base parameters (by estimating the maximum obtainable rank of the observation matrix)
+  * Next step is to add numerical identification of base parameters by obtaining the Reduced-Row Echelon Form (RREF) by Gauss Jordan elimination of the observation matrix
+* AU DTL-Skjern:
+  * Deriving dynamic model of a MiR robot (the bicycle model cannot be used here)
+
 ## Sub-projects status
 
 #### Sub-project X

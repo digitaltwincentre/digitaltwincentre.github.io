@@ -55,9 +55,15 @@ date: 26 February 2021, 1330 CET
 * Almost done with paper on adaptive master algorithm with Emin (KU Leuven)
 * Going to prepare paper on FMI Clocks with fmi steering committee.
 
-#### Stakeholder 3
-* Discussion Point 1
-* Discussion Point 2
+#### Casper
+* Fault injection paper is away
+* Working on rabbit mq practitioner introduction
+* Working with DSE with MAx - think I have a multi-threaded solution.
+* NEED TO TALK A BIT ABOUT DISTRIBUTED AND CLOUD!!!! @prasad, @tomas
+* Initial work on digital-twin-platform in Python to Support CLaudios huge efforts.
+* Digital-twin-platform should go to Pypi some time.
+* Great effort by Frederik!
+* Working on proposal.
 
 ## Sub-projects status
 

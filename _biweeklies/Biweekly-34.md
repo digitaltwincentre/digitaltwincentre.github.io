@@ -62,6 +62,12 @@ date: 26 February 2021, 1330 CET
 * NEED TO TALK A BIT ABOUT DISTRIBUTED AND CLOUD!!!! @prasad, @tomas
 * Initial work on digital-twin-platform in Python to Support CLaudios huge efforts.
 * Digital-twin-platform should go to Pypi some time.
+* DTP: pipe lines? 
+```
+Hardware data (outputs time-series data according to specification X) ->
+(inputs time-series data according to specification X) state estimation (outputs time-series data according to specification Z) ->
+(inputs time-series data according to specification Z) fault detector (outputs EVENT according to specification W)
+```
 * Great effort by Frederik!
 * Working on proposal.
 * Bachelor project on FMI3 java api?

@@ -20,9 +20,9 @@ date: 11 March 2021, 1230 CET
 
 <!-- Please keep in mind that the minutes are publicly available.-->
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### Peter Gorm Larsen
+* Made progress on the list of contributors for the book on digital twin book
+* Took part in an advisory board for a new Danish project for a future hybrid test bed which has an interesting connection to digital twins
 
 #### Stakeholder 2
 * Discussion Point 1

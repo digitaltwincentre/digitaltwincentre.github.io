@@ -24,9 +24,13 @@ date: 11 March 2021, 1230 CET
 * Made progress on the list of contributors for the book on digital twin book
 * Took part in an advisory board for a new Danish project for a future hybrid test bed which has an interesting connection to digital twins
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Nick Battle
+* Small progress on the LSP Server design spec.
+* Overture bug fix for <-:, <:, :>, :->
+* Added some more missing F12 "Go to definition" fixes
+* Fix VSCode bug for "Run All Traces"
+* Renamed VDMJ properties to all be of the form "vdmj.<area>.<some_sensible_name>"
+* Started to look at automated conversion of XSDs to VDM, in the face of continuing FMI3 schema changes.
 
 #### Stakeholder 3
 * Discussion Point 1

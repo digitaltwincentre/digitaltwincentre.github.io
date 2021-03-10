@@ -35,7 +35,12 @@ date: 11 March 2021, 1230 CET
 #### Jim Woodcock
 * We're continuing to work on the specification of step negotiation in FMI. I've prepared a talk on angelic nondeterminism for presentation at the RoboCalc meeting in Oxford on Wednesday 10th March and then to Claudio, Jaco, Simon, and Perdo on Friday 12th March.
 
-#### Stakeholder 4
+#### Hao Feng
+* Have finished the two papers for ANNSIM.
+* Working on the benchmark deep learning methods on dynamical systems. 
+* refreshed some concepts in linear algebra and reviewed fourier transforms.
+
+#### Stakeholder 5
 * Discussion Point 1
 * Discussion Point 2
 

@@ -61,6 +61,14 @@ date: 11 March 2021, 1230 CET
 * Worked on requirements for the development of the fault injection plugin. 
 * Working on time discrepancy paper.
 
+#### Frederik Madsen
+* Updated and documented implementation of variable step.
+* Updated implementation of derivative estimator.
+* Updated documentation resources for "getting-started".
+* Implemented handling of get status request in wep-api.
+* Migrated test suite from JUnit 4 to JUnit 5.
+* Working on Jacobian step builder plugin.
+
 ## Sub-projects status
 
 

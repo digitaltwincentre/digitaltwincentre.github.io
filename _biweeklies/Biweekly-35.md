@@ -46,9 +46,13 @@ date: 11 March 2021, 1230 CET
 * Writing a paper on the bibycle case study, using a simple controller tuned with the DSE of INTO-CPS
 * Writing a paper on the security analysis performed with INTO-CPS. 
 
-#### Stakeholder 5
-* Discussion Point 1
-* Discussion Point 2
+#### Casper Thule
+* Working on Maestro2 paper
+* Worked on desktop robotti future
+* Working on rabbitmq paper with multithreaded along with gita and henrik
+* Preparing overture workshop
+* Working on MAestro2 with frederik
+
 
 
 ## Sub-projects status

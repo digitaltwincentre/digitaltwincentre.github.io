@@ -53,7 +53,13 @@ date: 11 March 2021, 1230 CET
 * Preparing overture workshop
 * Working on MAestro2 with frederik
 
+#### Mirgita Frasheri
 
+* Worked on the rabbitmq FMU with Henrik, and paper also with Capser.
+* Discussed tasks for the students working with the Desktop Robotti with Casper.
+* Worked on Desktop Robotti paper.
+* Worked on requirements for the development of the fault injection plugin. 
+* Working on time discrepancy paper.
 
 ## Sub-projects status
 

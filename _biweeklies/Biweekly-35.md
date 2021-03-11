@@ -61,13 +61,12 @@ date: 11 March 2021, 1230 CET
 * Worked on requirements for the development of the fault injection plugin. 
 * Working on time discrepancy paper.
 
-#### Frederik Madsen
-* Updated and documented implementation of variable step.
-* Updated implementation of derivative estimator.
-* Updated documentation resources for "getting-started".
-* Implemented handling of get status request in wep-api.
-* Migrated test suite from JUnit 4 to JUnit 5.
-* Working on Jacobian step builder plugin.
+#### Emil Madsen
+* AU DTL-Skjern:
+  * Flexcell + robot arms delayed from Technicon - expected delivery in the beginning of May
+  * DT of MiR 250 autonomous wheeled mobile robot: It should be possible to get all necessary data for kinematic AND dynamic models using a ROS interface (https://github.com/dfki-ric/mir_robot)
+  * Installed ROS and Gazebo
+  * Future: Need to finish the dynamic model of the MiR 250 and validate the MiR ROS interface
 
 ## Sub-projects status
 

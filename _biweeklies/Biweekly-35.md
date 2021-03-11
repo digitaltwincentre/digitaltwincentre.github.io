@@ -68,6 +68,14 @@ date: 11 March 2021, 1230 CET
   * Installed ROS and Gazebo
   * Future: Need to finish the dynamic model of the MiR 250 and validate the MiR ROS interface
 
+#### Frederik Madsen
+* Updated and documented implementation of variable step.
+* Updated implementation of derivative estimator.
+* Updated documentation resources for "getting-started".
+* Implemented handling of get status request in wep-api.
+* Migrated test suite from JUnit 4 to JUnit 5.
+* Working on Jacobian step builder plugin.
+
 ## Sub-projects status
 
 

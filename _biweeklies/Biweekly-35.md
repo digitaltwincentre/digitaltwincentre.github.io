@@ -40,6 +40,12 @@ date: 11 March 2021, 1230 CET
 * Working on the benchmark deep learning methods on dynamical systems. 
 * refreshed some concepts in linear algebra and reviewed fourier transforms.
 
+#### Maurizio Palmieri
+* Arranged a joint work on a manipulator case study with a different group of researchers in Pisa
+* Preparing lectures for the next semester (including INTO-CPS)
+* Writing a paper on the bibycle case study, using a simple controller tuned with the DSE of INTO-CPS
+* Writing a paper on the security analysis performed with INTO-CPS. 
+
 #### Stakeholder 5
 * Discussion Point 1
 * Discussion Point 2

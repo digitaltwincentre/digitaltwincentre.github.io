@@ -26,9 +26,9 @@ date: 24 March 2021, 1030 CET
 * Supervise grand solution application to be submitted on the 8th of April to Innovation Foundation Denmark including DTs
 * Initial planning of UniFMU paper + progress on a few other papers
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Nick Battle
+* Talk to Hugo about way forward with VSCode implementation of Overture features.
+* Progress the XSD to VDM schema converter. Tool is now capable of converting both FMI2 and FMI3 XSD schemas, and the much larger ARTS schema (13,000 lines) example. This is half of the job. The other half is reading an XML document that conforms to the XSD schema and converting that to the VDM schema (ie. reading and converting an FMU modelDescription.xml).
 
 #### Jim Woodcock
 * I'm continuing work on my lectures on an introduction to probabilistic robot control.

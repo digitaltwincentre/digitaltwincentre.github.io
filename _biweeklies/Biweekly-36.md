@@ -20,9 +20,11 @@ date: 24 March 2021, 1030 CET
 
 <!-- Please keep in mind that the minutes are publicly available.-->
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### Peter Gorm Larsen
+* Met with Poul Toft 22nd of March to agree upon presentation for steering committee meeting in April
+* Meet on EU digital twins for cities on the 23rd of March
+* Supervise grand solution application to be submitted on the 8th of April to Innovation Foundation Denmark including DTs
+* Initial planning of UniFMU paper + progress on a few other papers
 
 #### Stakeholder 2
 * Discussion Point 1

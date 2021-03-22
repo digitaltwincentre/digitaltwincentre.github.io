@@ -30,7 +30,8 @@ date: 24 March 2021, 1030 CET
 
 #### Jim Woodcock
 * I'm continuing work on my lectures on an introduction to probabilistic robot control.
-* I'm making progress on the work on FMI step negotiation using angelic nondeterminism.
+* I'm making progress on the work on FMI step negotiation using angelic nondeterminism with Simon, Cláudio, and Jaco.
+* I discussed verification of multi-agent systems withn Lukas.
 
 
 ## Sub-projects status

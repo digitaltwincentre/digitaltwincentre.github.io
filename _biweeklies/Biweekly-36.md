@@ -28,9 +28,9 @@ date: 24 March 2021, 1030 CET
 * Discussion Point 1
 * Discussion Point 2
 
-#### Stakeholder 3
-* Discussion Point 1
-* Discussion Point 2
+#### Jim Woodcock
+* I'm continuing work on my lectures on an introduction to probabilistic robot control.
+* I'm making progress on the work on FMI step negotiation using angelic nondeterminism.
 
 
 ## Sub-projects status

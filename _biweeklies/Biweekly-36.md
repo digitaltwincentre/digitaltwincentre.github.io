@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Biweekly 36
-date: 26 March 2021, 1230 CET
+date: 24 March 2021, 1030 CET
 ---
 
 <script src="https://code.jquery.com/jquery-1.11.1.min.js">
@@ -13,7 +13,7 @@ date: 26 March 2021, 1230 CET
 
 |||
 |---|---|
-| Date | 26 March 2021, 12:30 CET |
+| Date | 24 March 2021, 10:30 CET |
 
 
 ## Pre-meeting stakeholders' reports

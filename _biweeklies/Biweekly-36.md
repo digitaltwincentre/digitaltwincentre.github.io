@@ -35,6 +35,11 @@ date: 24 March 2021, 1030 CET
 * I'm making progress on the work on FMI step negotiation using angelic nondeterminism with Simon, Cláudio, and Jaco.
 * I discussed verification of multi-agent systems withn Lukas.
 
+#### Mirgita Frasheri
+* Setup a plan for the FI plugin development. Discussed with Casper, Hugo, and Kenneth.
+* Work on the rabbitmq FMU with Henrik, also discussed wrt paper with Lukas and Casper.
+* Discussed and planned experiments for the Desktop Robotti, together with Casper and Hugo.
+* Helped Emil with the mir robot ROS interface.
 
 ## Sub-projects status
 

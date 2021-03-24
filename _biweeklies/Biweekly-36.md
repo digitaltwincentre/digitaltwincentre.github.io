@@ -46,6 +46,10 @@ date: 24 March 2021, 1030 CET
 #### Daniella Tola
 * Managed to finally create a urdf of a UR5e robot arm with 3d meshes. The urdf file can be imported into different 3d simulation programs, i.e. unity, gazebo etc.
 
+#### Frederik Madsen
+* Working on stabilisation, variable step and discard logic for jacobian-step builder.
+* Implementing functionality in the maestro web-api to use the jacobian-step builder.
+
 ## Sub-projects status
 
 

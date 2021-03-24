@@ -22,7 +22,7 @@ date: 24 March 2021, 1030 CET
 
 #### Peter Gorm Larsen
 * Met with Poul Toft 22nd of March to agree upon presentation for steering committee meeting in April
-* Meet on EU digital twins for cities on the 23rd of March
+* Meet on EU digital twins for cities on the 23rd of March and discuss collaboration possibilities on the 29th of March
 * Supervise grand solution application to be submitted on the 8th of April to Innovation Foundation Denmark including DTs
 * Initial planning of UniFMU paper + progress on a few other papers
 
@@ -35,10 +35,10 @@ date: 24 March 2021, 1030 CET
 #### Jim Woodcock
 * I'm continuing work on my lectures on an introduction to probabilistic robot control.
 * I'm making progress on the work on FMI step negotiation using angelic nondeterminism with Simon, Cláudio, and Jaco.
-* I discussed verification of multi-agent systems withn Lukas.
+* I discussed verification of multi-agent systems with Lukas.
 
 #### Mirgita Frasheri
-* Setup a plan for the FI plugin development. Discussed with Casper, Hugo, and Kenneth.
+* Setup a plan for the Fault Injection plugin development. Discussed with Casper, Hugo, and Kenneth.
 * Work on the rabbitmq FMU with Henrik, also discussed wrt paper with Lukas and Casper.
 * Discussed and planned experiments for the Desktop Robotti, together with Casper and Hugo.
 * Helped Emil with the mir robot ROS interface.

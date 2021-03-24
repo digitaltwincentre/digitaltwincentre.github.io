@@ -43,6 +43,9 @@ date: 24 March 2021, 1030 CET
 * Discussed and planned experiments for the Desktop Robotti, together with Casper and Hugo.
 * Helped Emil with the mir robot ROS interface.
 
+#### Daniella Tola
+* Managed to finally create a urdf of a UR5e robot arm with 3d meshes. The urdf file can be imported into different 3d simulation programs, i.e. unity, gazebo etc.
+
 ## Sub-projects status
 
 

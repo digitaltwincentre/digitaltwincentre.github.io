@@ -56,6 +56,12 @@ date: 24 March 2021, 1030 CET
 * Collaborating with Kuono on a paper on a DT for Extraneous Water
 * Organizing the Overture Workshop 
 
+#### Emil Madsen
+* Can get data from real MiR 250 robot using the ROS interface: https://github.com/dfki-ric/mir_robot
+  * Need to adjust a Python script to subscripe to the data needed
+* Obtained and validated a minimal linear description of an arbitrary serial-link articulated robot using QR decomposition technique
+  * Added better friction model
+
 ## Sub-projects status
 
 

@@ -50,6 +50,12 @@ date: 24 March 2021, 1030 CET
 * Working on stabilisation, variable step and discard logic for jacobian-step builder.
 * Implementing functionality in the maestro web-api to use the jacobian-step builder.
 
+#### Hugo Daniel Macedo
+* Developing a migration plan for remaining Overture features 
+* Collaborating in several papers and projects within the group
+* Collaborating with Kuono on a paper on a DT for Extraneous Water
+* Organizing the Overture Workshop 
+
 ## Sub-projects status
 
 

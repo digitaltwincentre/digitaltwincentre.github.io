@@ -20,9 +20,8 @@ date: 8 April 2021, 1230 CEST
 
 <!-- Please keep in mind that the minutes are publicly available.-->
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### Casper
+* Vacation
 
 #### Stakeholder 2
 * Discussion Point 1

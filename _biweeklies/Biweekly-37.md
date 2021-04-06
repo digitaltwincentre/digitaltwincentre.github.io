@@ -29,10 +29,10 @@ date: 8 April 2021, 1230 CEST
 * The 3STARS proposal is accepted in some countries (need to find out about Denmark)
 * Took part in the UPSIM general assembly where the Robotti case with a digital twin is included
 
-#### Stakeholder 3
-* Discussion Point 1
-* Discussion Point 2
-
+#### Nick Battle
+* Talk with Kenneth and Hugo about how to move Crescendo Overture changes to VSCode
+* Most effort spent on XSD to VDM translation. The basic translation to support FMI2 and FMI3 is working. Investigating the automatic translation of XSD "facet" constraints that turn into VDM type invariants.
+* Clarify the plan for how to progress Overture migration to VSC with Hugo.
 
 ## Sub-projects status
 

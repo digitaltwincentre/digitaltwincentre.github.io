@@ -23,9 +23,11 @@ date: 8 April 2021, 1230 CEST
 #### Casper
 * Vacation
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Peter Gorm Larsen
+* Planning new EU involvement in relation to digital twins in relation with smart cities
+* Assisted Guiseppe with IFD proposal also including digital twin elements
+* The 3STARS proposal is accepted in some countries (need to find out about Denmark)
+* Took part in the UPSIM general assembly where the Robotti case with a digital twin is included
 
 #### Stakeholder 3
 * Discussion Point 1

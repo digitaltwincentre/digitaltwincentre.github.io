@@ -34,6 +34,11 @@ date: 8 April 2021, 1230 CEST
 * Most effort spent on XSD to VDM translation. The basic translation to support FMI2 and FMI3 is working. Investigating the automatic translation of XSD "facet" constraints that turn into VDM type invariants.
 * Clarify the plan for how to progress Overture migration to VSC with Hugo.
 
+#### Claudio Gomes
+* Paper on FMI 3.0 clocks
+* Adaptive master alghorithm for N-FMUs in progress
+* Start preparing paper on UR robot calibration tool
+
 ## Sub-projects status
 
 

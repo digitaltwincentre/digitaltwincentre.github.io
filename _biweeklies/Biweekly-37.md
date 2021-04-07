@@ -39,6 +39,15 @@ date: 8 April 2021, 1230 CEST
 * Adaptive master alghorithm for N-FMUs in progress
 * Start preparing paper on UR robot calibration tool
 
+#### Jim Woodcock
+* I continued working with Pedro Ribeiro on angelic semantics for FMI step negotiation. I prepared a presentation on angelic nondeterminism as an abstract semantics for backtracking. I plan to use this as an introductory section in a future journal paper covering our joint work. I presented my work to the RoboCalc group in York (10th March) and then to Simon Hansen, Cláudio Gomes, and Jaco van de Pol in Aarhus (12th March). I am happy that this gives an accessible account of the role of angelic choice in specifying backtracking. I continued to discuss this with Pedro Ribeiro in York and reviewed his parallel work in detail. He presented his new ideas, building on my suggestions, to the RoboCalc group (24th March) and then to the Aarhus group (26th March).
+* I made some final contributions to Tomas Kulik's paper on FM in Security.
+* I started my preparation of lectures for the modelling course in Aarhus. My lectures are on the modelling and analysis of probabilistic robotic controllers.
+* I had a meeting with Lukas Esterle to discuss the semantics of multi-agent controllers in autonomous systems. We discussed his nascent research proposal. We agreed that it wasn't appropriate to add a work package on formal semantics and mechanical reasoning. Instead, we agreed to explore the possibility of collaborating through examples and case studies. Lukas is looking for suitable material.
+* I attended some Aarhus video meetings on software engineering R&D and education.
+* I started discussions with Simon Foster on a future course on an introduction to Isabelle ("Isabelle without Tears"). We agreed to teach a joint course in York next Spring. I plan to adapt the course material for possible use in Aarhus.
+* I am on holiday from 29th March – 9th April.
+
 ## Sub-projects status
 
 

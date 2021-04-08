@@ -54,6 +54,12 @@ date: 8 April 2021, 1230 CEST
 * Validate variable step in jacobian step builder.
 * Support get and set derivatives via MaBLBuilder.
 
+#### Mirgita Frasheri
+* working on the rabbitmq development, and related papers
+* following the work on the Desktop Robottis from students
+* started looking into electron and joined first intocps developers meeting, in service to the scenario generation feature
+* looking into how to use the ns3 scripts packed as fmus with maestro
+
 ## Sub-projects status
 
 

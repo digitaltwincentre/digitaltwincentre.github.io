@@ -64,6 +64,12 @@ date: 8 April 2021, 1230 CEST
 * Started paper on robot calibration
 * Cleaned up the calibration code to ease transfer to Daniella/Claudio 
 
+#### Hugo Daniel Macedo
+* Met with Kenneth and Nick about Overture FMU migration to VSCode
+* Trying some approaches to add import lib to VSCode VDM Plugin
+* Working on paper about Extraneous Water DT
+* Working towards proposal on DT for water
+
 ## Sub-projects status
 
 

@@ -48,6 +48,12 @@ date: 8 April 2021, 1230 CEST
 * I started discussions with Simon Foster on a future course on an introduction to Isabelle ("Isabelle without Tears"). We agreed to teach a joint course in York next Spring. I plan to adapt the course material for possible use in Aarhus.
 * I am on holiday from 29th March – 9th April.
 
+#### Frederik Madsen
+* Slow down simulation to realtime.
+* Removing dependencies on old maestro coe.
+* Validate variable step in jacobian step builder.
+* Support get and set derivatives via MaBLBuilder.
+
 ## Sub-projects status
 
 

@@ -60,6 +60,10 @@ date: 8 April 2021, 1230 CEST
 * started looking into electron and joined first intocps developers meeting, in service to the scenario generation feature
 * looking into how to use the ns3 scripts packed as fmus with maestro
 
+#### Emil Madsen
+* Started paper on robot calibration
+* Cleaned up the calibration code to ease transfer to Daniella/Claudio 
+
 ## Sub-projects status
 
 

@@ -26,6 +26,10 @@ date: 20 April 2021, 1300 CEST
 * Progress regarding different digital twin aspects regarding different digital twin part projects in MADE FAST
 * Planning new digital twin application for the green transtion DFF call in Denmark
 
+#### Claudio Gomes
+* Application of FMI cosim to structural testing scenario, with Giuseppe.
+* FMI Clocks paper
+
 #### Stakeholder 2
 * Discussion Point 1
 * Discussion Point 2

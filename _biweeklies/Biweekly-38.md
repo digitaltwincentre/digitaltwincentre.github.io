@@ -20,9 +20,11 @@ date: 20 April 2021, 1300 CEST
 
 <!-- Please keep in mind that the minutes are publicly available.-->
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### Peter Gorm Larsen
+* Had a successful steering comittee meeting regarding the Poul Due Jensen foundation project
+* Discussions for additional Digital Transformation Lab nodes ongoing
+* Progress regarding different digital twin aspects regarding different digital twin part projects in MADE FAST
+* Planning new digital twin application for the green transtion DFF call in Denmark
 
 #### Stakeholder 2
 * Discussion Point 1

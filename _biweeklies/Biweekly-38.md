@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Biweekly 38
-date: 23 April 2021, 1300 CEST
+date: 20 April 2021, 1300 CEST
 ---
 
 <script src="https://code.jquery.com/jquery-1.11.1.min.js">
@@ -13,7 +13,7 @@ date: 23 April 2021, 1300 CEST
 
 |||
 |---|---|
-| Date | 23 April 2021, 13:00 CEST |
+| Date | 20 April 2021, 13:00 CEST |
 
 
 ## Pre-meeting stakeholders' reports

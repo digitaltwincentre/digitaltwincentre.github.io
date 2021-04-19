@@ -36,9 +36,22 @@ date: 20 April 2021, 1300 CEST
 * Talked to Simon about the static and dynamic FMI VDM models, and whether VDM modelling can help with his FMI work.
 * LSP HLD is still on the back burner, but not forgotten :)
 
-#### Stakeholder 3
-* Discussion Point 1
-* Discussion Point 2
+#### Hugo Daniel Macedo
+* Participated in the Danish Water Cluster workhsop on Interaction between rainwater and wastewater systems 
+* Writting paper on Extraneous Water 
+* Writting application with AAV on DT for Water
+* Preparing a presentation on DT for water to the EVA Thematic Day
+* vs-code 
+  * Adding import libraries feature to vs-code vdm extension
+  * Coverage will be the next step   
+* Overture
+  * Organization of workshop is going good. Call for papers is out
+  * Planning to submit article lead by Till on Injection Molding Machine
+  * Will look at porting code-generation to recent java... Casper detected it breaks the Records...   
+* INTO-CPS App release to be prepared by Kristoffer soon
+  * Planning to include visualization of DSE results in app
+  * Several bug fixes
+  * First version with CI End-to-end tests   
 
 
 ## Sub-projects status

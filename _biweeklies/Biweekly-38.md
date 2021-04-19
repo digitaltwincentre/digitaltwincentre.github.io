@@ -30,9 +30,11 @@ date: 20 April 2021, 1300 CEST
 * Application of FMI cosim to structural testing scenario, with Giuseppe.
 * FMI Clocks paper
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Nick Battle
+* Progress on the XSD 2 VDM schema mapping is slow, while I rethink the approach - too many XSD cases are incorrectly translated.
+* Discussed Overture migration again with Hugo and added an SLSP handler for generating the Overture format coverage data.
+* Talked to Simon about the static and dynamic FMI VDM models, and whether VDM modelling can help with his FMI work.
+* LSP HLD is still on the back burner, but not forgotten :)
 
 #### Stakeholder 3
 * Discussion Point 1

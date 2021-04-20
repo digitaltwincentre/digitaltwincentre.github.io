@@ -58,6 +58,12 @@ date: 20 April 2021, 1300 CEST
 * Working on functionality to automatically set and get derivatives in the builder for maestro2.
 * Looking into introducing parallelism.
 
+
+#### Maurizio Palmieri
+* Working on establising Wi-Fi communication with the LFR robot in order to receive data and send commands.
+* Introducing two new thesists to INTO-CPS for analyzing a drone coverage algorithm and a terrestrial vehicles platooning one.
+* Working on formal definition of a platoon scenario to prove simple safety properties, using PVS for both verification and co-simulation
+
 ## Sub-projects status
 
 

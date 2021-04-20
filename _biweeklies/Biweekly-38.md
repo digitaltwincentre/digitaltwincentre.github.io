@@ -53,6 +53,10 @@ date: 20 April 2021, 1300 CEST
   * Several bug fixes
   * First version with CI End-to-end tests   
 
+#### Frederik Madsen
+* Done with jacobian-step functionality in maestro2 which includes: variable-step, fixed-step, slow-down to real-time and stabilisation.
+* Working on functionality to automatically set and get derivatives in the builder for maestro2.
+* Looking into introducing parallelism.
 
 ## Sub-projects status
 

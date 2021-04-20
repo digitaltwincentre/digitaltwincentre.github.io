@@ -64,6 +64,11 @@ date: 20 April 2021, 1300 CEST
 * Introducing two new thesists to INTO-CPS for analyzing a drone coverage algorithm and a terrestrial vehicles platooning one.
 * Working on formal definition of a platoon scenario to prove simple safety properties, using PVS for both verification and co-simulation
 
+#### Casper
+* Working on creating a structure for digital twin projects with experiments, tracability, visualisation of data and processes and so forth.
+* Working with mirgita on rabbit mq time synchronisation and practitioners paper  
+* reviewing paper for Annsim 
+
 ## Sub-projects status
 
 

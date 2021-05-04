@@ -23,9 +23,11 @@ date: 6 May 2021, 1230 CEST
 #### Peter Gorm Larsen
 * New H2020 project involving digital twins (called PROBONO) has just been granted with Carl Schultz as the ECE/AU PI
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Nick Battle
+* Created a "new_model" branch for VDMCheck and converted "fmi2" checker to use generated XSD/VDM schema. Currently testing.
+* Looked at some native VDM/Java models for Ken Pierce (student support work)
+* Cleaned up VDMJ for nested comment LB decisions, and ported change over to Overture.
+* Prepared VDMJ for the next VSCode release, to include Hugo's stdlib changes.
 
 #### Stakeholder 3
 * Discussion Point 1

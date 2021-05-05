@@ -30,7 +30,7 @@ date: 6 May 2021, 1230 CEST
 * Prepared VDMJ for the next VSCode release, to include Hugo's stdlib changes.
 
 #### Daniella Tola
-* Found a nice Python library for visualizing robots (a number of robot arm models exist, but other models can possibly be added using URDf files), packaged it into an FMU and tested it in into-cps. It works on windows, but we couldn't get it to work on Mac (got help to test it from Gita), although the library should support MacOS also. But this could be a direction to work towards in the future, if we want to do visualizations for co-simulations using python FMUs.
+* Found a nice Python library for visualizing robots (a number of robot arm models exist, but other models can possibly be added using URDf files), packaged it into an FMU and tested it in into-cps. It works on windows, and on Mac Mojave, but not on Mac Catalina (Got help fom Gita to test it on Mac). But this could be a direction to work towards in the future, if we want to do visualizations for co-simulations using python FMUs.
 
 <img src="assets/robot_intocps.gif"
      alt="robot intocps"

@@ -36,6 +36,21 @@ date: 6 May 2021, 1230 CEST
      alt="robot intocps"
      style="float: left; margin-right: 10px;" />
 
+#### Hugo Daniel Macedo
+* Overture
+     * vs-code
+          Add Library feature added to vs-code vdm extension.
+          Working on the coverage now. Established communication between client and server. Need to work on show covtab files.
+     * Worked on camera-ready paper and video on the SLSP protocol to be presented at F-IDE workshop soon.
+     * Planning to write a paper on this to Overture WS.
+
+* INTO-CPS Application
+     * RC is out for testing purposes [try it here](https://github.com/INTO-CPS-Association/into-cps-application/releases/tag/v4.0.3-rc)
+
+* DT for Water
+     * Preparing a talk on DT to present in the [evanet thematic day on DT](http://www.evanet.dk/20-05-2021-digitale-tvillinger-i-afloebs-og-spildevandsbranchen/)
+     * Looking for students interested in exploring recently open Data Sets about urban water networks       
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

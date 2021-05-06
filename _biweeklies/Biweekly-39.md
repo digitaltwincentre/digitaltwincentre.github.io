@@ -77,6 +77,11 @@ date: 6 May 2021, 1230 CEST
 * Worked on SLSP protocol paper for the F-IDE workshop.
 * Added support for mixing Java and Kotlin in Maestro2.
 
+#### Emil Madsen
+* Robot Dynamics Calibration:
+  * Added cross-validation and performance visualization of estimation and validation dataets separately
+  * Working on adding Weighted Least Squares (WLS) calibration as an alternative to the current Ordinary Least Squares (OLS) calibration
+
 ## Sub-projects status
 
 

@@ -56,9 +56,13 @@ date: 6 May 2021, 1230 CEST
 * Coding reference FMUs for synchronous clock.
 
 
-#### Stakeholder 3
-* Discussion Point 1
-* Discussion Point 2
+#### Casper Thule
+* DTP is off the table, as DIGITBrain is target the same. Will focus on individual modules for maestro2 addressing different things.
+* Kenneth is working on multi-threaded support for maestro2
+* Frederik has worked on lots of stuff - lastly a derivativeestimator module for maestro2 (from maestro1)
+* Started handoff of maestro2 release to Prasad
+* Working with Gita and Henrik on RabbitmqFMU papers
+* Meeting with Henrik on Chrono FMU, and will have meeting with Frederik Foldager
 
 
 ## Sub-projects status

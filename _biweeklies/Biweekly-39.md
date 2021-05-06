@@ -51,6 +51,11 @@ date: 6 May 2021, 1230 CEST
      * Preparing a talk on DT to present in the [evanet thematic day on DT](http://www.evanet.dk/20-05-2021-digitale-tvillinger-i-afloebs-og-spildevandsbranchen/)
      * Looking for students interested in exploring recently open Data Sets about urban water networks       
 
+#### Claudio Gomes
+* Coding setup for connecting matlab and the FMI interface, for co-simulation of civil engineering structures, using uniFMU.
+* Coding reference FMUs for synchronous clock.
+
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

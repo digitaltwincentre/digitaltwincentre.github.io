@@ -63,6 +63,7 @@ date: 6 May 2021, 1230 CEST
 * Started handoff of maestro2 release to Prasad
 * Working with Gita and Henrik on RabbitmqFMU papers
 * Meeting with Henrik on Chrono FMU, and will have meeting with Frederik Foldager
+* Msestro2 paper
 
 #### Mirgita Frasheri
 

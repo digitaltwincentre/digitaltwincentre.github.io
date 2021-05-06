@@ -70,6 +70,13 @@ date: 6 May 2021, 1230 CEST
 * Discussed possibility of adding a configurable delay compensator in the rabbitMQ FMU
 * Working on the scenarios for the ARF projects
 
+#### Frederik Madsen
+* Implemented derivative estimator interface with tests in Maestro2
+* Implemented support to "get and set" derivatives using the builder in Maestro2
+* Implemented support for multi dimensional arrays in MaBL.
+* Worked on SLSP protocol paper for the F-IDE workshop.
+* Added support for mixing Java and Kotlin in Maestro2.
+
 ## Sub-projects status
 
 

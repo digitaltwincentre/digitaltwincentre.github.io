@@ -64,13 +64,11 @@ date: 6 May 2021, 1230 CEST
 * Working with Gita and Henrik on RabbitmqFMU papers
 * Meeting with Henrik on Chrono FMU, and will have meeting with Frederik Foldager
 
-#### Frederik Madsen
-* Implemented derivative estimator interface and test in Maestro 2.
-* Implemented support for multi dimensional arrays in Maestro 2.
-* Implemented support for automatically 'get and set' derivatives using the builder in the Maestro 2 together with tests.
-* Added support for mixing Java and Kotlin in Maestro 2.
-* Worked on the SLSP protocol paper for F-IDE workshop.
+#### Mirgita Frasheri
 
+* Working the rabbitmq development and papers with Henrik and Casper
+* Discussed possibility of adding a configurable delay compensator in the rabbitMQ FMU
+* Working on the scenarios for the ARF projects
 
 ## Sub-projects status
 

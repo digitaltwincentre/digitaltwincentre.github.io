@@ -20,9 +20,30 @@ date: 20 May 2021, 1230 CEST
 
 <!-- Please keep in mind that the minutes are publicly available.-->
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### Hugo Daniel Macedo
+* Overture vscode extension:
+  * AddLibrary feature was merged into development branch and should become available in the next release. 
+  * Working on code coverage. Coverage files are now generated, and I am working on coverage files visualization 
+    and improving the SLSP protocol. 
+  * Will be at the F-IDE workshop 
+* INTO-CPS Application
+  * Release 4.0.3 is out!
+  * We opened the [discussion](https://github.com/INTO-CPS-Association/into-cps-application/discussions) for 4.0.4 next fall.  
+  * Working with Mirgita on Scenario Generation feature  
+* DT in Water
+  * Will present at the evanet.dk [thematic day for Digital Twins](http://www.evanet.dk/20-05-2021-digitale-tvillinger-i-afloebs-og-spildevandsbranchen/).
+  * Meeting with Aarhus Vand and partners weekly to close proposal before Summer
+* Papers
+  * Accepted:
+    * A Universal Mechanism for Implementing Functional Mock-up Units accepted at SIMULTECH
+    * Towards a Digital Twin Framework for Autonomous Robots accepted at COMPSAC 
+  * In Preparation:
+    * A Digital Twin of Extraneous Water in preparation 
+    * Modelling an Injection Molding Machine using the Vienna Development Method to OVT19 
+  * Planned
+    * ?Digital Twins? (invited paper as a follow up of the evanet.dk presentation)  
+    * vs-code extensions to OVT19
+
 
 #### Stakeholder 2
 * Discussion Point 1

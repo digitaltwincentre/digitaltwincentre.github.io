@@ -49,9 +49,9 @@ date: 20 May 2021, 1230 CEST
 * Discussion with Springer about the suggested book on engineering digital twins has started
 * Isola volume with our digital twin track should soon become available
 
-#### Stakeholder 3
-* Discussion Point 1
-* Discussion Point 2
+#### Jim Woodcock
+* I completed the preparation and recording of my lectures on probabilistic robotic control.
+* I've returned to thinking about a calculus of uncertainty for robotics (and CPS more generally).
 
 
 ## Sub-projects status

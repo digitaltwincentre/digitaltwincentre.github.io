@@ -45,9 +45,9 @@ date: 20 May 2021, 1230 CEST
     * vs-code extensions to OVT19
 
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Peter Gorm Larsen
+* Discussion with Springer about the suggested book on engineering digital twins has started
+* Isola volume with our digital twin track should soon become available
 
 #### Stakeholder 3
 * Discussion Point 1

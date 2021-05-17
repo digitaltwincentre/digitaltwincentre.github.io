@@ -53,6 +53,11 @@ date: 20 May 2021, 1230 CEST
 * I completed the preparation and recording of my lectures on probabilistic robotic control.
 * I've returned to thinking about a calculus of uncertainty for robotics (and CPS more generally).
 
+#### Nick Battle
+* Converted both FMI2 and FMI3 checkers to use the generated XSD-to-VDM schema.
+* Updating dynamic model and tests for FMI3 to catch up with changes to the schema/semantics.
+* Still need to verify checkers against stock FMUs, but a few trials looks OK.
+* Fixes to VDMJ and LSP along the way as small issues have occured while using VSCode to develop.
 
 ## Sub-projects status
 

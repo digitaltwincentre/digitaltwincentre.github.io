@@ -65,6 +65,11 @@ date: 20 May 2021, 1230 CEST
 * Oportunity: there will be an FMI plug fest at end of July. It would make a lot of sense for Nick and Christian to participate with their tools. This is the time to try to have impact with those tools. If someone has the time to do another iteration on the model based testing work (something like https://msdl.uantwerpen.be/git/claudio/FMIMOBSTER), and add support for fmi3, that would be awesome.
 * Preparing case study for Giuseppe connecting matlab and Giuseppe's experimental setup
 
+#### Mirgita Frasheri
+* wrapping up experiments for the rabbitmq paper.
+* discussing with Henrik and Casper on the approach for handling the time discrepancy.
+* looking into literature wrt to detecting collision velocities and selecting safe velocities for robots -- connected to the scenarios for the ARF project.
+* Discussed with Tiziano and Simon from the fortiss project on possible collaborations. They're working on the ros fmi adapter for ros/Gazebo simulations, basically wrapping an fmu with a ros interface. Nevertheless they don't have a master, so we're looking into using our tools together with the rabbitmq fmu, in combination with their fmi adapter.
 ## Sub-projects status
 
 

@@ -59,6 +59,12 @@ date: 20 May 2021, 1230 CEST
 * Still need to verify checkers against stock FMUs, but a few trials looks OK.
 * Fixes to VDMJ and LSP along the way as small issues have occured while using VSCode to develop.
 
+#### Claudio Gomes
+* Prepared case study motivating Simon's work on contracts for FMI.
+* Concluded two papers with FMI steering committee (one on clocks, and the other about the new features)
+* Oportunity: there will be an FMI plug fest at end of July. It would make a lot of sense for Nick and Christian to participate with their tools. This is the time to try to have impact with those tools. If someone has the time to do another iteration on the model based testing work (something like https://msdl.uantwerpen.be/git/claudio/FMIMOBSTER), and add support for fmi3, that would be awesome.
+* Preparing case study for Giuseppe connecting matlab and Giuseppe's experimental setup
+
 ## Sub-projects status
 
 

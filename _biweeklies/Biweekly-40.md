@@ -84,6 +84,11 @@ date: 20 May 2021, 1230 CEST
 #### Frederik Madsen
 * Started work on Scenario Verifier support in maestro2
 
+#### Emil Madsen
+* Finished Weighted Least Squares (WLS) calibration (WLS calibration works well and it's kind of standard in robot dynamics calibration)
+* Working on adding load-dependent friction. From experience, this will enhance the model of up to approx. 15 %.
+* Contacted Technicon about the delayed delivery of robotic equipment. They will get back soon with a new estimated date of delivery.
+
 ## Sub-projects status
 
 

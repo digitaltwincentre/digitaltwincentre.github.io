@@ -70,6 +70,17 @@ date: 20 May 2021, 1230 CEST
 * discussing with Henrik and Casper on the approach for handling the time discrepancy.
 * looking into literature wrt to detecting collision velocities and selecting safe velocities for robots -- connected to the scenarios for the ARF project.
 * Discussed with Tiziano and Simon from the fortiss project on possible collaborations. They're working on the ros fmi adapter for ros/Gazebo simulations, basically wrapping an fmu with a ros interface. Nevertheless they don't have a master, so we're looking into using our tools together with the rabbitmq fmu, in combination with their fmi adapter.
+
+#### Casper Thule
+* Started Maestro2 publication, where we will use Claudio and GIuseppe case study.
+* Contributed to the two rabbitmq papers
+* Started Scenario Verifier support in maestro2 with Simon and Frederik, also for FM
+* Discussed Digital Twin Platform in relation to springer book - i.e. as a foundation for exercises and foundation for future teaching efforts
+* Started DSE and Maestro2 C++ codegen project with Newcastle folks
+* Hand-over of maestro2 release procedure with Prasad and Frederik
+* Hand-over of chronofmu to Henrik Ejersbo and Frederik Foldager
+* Discussed some servo-motor torque issues with Jacob Housted and Frederik Foldager
+
 ## Sub-projects status
 
 

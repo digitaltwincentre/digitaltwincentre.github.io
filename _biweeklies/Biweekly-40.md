@@ -81,6 +81,9 @@ date: 20 May 2021, 1230 CEST
 * Hand-over of chronofmu to Henrik Ejersbo and Frederik Foldager
 * Discussed some servo-motor torque issues with Jacob Housted and Frederik Foldager
 
+#### Frederik Madsen
+* Started work on Scenario Verifier support in maestro2
+
 ## Sub-projects status
 
 

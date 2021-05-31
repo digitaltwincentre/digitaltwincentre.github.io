@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Biweekly 41
-date: 3 June 2021, 1230 CEST
+date: 4 June 2021, 1230 CEST
 ---
 
 <script src="https://code.jquery.com/jquery-1.11.1.min.js">
@@ -13,7 +13,7 @@ date: 3 June 2021, 1230 CEST
 
 |||
 |---|---|
-| Date | 3 June 2021, 12:30 CEST |
+| Date | 4 June 2021, 12:30 CEST |
 
 
 ## Pre-meeting stakeholders' reports

@@ -25,9 +25,13 @@ date: 4 June 2021, 1230 CEST
 * Possible involvement in new ESA GSTP proposal related to digital twins
 * Discussions with Viborg companies about a DTL there
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Nick Battle
+* Continue to fix dynamic FMI3 model errors caused by automatic generation of VDM schema.
+* Talked with Hugo about progressing the coverage support in VSCode, merged his PR into VDMJ
+* Looked at some VDMJ issues for Leo.
+* Contacted Claudio about the static semantics for clocks to go into VDMCheck3.
+* Made some progress with the LSP HLD (at last).
+* (A few days break last week).
 
 #### Stakeholder 3
 * Discussion Point 1

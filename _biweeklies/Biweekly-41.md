@@ -20,9 +20,10 @@ date: 4 June 2021, 1230 CEST
 
 <!-- Please keep in mind that the minutes are publicly available.-->
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### Peter Gorm Larsen
+* Starting potential new informal collaboration with stakeholder in India 
+* Possible involvement in new ESA GSTP proposal related to digital twins
+* Discussions with Viborg companies about a DTL there
 
 #### Stakeholder 2
 * Discussion Point 1

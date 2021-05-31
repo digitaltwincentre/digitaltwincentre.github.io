@@ -33,6 +33,9 @@ date: 4 June 2021, 1230 CEST
 * Made some progress with the LSP HLD (at last).
 * (A few days break last week).
 
+#### Claudio Gomes
+* Adding diagnosis to the incubator DT (focus on finding out the time of lid openings/closings, using the model created by Michael Sandberg)
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

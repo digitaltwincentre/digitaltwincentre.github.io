@@ -43,6 +43,9 @@ date: 4 June 2021, 1230 CEST
 
 ## Sub-projects status
 
+Would it make sense to create a gitlab group for the repositories related to Digital Twins developed at AU?
+We have been discussing where to put the repository for the AU Robotics Tool (the dynamics calibration tool), and think it may make sense to create a group for DTs and put the repositry there.
+For example, at SDU they have a gitlab group for all the repositories related to SDU robotics: https://gitlab.com/sdurobotics.
 
 #### Sub-project X
 

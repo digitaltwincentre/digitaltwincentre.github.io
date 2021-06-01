@@ -29,7 +29,7 @@ date: 4 June 2021, 1230 CEST
 * Continue to fix dynamic FMI3 model errors caused by automatic generation of VDM schema.
 * Talked with Hugo about progressing the coverage support in VSCode, merged his PR into VDMJ
 * Looked at some VDMJ issues for Leo.
-* Contacted Claudio about the static semantics for clocks to go into VDMCheck3.
+* Contacted Claudio about the static semantics for clocks to go into VDMCheck3, sketched the initial static checks required, arranged meeting for next week.
 * Made some progress with the LSP HLD (at last).
 * (A few days break last week).
 

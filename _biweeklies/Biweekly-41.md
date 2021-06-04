@@ -57,6 +57,7 @@ date: 4 June 2021, 1230 CEST
     * Modelling an Injection Molding Machine using the Vienna Development Method to OVT19 
   * Planned
     * vs-code extensions to OVT19 (Currently we have coverage and addlibrary additions. We are close to a new paper.)
+   
 #### Frederik Madsen
 * Further work on integrating the scenario verifier into Maestro 2
 

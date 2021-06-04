@@ -60,6 +60,14 @@ date: 4 June 2021, 1230 CEST
 #### Frederik Madsen
 * Further work on integrating the scenario verifier into Maestro 2
 
+#### Emil Madsen
+* Robot calibration tool:
+  * Published work "Aarhus University Robotics Toolbox (AURT)", can be installed via `pip install aurt`
+  * Generalizing code to work with arbitrary industrial robots (such as the KUKA robot we just got, see below)
+  * Cleaning up code for increased readability, so that the tool can actually be used by other people :-)
+* AU DTL-Skjern:
+  * Technicon Flexcell incl. KUKA + UR5e robots just arrived at AU Deep Tech this morning!
+
 
 #### Stakeholder 3
 * Discussion Point 1

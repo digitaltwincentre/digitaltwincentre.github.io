@@ -20,9 +20,8 @@ date: 18 June 2021, 1330 CEST
 
 <!-- Please keep in mind that the minutes are publicly available.-->
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### Peter Gorm Larsen
+* New possible DT proposal for ESA discussed with Airbus
 
 #### Nick Battle
 * Meet with Claudio, Daniella and Christian about Clocks and progress the Clocks static model for FMI3.

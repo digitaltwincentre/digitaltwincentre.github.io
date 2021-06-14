@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Biweekly 42
-date: 18 June 2021, 1230 CEST
+date: 18 June 2021, 1330 CEST
 ---
 
 <script src="https://code.jquery.com/jquery-1.11.1.min.js">
@@ -13,7 +13,7 @@ date: 18 June 2021, 1230 CEST
 
 |||
 |---|---|
-| Date | 18 June 2021, 12:30 CEST |
+| Date | 18 June 2021, 13:30 CEST |
 
 
 ## Pre-meeting stakeholders' reports

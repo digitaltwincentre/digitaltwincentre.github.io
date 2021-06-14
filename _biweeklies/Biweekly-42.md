@@ -24,9 +24,11 @@ date: 18 June 2021, 1330 CEST
 * Discussion Point 1
 * Discussion Point 2
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Nick Battle
+* Meet with Claudio, Daniella and Christian about Clocks and progress the Clocks static model for FMI3.
+* Discuss port of Overture CSV library to VDMJ with Hugo
+* Raise various static semantic queries (via Claudio) regarding Clock configuration rules.
+* Some updates to the LSP HLD.
 
 #### Stakeholder 3
 * Discussion Point 1

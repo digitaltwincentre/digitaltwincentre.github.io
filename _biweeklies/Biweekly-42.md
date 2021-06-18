@@ -43,8 +43,14 @@ date: 18 June 2021, 1330 CEST
 * Planning MUDP/VUDP Extraneous Water project continuation
 * Finished first version of the Injection Modling Machine VDM model with Till. Continuous time model with Till and Michael also running now.
 
-#### Stakeholder 3
-* Discussion Point 1
+#### Casper Thule
+* Maestro2 cpp gen + DSE support
+* RABBITMQ paper progression
+* Network setup with incubator
+* ESA-GSTP comments
+* Digital Twin Platform meeting with Cladio and Kenneth to join forces -> shared vision.
+* Initiating FMI3 support in Maestro2 and native libraries.
+
 * Discussion Point 2
 
 

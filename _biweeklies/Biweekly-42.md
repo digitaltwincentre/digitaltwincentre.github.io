@@ -31,6 +31,12 @@ date: 18 June 2021, 1330 CEST
 * Raise various static semantic queries (via Claudio) regarding Clock configuration rules.
 * Some updates to the LSP HLD.
 
+#### Frederik Madsen
+* Implemented console logging runtime module for MaBL.
+* Refactored Scenario Verifier as an expansion plugin - still needs CLI support.
+* Refactored external tests for Maestro2.
+* Started planning presentation for FM Tutorial with Simon.
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

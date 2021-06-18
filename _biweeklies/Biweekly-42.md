@@ -22,6 +22,8 @@ date: 18 June 2021, 1330 CEST
 
 #### Peter Gorm Larsen
 * New possible DT proposal for ESA discussed with Airbus
+* DT proposal for grand solution applicayion to IFD has been called for interview in September
+* New DT opportunity in connection with Vitual Vehicle
 
 #### Nick Battle
 * Meet with Claudio, Daniella and Christian about Clocks and progress the Clocks static model for FMI3.

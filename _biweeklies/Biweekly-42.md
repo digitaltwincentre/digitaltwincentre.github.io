@@ -53,6 +53,14 @@ date: 18 June 2021, 1330 CEST
 * Desktop Robotti Progress (New motor, new drilling, localisation)
 * Fault Injection case studies
 
+#### Mirgita Frasheri
+* wrapping up the rbmq paper, we have all the results now, but there are some missing sections to be written.
+* progress on the time discrepancy paper, we're (with Casper, Henrik, and Lukas) converging towards the solution with oosmc as an fmu.
+* updated the desktop robotti fault injection scenarios with Casper. 
+* work on the collision zones, implemented a very simple function that calculates the velcoity obstacle (from the lit), i.e. velocities for which there will be collisions. 
+* Desktop Robotti guys: Jacob has ordered a servo-to-shaft coupler for the steering motors, that can be used to hook up the motors of the old desktop robotti into the new one, and test compatibility, before ordering the new motors. Waiting for this to arrive. 
+* some little work with the scenario space exploration, still not much progress though.
+
 
 ## Sub-projects status
 

@@ -61,6 +61,13 @@ date: 18 June 2021, 1330 CEST
 * Desktop Robotti guys: Jacob has ordered a servo-to-shaft coupler for the steering motors, that can be used to hook up the motors of the old desktop robotti into the new one, and test compatibility, before ordering the new motors. Waiting for this to arrive. 
 * some little work with the scenario space exploration, still not much progress though.
 
+#### Claudio Gomes
+* fmi3 overview, fmi3 clocks, and Giuseppe's master algorithm papaers accepted at modelica conference
+* coding fmi3 synchronous clocks co-simulation scenario (as a reference implementation)
+* DT book sample chapter drafted (from Hao's paper)
+* Met with Nick, Daniella, and Christian, over potential synchronous clocks research.
+* Emailed with Nick over several ambiguities in the fmi standard.
+
 
 ## Sub-projects status
 

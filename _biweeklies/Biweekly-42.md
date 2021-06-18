@@ -37,6 +37,11 @@ date: 18 June 2021, 1330 CEST
 * Refactored external tests for Maestro2.
 * Started planning presentation for FM Tutorial with Simon.
 
+#### Hugo Daniel Macedo
+* vdm-vscode Working on CSV support in VDMJ
+* Planning MUDP/VUDP Extraneous Water project continuation
+* Finished first version of the Injection Modling Machine VDM model with Till. Continuous time model with Till and Michael also running now.
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

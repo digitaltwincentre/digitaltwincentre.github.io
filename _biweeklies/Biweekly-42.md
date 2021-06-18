@@ -30,6 +30,7 @@ date: 18 June 2021, 1330 CEST
 * Discuss port of Overture CSV library to VDMJ with Hugo
 * Raise various static semantic queries (via Claudio) regarding Clock configuration rules.
 * Some updates to the LSP HLD.
+* Investigating smoother VDMCheck integration with Maestro.
 
 #### Frederik Madsen
 * Implemented console logging runtime module for MaBL.

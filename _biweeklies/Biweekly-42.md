@@ -50,8 +50,8 @@ date: 18 June 2021, 1330 CEST
 * ESA-GSTP comments
 * Digital Twin Platform meeting with Cladio and Kenneth to join forces -> shared vision.
 * Initiating FMI3 support in Maestro2 and native libraries.
-
-* Discussion Point 2
+* Desktop Robotti Progress (New motor, new drilling, localisation)
+* Fault Injection case studies
 
 
 ## Sub-projects status

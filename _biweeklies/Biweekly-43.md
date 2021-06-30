@@ -24,7 +24,14 @@ date: 1 July 2021, 1230 CEST
 #### Peter Gorm Larsen
 * Since I will be the Danish cluster 4 support for the ministry I expect to spot more opportunities about digital twins earlier than normal
 
-#### Stakeholder 2
+#### Nick Battle
+* Created an error renumbering script for the FMI models (to avoid accidental duplication of error numbers)
+* Added specialized @OnFail annotation handling for the Maestro FMI static checker (awaiting test in Maestro itself)
+* Some more updates to the LSP HLD
+* Added @VDMFunction and @VDMOperation Java annotations for VDMJ native libs, to protect against "operations" being used in functions.
+* Attended Overture Core and Language Board meetings
+* Discuss the detail of an LB issue with Hugo, regarding the semantics of def statements/expressions
+* Will attend "Live from Behind the Walls" Team meeting.
 
 #### Stakeholder 3
 

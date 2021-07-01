@@ -71,7 +71,11 @@ date: 1 July 2021, 1230 CEST
   * Technicon forgot to send some cables for emergency stop. Those cables were sent Monday this week.
   * KUKA forgot to implement X11 (safety) interface. Technicon ordered this interface from KUKA.
 
-
+#### Mirgita Frasheri
+* Wrapping up Rbmq practitioners paper, and preparing the technical report at the same tim
+* Work on the fault injection paper for resubmission on Monday
+* Work on time discrepancy paper
+* Students still waiting for the DR motors (status yesterday)
 ## Sub-projects status
 
 

@@ -72,7 +72,7 @@ date: 1 July 2021, 1230 CEST
   * KUKA forgot to implement X11 (safety) interface. Technicon ordered this interface from KUKA.
 
 #### Mirgita Frasheri
-* Wrapping up Rbmq practitioners paper, and preparing the technical report at the same tim
+* Wrapping up Rbmq practitioners paper, and preparing the technical report at the same time
 * Work on the fault injection paper for resubmission on Monday
 * Work on time discrepancy paper
 * Students still waiting for the DR motors (status yesterday)

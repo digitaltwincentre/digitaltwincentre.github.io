@@ -53,6 +53,7 @@ date: 1 July 2021, 1230 CEST
 * ESA-GSTP proposal. Demoing maestro2 next week.
 * Still struggling with IT regarding raspberry pi. Considering buying a wifi router and just connecting that, if it will be allowed on SEMI-TRUST.
 * Adressing comments in IFD review
+* NICK: Is there runtime semantics of FMI2? How can we use it? Think we have a good angle towards it via Maestro2
 
 
 

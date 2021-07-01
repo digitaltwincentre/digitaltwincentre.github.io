@@ -43,15 +43,16 @@ date: 1 July 2021, 1230 CEST
 * making the slides for ANNSIM tutorial track.
 
 #### Casper THule
-* Fault injection paper
+* Fault injection (FI) paper
 * RabbitMQ practitioners paper
 * Maestro2 paper (expected submission August 31)
 * Various maestro2 fixes because of papers
+* Released bugfix-Maestro 2.1.5 because of FI.
 * C++ code-gen ready for performance testing (kenneth will continue once back from vacation)
 * Scenario Verifier for FM tutorial stuff
 * ESA-GSTP proposal. Demoing maestro2 next week.
 * Still struggling with IT regarding raspberry pi. Considering buying a wifi router and just connecting that, if it will be allowed on SEMI-TRUST.
-
+* Adressing comments in IFD review
 
 
 

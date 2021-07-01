@@ -64,6 +64,13 @@ date: 1 July 2021, 1230 CEST
 * Maestro2: Created external tests for the scenario verifier implementation.
 * Discussed fmi3 parser in Maestro2 with Casper and started to look into implementing it.
 
+#### Emil Madsen
+* Robot dynamics calibration tool (AURT):
+  * Writing on the paper **AURT: A Tool for Dynamics Calibration of Robot Manipulators**.
+* AU DTL-Skjern: Flex cell is not yet fully configured hardware wise and software wise.
+  * Technicon forgot to send some cables for emergency stop. Those cables were sent Monday this week.
+  * KUKA forgot to implement X11 (safety) interface. Technicon ordered this interface from KUKA.
+
 
 ## Sub-projects status
 

@@ -33,6 +33,11 @@ date: 1 July 2021, 1230 CEST
 * Discuss the detail of an LB issue with Hugo, regarding the semantics of def statements/expressions
 * Will attend "Live from Behind the Walls" Team meeting.
 
+#### Claudio Gomes
+* won't be present at the meeting
+* Working on the maestro V2 hybrid testing setup
+
+
 #### Stakeholder 3
 
 

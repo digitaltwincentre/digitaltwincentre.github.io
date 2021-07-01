@@ -37,6 +37,10 @@ date: 1 July 2021, 1230 CEST
 * won't be present at the meeting
 * Working on the maestro V2 hybrid testing setup
 
+#### Hao Feng
+* discussed with Claudio and Casper about the process model paper.
+* uploaded the video for ANNSIM
+* making the slides for ANNSIM tutorial track.
 
 #### Stakeholder 3
 

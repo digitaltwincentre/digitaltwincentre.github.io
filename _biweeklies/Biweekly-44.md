@@ -23,7 +23,7 @@ date: 3 September 2021, 1030 CEST
 
 #### Hugo Daniel Macedo
 * Participated in WATEC meeting on future wastewater treatment with nice visit to Marselisborg WTP.
-* Wrote a magazine article to EVANET on Digital Digital Twins
+* Wrote a magazine article to EVANET on Digital Twins
 * Submitted an extended abstract to UDM on Extraneous water detection
 * Submitted a paper to OVT-19 on DM for Injection Moulding Machine
 

@@ -38,18 +38,15 @@ date: 3 September 2021, 1030 CEST
 * Added Graphviz file creation to VDM VSCode to enable the creation of module/class dependency graphs.
 * Started work on VDM-RT log file integration for VDM VSCode.
 
-#### Peter Gorm Larsen
-* Papers for digital twin track at Isola has been published
-* The general assembly of the INTO-CPS Association has been arranged on the 27th of October at Isola
-* Made progress regarding the digital twin book
-* Assisted with the planning of a defence for an IFD application that has been called for the interview round (7th of September)
-* Planned the opening of the Digital Transformation Lab in Skjern on Monday (6th os September)
-* Involved in a couple of new Horizon Europe proposals related to digital twins
-* Gave presentation about digital twins to the Academy of Technical Sciences in Denmark
-* Give a presentation about digital twins in robotics Friday the 3rd of September
-* Give presentation about digital twins for the Danish Engineering Association on the 8th of September 
+#### Jim Woodcock
+* **Probabilistic Robotic Control course**. I revised the lectures I gave on Carl's course. I repeated the lectures at Zhiming Liu’s summer school in China using Zoom.
+* **Isabelle course**. I've started work on writing this course, working with Simon Foster. We wil teach the course in York in Spring 2022. I'm hoping that the introductory lectures on Isabelle without Tears will be useful in Aarhus.
+* **Paper with Lukas Estarte**. Verification and Uncertainties in Self-integrating System. This paper was accepted for SISSY2021. I've spent time helping to revise the paper to cover the reviewers' comments.
+* **Uncertainty**. I've been working on probabilistic program models for uncertainty using new semantics I've created based on Iverson brackets. I've got a draft technical report. I'm planning to implement the semantics in Isabelle/UTP with Randall. I've got lots of small examples, but I'm working on a bigger case study on using Bayesian and Kalman filters for dealing with uncertainty from sensors with Gaussian errors.
 
-
+#### Stakeholder 4
+* Discussion Point 1
+* Discussion Point 2
 
 ## Sub-projects status
 

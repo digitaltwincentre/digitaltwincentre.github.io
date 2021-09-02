@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Biweekly 44
-date: 3 August 2021, 1030 CEST
+date: 3 September 2021, 1030 CEST
 ---
 
 <script src="https://code.jquery.com/jquery-1.11.1.min.js">
@@ -13,7 +13,7 @@ date: 3 August 2021, 1030 CEST
 
 |||
 |---|---|
-| Date | 3 August 2021, 10:30 CEST |
+| Date | 3 September 2021, 10:30 CEST |
 
 
 ## Pre-meeting stakeholders' reports
@@ -49,6 +49,6 @@ date: 3 August 2021, 1030 CEST
 Next Meeting
 ------------
 
-17 August, 1030 CEST
+17 September, 1030 CEST
 
 <div id="edit_page_div"></div>

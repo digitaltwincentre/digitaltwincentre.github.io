@@ -37,6 +37,8 @@ date: 3 September 2021, 1030 CEST
 * Released VDM VSCode version 1.2.0, VDMJ 4.4.3 and VDMCheck 1.1.0
 * Added Graphviz file creation to VDM VSCode to enable the creation of module/class dependency graphs.
 * Started work on VDM-RT log file integration for VDM VSCode.
+* In July we had successful review of the DIGITbrain project (including digital twins)
+* In September will have reviews of HUBCAP and UPSIM
 
 #### Jim Woodcock
 * **Probabilistic Robotic Control course**. I revised the lectures I gave on Carl's course. I repeated the lectures at Zhiming Liu’s summer school in China using Zoom.

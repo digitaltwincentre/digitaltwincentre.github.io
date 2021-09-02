@@ -21,9 +21,11 @@ date: 3 September 2021, 1030 CEST
 <!-- Please keep in mind that the minutes are publicly available.-->
 
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### Hugo Daniel Macedo
+* Participated in WATEC meeting on future wastewater treatment with nice visit to Marselisborg WTP.
+* Wrote a magazine article to EVANET on Digital Digital Twins
+* Submitted an extended abstract to UDM on Extraneous water detection
+* Submitted a paper to OVT-19 on DM for Injection Moulding Machine
 
 #### Stakeholder 2
 * Discussion Point 1
@@ -38,9 +40,13 @@ date: 3 September 2021, 1030 CEST
 ## Sub-projects status
 
 
-#### Sub-project X
+#### VDM-VSCode
+* Added several features:
+  * Import, code-generation, ...
+* Looking for developers...
 
-#### Sub-project Y
+#### INTO-CPS Application
+* Looking for developers...
 
 #### Sub-project Z
 

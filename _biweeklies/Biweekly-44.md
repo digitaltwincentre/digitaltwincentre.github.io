@@ -20,6 +20,18 @@ date: 3 September 2021, 1030 CEST
 
 <!-- Please keep in mind that the minutes are publicly available.-->
 
+#### Peter Gorm Larsen
+* Papers for digital twin track at Isola has been published
+* The general assembly of the INTO-CPS Association has been arranged on the 27th of October at Isola
+* Made progress regarding the digital twin book
+* Assisted with the planning of a defence for an IFD application that has been called for the interview round (7th of September)
+* Planned the opening of the Digital Transformation Lab in Skjern on Monday (6th os September)
+* Involved in a couple of new Horizon Europe proposals related to digital twins
+* Gave presentation about digital twins to the Academy of Technical Sciences in Denmark
+* Give a presentation about digital twins in robotics Friday the 3rd of September
+* Give presentation about digital twins for the Danish Engineering Association on the 8th of September 
+* In July we had successful review of the DIGITbrain project (including digital twins)
+* In September will have reviews of HUBCAP and UPSIM
 
 #### Hugo Daniel Macedo
 * Participated in WATEC meeting on future wastewater treatment with nice visit to Marselisborg WTP.
@@ -37,8 +49,7 @@ date: 3 September 2021, 1030 CEST
 * Released VDM VSCode version 1.2.0, VDMJ 4.4.3 and VDMCheck 1.1.0
 * Added Graphviz file creation to VDM VSCode to enable the creation of module/class dependency graphs.
 * Started work on VDM-RT log file integration for VDM VSCode.
-* In July we had successful review of the DIGITbrain project (including digital twins)
-* In September will have reviews of HUBCAP and UPSIM
+
 
 #### Jim Woodcock
 * **Probabilistic Robotic Control course**. I revised the lectures I gave on Carl's course. I repeated the lectures at Zhiming Liu’s summer school in China using Zoom.

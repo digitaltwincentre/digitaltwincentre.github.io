@@ -91,6 +91,15 @@ date: 3 September 2021, 1030 CEST
 * worked on rabbitmq fmu demo for the fm tutorial -- FI part still to be included
 * DR students and Skjern demo: the guys have the old part working for moving the robot around and showing the connection to the intocps app. They're still working on getting the lidar and the marvelmind positioning running as well for Monday.
 
+#### Emil Madsen
+* Set up robotics and Maker equipment in Skjern
+* AURT was published to Github
+* Submitted paper to IEEE RAS SII conference
+* Made slides for opening of AU DTL-Skjern
+* Looking forward:
+  * Adding online payload estimation capability to AURT (Daniella already made a branch of URInterface that publishes data using ZMQ)
+  * Find network solution for AU DTL-Skjern (complying with AU IT network requirements)
+
 #### Stakeholder
 * Discussion Point 1
 * Discussion Point 2

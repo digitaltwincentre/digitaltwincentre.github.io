@@ -100,6 +100,9 @@ date: 3 September 2021, 1030 CEST
   * Adding online payload estimation capability to AURT (Daniella already made a branch of URInterface that publishes data using ZMQ)
   * Find network solution for AU DTL-Skjern (complying with AU IT network requirements)
 
+#### Daniella
+* Created a Unity FMU using unifmu
+
 #### Stakeholder
 * Discussion Point 1
 * Discussion Point 2

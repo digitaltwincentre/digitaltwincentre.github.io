@@ -54,7 +54,18 @@ date: 3 September 2021, 1030 CEST
 * Working on fmi3 support in Maestro2
 * Working on implementing support for the Scenario-verifier functionality in the into-cps application.
 
-#### Stakeholder 4
+#### Claudio Gomes
+* Organizing COSIM-CPS workshop. Are you thnking of submitting something? https://sites.google.com/view/cosim-cps-2021/home
+* Paper accepted at RuleML on compatibility verification of robotic systems (with Daniella, Emil, et al).
+* Paper submitted at SII  AURT (AU Robotics Tool) for dynamic calibration of open chain robots (with Daniella, Emil, et al. tool is at https://github.com/INTO-CPS-Association/aurt)
+* Paper submitted at SII on challenges for integration of robotic systems.
+* FMI3 and FMI3 Clocks papers accepted at modelica conference.
+* Met with UNEW for restarting work on sensitivity analysis for co-simulations.
+* Successful Maestrov2 application for hybrid testing. Paper accepted at Modelica Conference and video here: https://www.youtube.com/watch?v=-VkrQJaUo1o&ab_channel=INTO-CPSAssociation
+* Participating in writing MSCA DN and Horizong Cl4 projects, on digital twins and robotics.
+* Coordinating FM Tutorial (with input from Frederik, Casper, Gita, Daniella, et al.) on running verified co-simulations for the incubator case study.
+
+#### Stakeholder
 * Discussion Point 1
 * Discussion Point 2
 

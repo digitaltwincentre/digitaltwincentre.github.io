@@ -76,6 +76,15 @@ date: 3 September 2021, 1030 CEST
 * Participating in writing MSCA DN and Horizong Cl4 projects, on digital twins and robotics.
 * Coordinating FM Tutorial (with input from Frederik, Casper, Gita, Daniella, et al.) on running verified co-simulations for the incubator case study.
 
+#### Casper
+* Introduced Frederik to INTO-CPS App Development and helped him get started
+* Created initial OUT OF SYNC MITIGATION COMPONENT
+* Worked on CPP code-generation and performance tests
+* New error handling in maestro2 (try finally)
+* Started DSE work with Ken Pierce
+* Re-started work on Digital Twin Pipelines
+* Assisted with FM Tutorial stuff
+
 #### Stakeholder
 * Discussion Point 1
 * Discussion Point 2

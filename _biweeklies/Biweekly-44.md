@@ -85,6 +85,12 @@ date: 3 September 2021, 1030 CEST
 * Re-started work on Digital Twin Pipelines
 * Assisted with FM Tutorial stuff
 
+#### Mirgita
+* working on rabbitmq fmu new release
+* fi plugin extended to inject inputs/outputs, as well as allow for the evaluation of expressions
+* worked on rabbitmq fmu demo for the fm tutorial -- FI part still to be included
+* DR students and Skjern demo: the guys have the old part working for moving the robot around and showing the connection to the intocps app. They're still working on getting the lidar and the marvelmind positioning running as well for Monday.
+
 #### Stakeholder
 * Discussion Point 1
 * Discussion Point 2

@@ -25,9 +25,10 @@ date: 17 September 2021, 1030 CEST
 * Fixed some other niggles in LSP to prepare for VSCode 1.2.1
 * Fix some MaestroCheck issues with Frederik.
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Peter Gorm Larsen
+* September 3: Gave presentation about digital twins for robotics
+* September 6: Opening of the Digital Transformation Lab in Skjern about digital twins
+* September 9: Gave digital twin presentation (especially DIGITbrain) to IDA event on digitalisation in Aarhus
 
 #### Stakeholder 3
 * Discussion Point 1

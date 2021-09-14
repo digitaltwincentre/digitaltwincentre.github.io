@@ -20,9 +20,10 @@ date: 17 September 2021, 1030 CEST
 
 <!-- Please keep in mind that the minutes are publicly available.-->
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### Nick Battle
+* Solve some CWD problems in VSCode with Jonas and Leo
+* Fixed some other niggles in LSP to prepare for VSCode 1.2.1
+* Fix some MaestroCheck issues with Frederik.
 
 #### Stakeholder 2
 * Discussion Point 1

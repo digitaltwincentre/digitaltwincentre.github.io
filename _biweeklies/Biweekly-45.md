@@ -23,7 +23,8 @@ date: 17 September 2021, 1030 CEST
 #### Nick Battle
 * Solve some CWD problems in VSCode with Jonas and Leo
 * Fixed some other niggles in LSP to prepare for VSCode 1.2.1
-* Fix some MaestroCheck issues with Frederik.
+* Fix some MaestroCheck issues with Frederik
+* Release VDMCheck 1.1.1.
 
 #### Peter Gorm Larsen
 * September 3: Gave presentation about digital twins for robotics

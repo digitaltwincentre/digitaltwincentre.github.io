@@ -28,6 +28,7 @@ date: 17 September 2021, 1030 CEST
 #### Peter Gorm Larsen
 * September 3: Gave presentation about digital twins for robotics
 * September 6: Opening of the Digital Transformation Lab in Skjern about digital twins
+* September 7: Interview with IFD about a new potential digital twin project
 * September 9: Gave digital twin presentation (especially DIGITbrain) to IDA event on digitalisation in Aarhus
 
 #### Stakeholder 3

@@ -41,6 +41,8 @@ date: 17 September 2021, 1030 CEST
 * In talks with company, iclimate center and ECE institute (and DIGIT of course) on IFD grand solution project.
 * All reviews have come in for overture workshop, 7 papers accepted. Hurray! Event is october 22, book the date. Expected program is about 9-16 with dinner in the evening. Keynote speaker is in progress.
 * Discussed IOT lab setup with Emil
+* Raw version of out of sync mitigation component. Handed over to Gita and Henrik
+* Working on delay FMU to test DSE performance on java vs code-gen c++
 
 
 #### Stakeholder 3

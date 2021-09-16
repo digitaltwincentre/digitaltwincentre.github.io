@@ -44,6 +44,13 @@ date: 17 September 2021, 1030 CEST
 * Raw version of out of sync mitigation component. Handed over to Gita and Henrik
 * Working on delay FMU to test DSE performance on java vs code-gen c++
 
+#### Frederik Madsen
+* Working on GUI for the scenario verifier in the Into-CPS application.
+* VDMCheck fix.
+* Released Maestro2 v. 2.1.7.
+* Made improvements to scenario verifier integration in Maestro2.
+* Synched on FM tutorial slides.
+
 
 #### Stakeholder 3
 * Discussion Point 1

@@ -32,6 +32,17 @@ date: 17 September 2021, 1030 CEST
 * September 7: Interview with IFD about a new potential digital twin project
 * September 9: Gave digital twin presentation (especially DIGITbrain) to IDA event on digitalisation in Aarhus
 
+#### Casper Thule
+* Prototype DTP in into-cps application
+* MaestroCheck fix
+* Project group guidance counselor for bachelors EE and ICT 1. semester
+* September 7: Interview with IFD about a new potential digital twin project
+* talking with NGIN about digital twins
+* In talks with company, iclimate center and ECE institute (and DIGIT of course) on IFD grand solution project.
+* All reviews have come in for overture workshop, 7 papers accepted. Hurray! Event is october 22, book the date. Expected program is about 9-16 with dinner in the evening. Keynote speaker is in progress.
+* Discussed IOT lab setup with Emil
+
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

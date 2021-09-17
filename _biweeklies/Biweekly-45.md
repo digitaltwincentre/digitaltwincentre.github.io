@@ -51,10 +51,9 @@ date: 17 September 2021, 1030 CEST
 * Made improvements to scenario verifier integration in Maestro2.
 * Synched on FM tutorial slides.
 
-
-#### Claudio Gomes
-* Working on MSCA Doctoral network and Horizon CL4 project.
-
+#### Jim Woodcock
+* Continued working on my technical report on unvertainty and probabilistic UTP (and had a week's holiday!).
+* Organised a panel session on uncertainty at the UK TAS Hub meeting.
 
 #### Stakeholder 3
 * Discussion Point 1

@@ -55,6 +55,13 @@ date: 17 September 2021, 1030 CEST
 * Continued working on my technical report on uncertainty and probabilistic UTP (and had a week's holiday!).
 * Organised a panel session on uncertainty at the UK TAS Hub meeting.
 
+#### Mirgita Frasheri
+* we released the new version of the rabbitmq fmu, also fixed some minor things in the configuration.
+* worked on setup for the fm tutorial.
+* implemented new feature in the FI plugin (expression evaluation for calculating injected values), and fixed issues there.
+* meeting with DR students and new bachelor students that can potentially take over the work.
+* picked up scenario generation, will focus much more on this from now on.
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

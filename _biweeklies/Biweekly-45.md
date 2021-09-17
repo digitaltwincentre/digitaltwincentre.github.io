@@ -52,6 +52,10 @@ date: 17 September 2021, 1030 CEST
 * Synched on FM tutorial slides.
 
 
+#### Claudio Gomes
+* Working on MSCA Doctoral network and Horizon CL4 project.
+
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

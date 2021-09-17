@@ -34,7 +34,8 @@ date: 17 September 2021, 1030 CEST
 
 #### Casper Thule
 * Prototype DTP in into-cps application
-* MaestroCheck fix
+* Assisted with VDMCheck/MaestroCheck fix and Maestro release
+* Assisted with Rabbitmqfmu CI setup & release
 * Project group guidance counselor for bachelors EE and ICT 1. semester
 * September 7: Interview with IFD about a new potential digital twin project
 * talking with NGIN about digital twins

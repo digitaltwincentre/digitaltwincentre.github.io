@@ -80,6 +80,9 @@ date: 17 September 2021, 1030 CEST
   * Extending the Formal Security Analysis of the HUBCAP sandbox
 * Best paper award to [paper](https://www.cal-tek.eu/proceedings/i3m/2021/sesde/003/) presented yesterday at SESDE WS  
 
+#### Emil Madsen
+* AURT: Implementing changes to support simulations and mobile robots
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

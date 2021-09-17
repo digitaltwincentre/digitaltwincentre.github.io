@@ -71,8 +71,8 @@ date: 17 September 2021, 1030 CEST
   * Performed a live demo on VSCode on the HUBCAP Sandbox in OC1.3 training WS
 * INTO-CPS Application
   * Gill is joining to take over Kristoffer role
-  * AU internal iweeklies on Tuesdays 
-  * Working with Maurizion on Pisa contribution to the association
+  * AU internal biweeklies on Tuesdays 
+  * Working with Maurizio on Pisa contribution to the association
 * Two papers accepted at OVT-10:
   * Modelling an Injection Molding Machine using the Vienna Development Method
   * Extending the Formal Security Analysis of the HUBCAP sandbox

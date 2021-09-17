@@ -62,6 +62,22 @@ date: 17 September 2021, 1030 CEST
 * meeting with DR students and new bachelor students that can potentially take over the work.
 * picked up scenario generation, will focus much more on this from now on.
 
+#### Hugo Daniel Macedo
+* Participated in a Danish Water Cluster Workshop in Vejle
+* Working on VDM VScode 
+  * Manual is out: - [**TR-007**](https://github.com/overturetool/documentation/raw/editing/documentation/UserGuideVDMVSCode/VDMVSCodeUserGuide.pdf): Overture VDM VSCode Extension: User Guide
+  * Bug fixing
+  * Introducing configurations on both launch configuration and java code gen with Tom
+  * Performed a live demo on VSCode on the HUBCAP Sandbox in OC1.3 training WS
+* INTO-CPS Application
+  * Gill is joining to take over Kristoffer role
+  * AU internal iweeklies on Tuesdays 
+  * Working with Maurizion on Pisa contribution to the association
+* Two papers accepted at OVT-10:
+  * Modelling an Injection Molding Machine using the Vienna Development Method
+  * Extending the Formal Security Analysis of the HUBCAP sandbox
+   
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

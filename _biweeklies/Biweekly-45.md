@@ -83,6 +83,13 @@ date: 17 September 2021, 1030 CEST
 #### Emil Madsen
 * AURT: Implementing changes to support simulations and mobile robots
 
+#### Maurizio Palmieri
+* back from summer holidays
+* submitted the drones case study to INTO-CPS association
+  * Also submitted to HUBCAP thanks to Hugo
+* Article about drones accepted!
+* writing paper for cosim-cps 2021 about Co-simulation of a Model Predictive Control
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

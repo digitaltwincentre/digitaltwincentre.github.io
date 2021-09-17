@@ -73,7 +73,7 @@ date: 17 September 2021, 1030 CEST
   * Gill is joining to take over Kristoffer role
   * AU internal biweeklies on Tuesdays 
   * Working with Maurizio on Pisa contribution to the association
-* Two papers accepted at OVT-10:
+* Two papers accepted at OVT-19:
   * Modelling an Injection Molding Machine using the Vienna Development Method
   * Extending the Formal Security Analysis of the HUBCAP sandbox
    

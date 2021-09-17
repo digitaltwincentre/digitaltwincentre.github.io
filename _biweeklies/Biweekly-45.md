@@ -77,7 +77,7 @@ date: 17 September 2021, 1030 CEST
 * Two papers accepted at OVT-19:
   * Modelling an Injection Molding Machine using the Vienna Development Method
   * Extending the Formal Security Analysis of the HUBCAP sandbox
-   
+* Best paper award to [paper](https://www.cal-tek.eu/proceedings/i3m/2021/sesde/003/) presented yesterady at SESDE WS  
 
 #### Stakeholder 3
 * Discussion Point 1

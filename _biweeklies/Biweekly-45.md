@@ -52,7 +52,7 @@ date: 17 September 2021, 1030 CEST
 * Synched on FM tutorial slides.
 
 #### Jim Woodcock
-* Continued working on my technical report on unvertainty and probabilistic UTP (and had a week's holiday!).
+* Continued working on my technical report on uncertainty and probabilistic UTP (and had a week's holiday!).
 * Organised a panel session on uncertainty at the UK TAS Hub meeting.
 
 #### Stakeholder 3

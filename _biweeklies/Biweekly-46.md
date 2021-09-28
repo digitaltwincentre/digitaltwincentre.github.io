@@ -48,9 +48,10 @@ date: 1 October 2021, 1030 CEST
   * In Review:
     * A Digital Twin of Extraneous Water 
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### Peter Gorm Larsen
+* Completed reviews of the HUBCAP and UPSIM projects
+* Discussing adjustments of collaboration interface to AgroIntelli
+* 29 Sep meeting with the Poul Due Jensen Foundation 
 
 #### Stakeholder 2
 * Discussion Point 1

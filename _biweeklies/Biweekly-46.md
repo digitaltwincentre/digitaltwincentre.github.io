@@ -20,6 +20,34 @@ date: 1 October 2021, 1030 CEST
 
 <!-- Please keep in mind that the minutes are publicly available.-->
 
+#### Hugo Daniel Macedo
+* Overture 
+  *  vscode extension:
+    * Working on configurations for JCG and Launch
+  * Workshop
+    * Registration is open https://forms.gle/mdUWR1yoRubDJe5X7
+    * Preparing proceedings
+     
+* INTO-CPS Application
+  * Release in October with Gill on the lead.
+ 
+* DT in Water
+  * Invited a paper for the 15th of August is out https://lnkd.in/egu9259Y
+  * Working on a Eurostars application
+  * Working on Belinge open data set.
+
+* Papers
+  * Published  
+    * Digital Twins in Water
+    * A Universal Mechanism for Implementing Functional Mock-up Units accepted at SIMULTECH
+    * Towards a Digital Twin Framework for Autonomous Robots accepted at COMPSAC 
+    * The Specification Language Server Protocol: A Proposal for Standardised  LSP Extensions at F-IDE
+  * Accepted 
+    * Modelling an Injection Molding Machine using the Vienna Development Method to OVT19 
+
+  * In Review:
+    * A Digital Twin of Extraneous Water 
+
 #### Stakeholder 1
 * Discussion Point 1
 * Discussion Point 2

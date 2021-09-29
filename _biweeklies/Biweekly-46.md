@@ -52,6 +52,7 @@ date: 1 October 2021, 1030 CEST
 * Completed reviews of the HUBCAP and UPSIM projects
 * Discussing adjustments of collaboration interface to AgroIntelli
 * 29 Sep meeting with the Poul Due Jensen Foundation 
+* Need to gather all publications in pdf format which gives acknowledgements to the Poul Due Jensen foundation
 
 #### Nick Battle
 * Completed a reasonable first draft of an HLD for the LSP server in VDMJ: https://github.com/nickbattle/vdmj/blob/development/lsp/documentation/DesignSpec.pdf

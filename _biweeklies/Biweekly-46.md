@@ -59,6 +59,11 @@ date: 1 October 2021, 1030 CEST
 * Added better log message support for VSCode "log" breakpoints (called trace breakpoints in VDMJ).
 * Added exception breakpoint support to VDMJ and LSP/VSCode (ie. stop when a particular 'exit' exception is thrown).
 
+#### Claudio Gomes
+* Polished and submitted Maestrov2 paper
+* Contributed to cosimcps paper on conditions for DS tracking of a periodic CPS.
+* Continued work on MSCA DN and CL4 Horizon project
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

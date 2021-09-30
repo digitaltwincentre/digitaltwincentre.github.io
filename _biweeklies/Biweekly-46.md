@@ -63,8 +63,9 @@ date: 1 October 2021, 1030 CEST
 #### Claudio Gomes
 * Polished and submitted Maestrov2 paper
 * Contributed to cosimcps paper on conditions for DS tracking of a periodic CPS.
-* Continued work on MSCA DN and CL4 Horizon project
+* Continued work on MSCA DN and CL4 Horizon project.
 * Presented two papers at the modelica conference.
+* Simon started work on modeling synchronous clocks in the FMI standard.
 
 #### Stakeholder 3
 * Discussion Point 1

@@ -67,6 +67,10 @@ date: 1 October 2021, 1030 CEST
 * Presented two papers at the modelica conference.
 * Simon started work on modeling synchronous clocks in the FMI standard.
 
+#### Hao Feng
+* Have been writing the paper of COSIMCPS.
+* Have been working with Firas, Jennis and other people on the neural network stuff. 
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

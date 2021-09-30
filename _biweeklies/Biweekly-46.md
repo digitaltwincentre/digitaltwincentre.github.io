@@ -55,10 +55,10 @@ date: 1 October 2021, 1030 CEST
 * Need to gather all publications in pdf format which gives acknowledgements to the Poul Due Jensen foundation
 
 #### Nick Battle
-* Completed a reasonable first draft of an HLD for the LSP server in VDMJ: https://github.com/nickbattle/vdmj/blob/development/lsp/documentation/DesignSpec.pdf
+* Completed a reasonable first draft of an HLD for the LSP server in VDMJ: [here](https://github.com/nickbattle/vdmj/blob/development/lsp/documentation/DesignSpec.pdf)
 * Cleaned up some of the LSP server internals (writing up a design often draws attention to its shortcomings!)
-* Added better log message support for VSCode "log" breakpoints (called trace breakpoints in VDMJ).
-* Added exception breakpoint support to VDMJ and LSP/VSCode (ie. stop when a particular 'exit' exception is thrown).
+* Added better log message support for VSCode "log" breakpoints, with embedded "{values}" (called trace breakpoints in VDMJ).
+* Added exception breakpoint support to VDMJ and LSP/VSCode (ie. stop when particular 'exit' exception values are thrown).
 
 #### Claudio Gomes
 * Polished and submitted Maestrov2 paper

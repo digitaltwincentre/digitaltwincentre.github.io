@@ -69,7 +69,14 @@ date: 1 October 2021, 1030 CEST
 
 #### Hao Feng
 * Have been writing the paper of COSIMCPS.
-* Have been working with Firas, Jennis and other people on the neural network stuff. 
+* Have been working with Firas, Jennis and other people on the neural network stuff.
+
+#### Frederik Madsen
+* Synched on FM slides with Simon.
+* Finished integrating scenario verifier in the into-cps application.
+* Finished accompanying changes to scenario verifier implentation in maestro2.
+* Working on JNI Fmi3 interface.
+* Looking into into-cps application issue where the FMU Builder loads a new application window erroneously.
 
 #### Stakeholder 3
 * Discussion Point 1

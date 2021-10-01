@@ -78,6 +78,17 @@ date: 1 October 2021, 1030 CEST
 * Working on JNI Fmi3 interface.
 * Looking into into-cps application issue where the FMU Builder loads a new application window erroneously.
 
+#### Emil Madsen
+AURT:
+* Made a large update 0.0.2 -> 0.0.3 that:
+  * Now formulates the dynamics model for any mounting orientation
+  * Computes Euler-Lagrange system matrices to be used for simulation purposes
+* To-Do:
+  * Enable further model reduction (possibly SVD-based) to enhance identifiability of parameters
+  * Enable real-time estimation, starting with the robot payload as a case study
+AU DTL-Skjern:
+* Talk to AU IT the coming Monday (4/10) about Wi-Fi options
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

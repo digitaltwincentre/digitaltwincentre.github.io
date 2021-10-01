@@ -86,6 +86,7 @@ AURT:
 * To-Do:
   * Enable further model reduction (possibly SVD-based) to enhance identifiability of parameters
   * Enable real-time estimation, starting with the robot payload as a case study
+
 AU DTL-Skjern:
 * Talk to AU IT the coming Monday (4/10) about Wi-Fi options
 

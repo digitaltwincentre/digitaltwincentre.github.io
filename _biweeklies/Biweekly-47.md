@@ -20,9 +20,10 @@ date: 15 October 2021, 1030 CEST
 
 <!-- Please keep in mind that the minutes are publicly available.-->
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### Peter Gorm Larsen
+* Got a new DIREC project called Embedded AI granted (one new PhD student for 2022) (Jalil to be mail supervisor)
+* Close to get new PhD student from the Thomas B Thriges Font (Alexandros to be main supervisor)
+* Restarting the AgroRobottiFleet project
 
 #### Stakeholder 2
 * Discussion Point 1

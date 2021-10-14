@@ -30,10 +30,11 @@ date: 15 October 2021, 1030 CEST
 * I'm working on examples for the Isabelle course.
 * I'm going to submit a joint proposal to the UK EPSRC later today on photo-realistic 3D traffic simulations (my part is in verifying scenarios automatically generated from CCTV footage, including emergent behaviours). 
 
-#### Stakeholder 3
-* Discussion Point 1
-* Discussion Point 2
-
+#### Nick Battle
+* Added code lens support to the LSP protocol, and implemented "Launch" and "Debug" lenses to allow func/ops to be run directly.
+* Complete support for the RemoteControl interface in VSCode - allows native front ends to a VDM model.
+* Help Leo Freitas with some RemoteControl problems.
+* Won't be able to attend the meeting on 15th - on holiday :)
 
 ## Sub-projects status
 

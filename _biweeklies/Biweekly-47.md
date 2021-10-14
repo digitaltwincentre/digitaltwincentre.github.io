@@ -40,6 +40,14 @@ date: 15 October 2021, 1030 CEST
 * Working on JNI Fmi3 interface.
 * Working on DTP in into-cps application.
 
+#### Hugo Daniel Macedo
+* Working on implementation of client side for code lenses and configurations for the VSCode Extension.
+* Prepared release with Gill for the INTO-CPS App release candidate including Fredrics' added Scenario Verif.
+  * https://github.com/INTO-CPS-Association/into-cps-application/releases/tag/v4.0.4-rc
+* Preparing the last details of OVT-19.
+* Working with Christian Lillelund on a paper on DT for water based on DTU's open dataset from Belinde region mentioned in one of the Live from Behind the Walls...
+* Prepraring a EUROSTARS project in the water domain.   
+
 ## Sub-projects status
 
 

@@ -25,9 +25,10 @@ date: 15 October 2021, 1030 CEST
 * Close to get new PhD student from the Thomas B Thriges Font (Alexandros to be main supervisor)
 * Restarting the AgroRobottiFleet project
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Jim Woodcock
+* I prepared and gave a lecture on Uncertainty and Probability in UTP on Thursday 14th October at NWPU in China (Zhiming Liu's new university). This is a greatly abbreviated version of my tech report with a simple robotics-oriented example. Much easier to understand than the full report. :-)
+* I'm working on examples for the Isabelle course.
+* I'm going to submit a joint proposal to the UK EPSRC later today on photo-realistic 3D traffic simulations (my part is in verifying scenarios automatically generated from CCTV footage, including emergent behaviours). 
 
 #### Stakeholder 3
 * Discussion Point 1

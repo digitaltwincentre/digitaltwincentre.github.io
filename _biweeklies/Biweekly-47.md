@@ -48,6 +48,12 @@ date: 15 October 2021, 1030 CEST
 * Working with Christian Lillelund on a paper on DT for water based on DTU's open dataset from Belinde region mentioned in one of the Live from Behind the Walls...
 * Prepraring a EUROSTARS project in the water domain.   
 
+#### Mirgita Frasheri
+* Working on the agent papers, there are some issues in the Gama simulation, currently debugging.
+* Desktop robotti - we are close to replicating the emergency stop and parallel operation with the new desktop robottis
+* Rabbitmq fmu - there is an issue with the generated dll, so the fmu cannot run on windows, we are currently with Casper and Henrik tyring to get to the bottom of this.
+* Had some discussions on scenario generation with Daniella, we are now working on setting up a script that can automatically run a gazebo and unity simulation, and configure it -- something very basic at first. 
+
 ## Sub-projects status
 
 

@@ -36,6 +36,10 @@ date: 15 October 2021, 1030 CEST
 * Help Leo Freitas with some RemoteControl problems.
 * Won't be able to attend the meeting on 15th - on holiday :)
 
+#### Frederik Madsen
+* Working on JNI Fmi3 interface.
+* Working on DTP in into-cps application.
+
 ## Sub-projects status
 
 

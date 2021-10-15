@@ -62,6 +62,12 @@ AURT:
 AU DTL-Skjern:
 - Awaiting response from Technicon regarding non-functioning flex cell laser-scanner safety system
 
+#### Casper Thule
+- JNI to FMI3 fixes
+- DTP initial UI into into-cps application
+- RabbitMQ FMU windows compilation issues
+- Overture Workshop
+
 ## Sub-projects status
 
 

@@ -54,6 +54,14 @@ date: 15 October 2021, 1030 CEST
 * Rabbitmq fmu - there is an issue with the generated dll, so the fmu cannot run on windows, we are currently with Casper and Henrik tyring to get to the bottom of this.
 * Had some discussions on scenario generation with Daniella, we are now working on setting up a script that can automatically run a gazebo and unity simulation, and configure it -- something very basic at first. 
 
+#### Emil Madsen
+AURT:
+- Adding support for online estimation
+- Ordered robot arm payloads of sizes 0,5 kg to 7 kg to be used for online estimation
+
+AU DTL-Skjern:
+- Awaiting response from Technicon regarding non-functioning flex cell laser-scanner safety system
+
 ## Sub-projects status
 
 

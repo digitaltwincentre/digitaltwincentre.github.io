@@ -32,6 +32,14 @@ date: 29 October 2021, 1030 CEST
 * Attend Overture-19 :-)
 * Talk to Claudio and Simon about the detail of the formal model of clocks in FMI3.
 
+
+#### Hugo Daniel Macedo
+    * Organized OVT-19.
+    * Working with Christian Lillelund on a paper on DT for water based on DTU’s open dataset from Belinde region mentioned in one of the Live from Behind the Walls…
+    * Prepraring a EUROSTARS project in the water domain
+    * Participated in DT workhshop at ISOLA
+    * Presented the new Scenario Verifier at the INTO-CPS Association assembly.
+    
 ## Sub-projects status
 
 

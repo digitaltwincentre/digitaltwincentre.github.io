@@ -27,10 +27,10 @@ date: 29 October 2021, 1030 CEST
 #### Jim Woodcock
 * We now have a working prototype generating verified animations from within Isabelle using the Iteraction Tree work (see https://arxiv.org/abs/2105.05133). I'm now including this in the Isabelle course I'm developing. I also intend to use it to code up an animation for angelic nondeterminism for an abstract specification of roll back and adaptive steps in FMI master algorithms.
 
-#### Stakeholder 3
-* Discussion Point 1
-* Discussion Point 2
-
+#### Nick Battle
+* Assist Leo with his VDMJ plugin implementation of an Isabelle translation of VDM-SL.
+* Attend Overture-19 :-)
+* Talk to Leo and Simon about the detail of the formal model of clocks in FMI3.
 
 ## Sub-projects status
 

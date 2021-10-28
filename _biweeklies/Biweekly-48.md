@@ -30,7 +30,7 @@ date: 29 October 2021, 1030 CEST
 #### Nick Battle
 * Assist Leo with his VDMJ plugin implementation of an Isabelle translation of VDM-SL.
 * Attend Overture-19 :-)
-* Talk to Leo and Simon about the detail of the formal model of clocks in FMI3.
+* Talk to Claudio and Simon about the detail of the formal model of clocks in FMI3.
 
 ## Sub-projects status
 

@@ -41,17 +41,19 @@ date: 29 October 2021, 1030 CEST
     * Participated in DT workhshop at ISOLA
     * Presented the new Scenario Verifier at the INTO-CPS Association assembly.
     
+
+#### Simon Thrane
+ * Formalizing the FMI 3.0 with Nick, Stefan, Claudio and Jaco.
+ * Writing on an extended version of the paper about the Scenario-Verifier.
+ * Developing a new static technique for verifying co-simulation algortihms.
+    
 #### Mirgita Frasheri
 * worked on the rabbitmq fmu, adding an enable/disable input, as well as fixing issues.
 * some work on the fm tutorial demo.
 * started with some basic script for scenario generation for instantiating a simulation with multiple robots in gazebo.
 * presented at the ovt workshop, and orbitlab event.
 * continued work on the agent papers, there seems to be a bug wrt random number generation in the simulator, so this is more or less stalled, waiting for input from the developers.
-* progressed on the osmc with Casper and Henrik, we have all the pieces now, and are ready for tests.
-
-#### Frederik Madsen
-* Working on dtp view in Into-cps application.
-* Working on integrating the view with DTP tooling server.
+* progressed on the osmc with Casper and Henrik, we have all the pieces now, and are ready for tests. 
 
 
 ## Sub-projects status

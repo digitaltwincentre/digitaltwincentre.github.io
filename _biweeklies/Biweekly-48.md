@@ -65,6 +65,13 @@ date: 29 October 2021, 1030 CEST
 * Attempt to replace JNI with Java17 incubator project 
 * First meeting in programming languages theme and two talks already scheduled
 
+
+#### Claudio Gomes
+* Presented work with Jim et al at Isola
+* Working on DN proposal with deadline in November
+* Started preparing organizaion of the ANNSIM 2022
+
+
 ## Sub-projects status
 
 

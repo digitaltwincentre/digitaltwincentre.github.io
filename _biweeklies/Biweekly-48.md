@@ -71,6 +71,10 @@ date: 29 October 2021, 1030 CEST
 * Working on DN proposal with deadline in November
 * Started preparing organizaion of the ANNSIM 2022
 
+#### Maurizio Palmieri
+* Calibrating the LFR digital model to match the Parallax physical one (any chance that you know the measuring unit for the weigth used in the 20-sim model?)
+* Thinking about the infrastructure to implement the Digital Shadow first and the Digital Twin later of the LFR. (Rabbitmq or websockets seems to be the best candidates) 
+
 
 ## Sub-projects status
 

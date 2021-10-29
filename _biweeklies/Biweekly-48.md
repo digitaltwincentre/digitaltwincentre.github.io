@@ -23,6 +23,7 @@ date: 29 October 2021, 1030 CEST
 #### Peter Gorm Larsen
 * Coordinated the INTO-CPS General Assembly on the 27th of October as secretary
 * Discussed DT collaboration with a number of stakeholders at Isola 2021
+* Struggleling with completing a Doctoral Network application about Digital Twins to deadline in November
 
 #### Jim Woodcock
 * We now have a working prototype generating verified animations from within Isabelle using the Iteraction Tree work (see https://arxiv.org/abs/2105.05133). I'm now including this in the Isabelle course I'm developing. I also intend to use it to code up an animation for angelic nondeterminism for an abstract specification of roll back and adaptive steps in FMI master algorithms.

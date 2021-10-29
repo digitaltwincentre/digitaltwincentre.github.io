@@ -60,7 +60,7 @@ date: 29 October 2021, 1030 CEST
 * rabbitmq fmu static compilation issues on WIndows
 * Digital Twin UI into-cps application
 * Model-Swapping in co-simulation
-* Progress on 2 possible IFD applications
+* Progress on 2 possible applications
 * FMI3 native support
 * Attempt to replace JNI with Java17 incubator project 
 * First meeting in programming languages theme and two talks already scheduled

@@ -53,6 +53,15 @@ date: 29 October 2021, 1030 CEST
 * Working on dtp view in Into-cps application.
 * Working on integrating the view with DTP tooling server.
 
+#### Casper Thule
+* organized OVT-19
+* OSMC example - making getmaxstepsize explicit in MaBL
+* rabbitmq fmu static compilation issues on WIndows
+* Digital Twin UI into-cps application
+* Model-Swapping in co-simulation
+* Progress on 2 possible IFD applications
+* FMI3 native support
+* Attempt to replace JNI with Java17 incubator project 
 
 ## Sub-projects status
 

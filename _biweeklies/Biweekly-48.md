@@ -47,7 +47,11 @@ date: 29 October 2021, 1030 CEST
 * started with some basic script for scenario generation for instantiating a simulation with multiple robots in gazebo.
 * presented at the ovt workshop, and orbitlab event.
 * continued work on the agent papers, there seems to be a bug wrt random number generation in the simulator, so this is more or less stalled, waiting for input from the developers.
-* progressed on the osmc with Casper and Henrik, we have all the pieces now, and are ready for tests. 
+* progressed on the osmc with Casper and Henrik, we have all the pieces now, and are ready for tests.
+
+#### Frederik Madsen
+* Working on dtp view in Into-cps application.
+* Working on integrating the view with DTP tooling server.
 
 
 ## Sub-projects status

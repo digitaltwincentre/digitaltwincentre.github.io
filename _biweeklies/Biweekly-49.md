@@ -20,9 +20,9 @@ date: 12 November 2021, 1030 CEST
 
 <!-- Please keep in mind that the minutes are publicly available.-->
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### Peter Gorm Larsen
+* Attended meeting about the future for hybrid testing with Force (DT opportunities)
+* Had a positive external assessment of DIGIT
 
 #### Stakeholder 2
 * Discussion Point 1

@@ -26,7 +26,7 @@ date: 12 November 2021, 1030 CEST
 
 #### Nick Battle
 * Majority of time spent assisting Leo with the VDM to Isabelle translation.
-* Update below from Leo on this:
+* Update below from Leo on this (which he's managed to do in about three weeks!):
 
     DONE:
     * 87% of TC AST as:

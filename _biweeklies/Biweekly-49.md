@@ -24,9 +24,9 @@ date: 12 November 2021, 1030 CEST
 * Attended meeting about the future for hybrid testing with Force (DT opportunities)
 * Had a positive external assessment of DIGIT
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Nick Battle
+* Majority of time spent assisting Leo with the VDM to Isabelle translation.
+* Meetings with Simon and Claudio to progress the formal model of clocks in FMI3. It may be possible to link Leo's translation work with a VDM model of clock semantics to enable some proof work.
 
 #### Stakeholder 3
 * Discussion Point 1

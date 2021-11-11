@@ -78,6 +78,14 @@ date: 12 November 2021, 1030 CEST
 * Finalised "Manifesto for Applicable Formal Methods" with Jaco van de Pol and Mario Gleirscher. 
 * Finalised arrangements for the Applicable formal Methods Wrkshop on 25th november at the FM Symposium.
 
+#### Frederik Madsen
+* Worked a bit on DTP in the into-cps application.
+* Worked with Gita and Casper on supporting fault injection for the scenario verifier integration in Maestro2.
+* Migrated dt-tutorial-incubator tests to use the newest version of Maestro2.
+* Provided Simon with short descriptions of how to utilise the scenario verifier endpoints in the Maestro web API and CLI.
+* Synched on FM tutorial slides.
+* Working on minimal example for utilising the scenario verifier through the Maestro2 CLI.
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

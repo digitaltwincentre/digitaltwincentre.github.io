@@ -72,6 +72,11 @@ date: 12 November 2021, 1030 CEST
 * Prepared the SECSpubs SVN to archive publications. Please add your papers to it!
 * Following an HUBCAP Experiment project delivering DT for Agriculture. There is a potential to apply our modelling tools there.
 
+#### Jim Woodcock
+* Continued working on my Isabelle course.
+* Met with Cambridge University Press to discuss new electronic journal: _Research Directions: Cyber-Physical Systems_. Afterwards, spent time devising a list of topics for the scope of the journal and names for the editorial board.
+* Finalised "Manifesto for Applicable Formal Methods" with Jaco van de Pol and Mario Gleirscher. 
+* Finalised arrangements for the Applicable formal Methods Wrkshop on 25th november at the FM Symposium.
 
 #### Stakeholder 3
 * Discussion Point 1

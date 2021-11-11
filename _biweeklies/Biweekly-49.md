@@ -63,6 +63,16 @@ date: 12 November 2021, 1030 CEST
 
 * Meetings with Simon and Claudio to progress the formal model of clocks in FMI3. It may be possible to link Leo's translation work with a VDM model of clock semantics to enable some proof work.
 
+#### HDM
+* Extended Abstract on "Data Driven Extraneous Water Quantification" accepted at UDM 2022 
+* Submitted a proposal on Extraneous water for EUROSTARS last Thursday
+* Met with Alexandra institute partners on Digtal Twins for Energy domains by Andy request.
+* Participated in a meeting of the Danish Water Cluster last week.
+* Preparing draft of paper to NFM2022.
+* Prepared the SECSpubs SVN to archive publications. Please add your papers to it!
+* Following an HUBCAP Experiment project delivering DT for Agriculture. There is a potential to apply our modelling tools there.
+
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

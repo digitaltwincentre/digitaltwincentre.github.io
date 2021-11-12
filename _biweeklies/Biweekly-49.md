@@ -86,6 +86,13 @@ date: 12 November 2021, 1030 CEST
 * Synched on FM tutorial slides.
 * Working on minimal example for utilising the scenario verifier through the Maestro2 CLI.
 
+#### Casper Thule
+* Fault Injection support
+* Switching co-simulation algorithm on the fly
+* Introduced Henrik Ejersbo to Maestro2 development
+* Bachelor Project Proposals
+* Introduced Gill to into-cps application stuff
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

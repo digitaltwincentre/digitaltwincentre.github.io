@@ -101,6 +101,11 @@ date: 12 November 2021, 1030 CEST
 * working with Casper on getting the time discrepancy initial tests running.
 * discussed with Lukas, Henrik, Casper model swapping.
 
+#### Emil Madsen
+* Updated AURT (fixed caching with new gravity update)
+* Updating paper on AURT (deadline 15/11)
+* Signed up for the IEEE RAS SII 2022 conference
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

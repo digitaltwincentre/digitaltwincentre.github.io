@@ -93,6 +93,14 @@ date: 12 November 2021, 1030 CEST
 * Bachelor Project Proposals
 * Introduced Gill to into-cps application stuff
 
+#### Mirgita Frasheri
+* Work for the fm tutorial. FI scenario working with the help of Frederik and Casper. 
+* Updated rmqfmu release with bug fixes (concerning windows users).
+* got intro on the Robotics course for next semester.
+* looking into how the dse works, for the scenario generation on the co-sim side.
+* working with Casper on getting the time discrepancy initial tests running.
+* discussed with Lukas, Henrik, Casper model swapping.
+
 #### Stakeholder 3
 * Discussion Point 1
 * Discussion Point 2

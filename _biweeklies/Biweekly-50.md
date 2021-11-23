@@ -31,10 +31,13 @@ date: 26 November 2021, 1030 CEST
 * Discussed new application for Innovation Foundation with BTECH in Herning on energy related digital twins
 * Took part in the digital twin tutorial delivered last Saturday at FM'2021
 
-#### Stakeholder 3
-* Discussion Point 1
-* Discussion Point 2
-
+#### Nick Battle
+* Fixed problems with debugging individual test cases in CT VSCode.
+* Allowed the -exception flag to work with exit statements raising "exceptions"
+* Meetings with Simon and Claudio re: FMI3 clock semantics and VDM/Isabelle model.
+* Apply to renew Guest Staff Membership at Newcastle :)
+* Allow LSPX plugins to define their own code lenses (eg. the Isabelle plugin).
+* Work with Leo on the VDM-SL/Isabelle translator.
 
 ## Sub-projects status
 

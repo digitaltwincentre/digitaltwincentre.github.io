@@ -25,9 +25,11 @@ date: 26 November 2021, 1030 CEST
 * Some ambiguities of the FMI standard reported to the FMI steering committee (Thanks for Simon and Nick)
 * Won't attend the meeting due to being in Antwerp for project proposal preparation.
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Peter Gorm Larsen
+* Submitted Doctoral Network application on digital twins (led by Newcastle)
+* Met with DIREC stakeholders in the CPS work stream interesting in our co-simulation activities
+* Discussed new application for Innovation Foundation with BTECH in Herning on energy related digital twins
+* Took part in the digital twin tutorial delivered last Saturday at FM'2021
 
 #### Stakeholder 3
 * Discussion Point 1

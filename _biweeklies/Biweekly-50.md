@@ -20,9 +20,10 @@ date: 26 November 2021, 1030 CEST
 
 <!-- Please keep in mind that the minutes are publicly available.-->
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### Claudio Gomes
+* Research work into order adaptive cosim algorithms.
+* Some ambiguities of the FMI standard reported to the FMI steering committee (Thanks for Simon and Nick)
+* Won't attend the meeting due to being in Antwerp for project proposal preparation.
 
 #### Stakeholder 2
 * Discussion Point 1

@@ -43,7 +43,7 @@ date: 26 November 2021, 1030 CEST
 * More work on Isabelle course material.
 * Worked on animation of operational semantics for angelic nondeterminism.
 * Ran the appFM workshop online with Jaco van de Pol (23rd Nov).
-* Rana half-day focus group for CUP on CPS research directions. 
+* Ran a half-day focus group for CUP on CPS research directions. 
 
 ## Sub-projects status
 

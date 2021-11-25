@@ -45,6 +45,16 @@ date: 26 November 2021, 1030 CEST
 * Ran the appFM workshop online with Jaco van de Pol (23rd Nov).
 * Ran a half-day focus group for CUP on CPS research directions. 
 
+#### Frederik Madsen
+* Released MaestroV2 v. 2.1.9
+* Took part in the digital twin tutorial
+* Implemented web API entry-point in MaestroV2 for SIGVER based simulation.
+* Into-CPS application work:
+  * Enabled livestreaming of simulation results in the SIGVER view.
+  * More work on the DTP part of the Into-CPS application.
+  * Enabled retrieving the MaBL spec on a failed simulation in the Into-CPS application.
+  * Differentiation between MaestroV2 and MaestroV1 to discern available features/settings.
+
 ## Sub-projects status
 
 

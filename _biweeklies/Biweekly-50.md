@@ -39,6 +39,12 @@ date: 26 November 2021, 1030 CEST
 * Allow LSPX plugins to define their own code lenses (eg. the Isabelle plugin).
 * Work with Leo on the VDM-SL/Isabelle translator.
 
+#### Jim Woodcock
+* More work on Isabelle course material.
+* Worked on animation of operational semantics for angelic nondeterminism.
+* Ran the appFM workshop online with Jaco van de Pol (23rd Nov).
+* Rana half-day focus group for CUP on CPS research directions.
+
 ## Sub-projects status
 
 

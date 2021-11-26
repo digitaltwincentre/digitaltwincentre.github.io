@@ -63,6 +63,14 @@ date: 26 November 2021, 1030 CEST
 * Student projects
 * CP-Sens handover
 
+#### Emil Madsen
+* AURT:
+  * Added possibility for online estimation
+  * Got Zahra up and running with AURT for her to give the online estimation a look
+* Aarhus University Robotics Platform (AURP):
+  * Got parts (motors, drivers, ...) from ODrive
+  * Still missing: PSU, mechanical parts (aluminium rods, ball bearings, ...)
+
 ## Sub-projects status
 
 

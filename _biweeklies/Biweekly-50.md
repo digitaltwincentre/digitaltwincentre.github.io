@@ -55,6 +55,14 @@ date: 26 November 2021, 1030 CEST
   * Enabled retrieving the MaBL spec on a failed simulation in the Into-CPS application.
   * Differentiation between MaestroV2 and MaestroV1 to discern available features/settings.
 
+#### Casper Thule
+* Worked with out of sync FMU
+* Worked with on-the-fly co-simulation transition
+* DesktopRobotti equipment
+* Tutorial
+* Student projects
+* CP-Sens handover
+
 ## Sub-projects status
 
 

@@ -33,7 +33,7 @@ date: 26 November 2021, 1030 CEST
 
 #### Nick Battle
 * Fixed problems with debugging individual test cases in CT VSCode.
-* Allowed the -exception flag to work with exit statements raising "exceptions"
+* Allowed the -exception flag to work with exit statements raising uncaught "exceptions"
 * Meetings with Simon and Claudio re: FMI3 clock semantics and VDM/Isabelle model.
 * Apply to renew Guest Staff Membership at Newcastle :)
 * Allow LSPX plugins to define their own code lenses (eg. the Isabelle plugin).

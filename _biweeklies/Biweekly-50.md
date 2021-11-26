@@ -71,6 +71,13 @@ date: 26 November 2021, 1030 CEST
   * Got parts (motors, drivers, ...) from ODrive
   * Still missing: PSU, mechanical parts (aluminium rods, ball bearings, ...)
 
+#### Mirgita Frasheri
+* fm tutorial work
+* worked with the out of sync fmu, we are making progress, but is still needed to get the getmaxstepsize to work
+* course work
+* scenario generation, have been playing with the DSE and building something around. Also talked with Ken, and seems that we have a shared vision.
+* worked a bit on the agent papers
+
 ## Sub-projects status
 
 

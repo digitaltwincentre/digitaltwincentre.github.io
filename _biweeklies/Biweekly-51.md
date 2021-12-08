@@ -20,9 +20,11 @@ date: 10 December 2021, 1030 CEST
 
 <!-- Please keep in mind that the minutes are publicly available.-->
 
-#### Stakeholder 1
-* Discussion Point 1
-* Discussion Point 2
+#### Claudio Gomes
+* Working on H2020 CL4 project proposal
+* Preparing case studies for Simon's journal paper (help from Frederik)
+* Hosted cosimcps workshop: https://sites.google.com/view/cosim-cps-2021/home
+* Continue research collaboration with Emin on adaptive co-simulation.
 
 #### Stakeholder 2
 * Discussion Point 1

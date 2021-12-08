@@ -33,10 +33,15 @@ date: 10 December 2021, 1030 CEST
 * Gave digital twin presentation at a MADE event about digital twins virtually on the 8th of December
 * Started preparing the new project on AI for embedded system funded as a part of DIREC
 
-#### Stakeholder 3
-* Discussion Point 1
-* Discussion Point 2
-
+#### Nick Battle
+* Improved VDMJ ClassMapper "error tracing" to help writers of new mappings (with Leo).
+* Fixed some POs as a result of translation/type checking them for Isabelle.
+* Tweaked xsd2vdm tool (part of VDMCheck) to try to deal with XSD namespaces.
+* Revamped VDMJ visitor-sets to make things easier for external users (ie. Leo)
+* Some fixes in LSP to support Jonas.
+* Fixed F12 goto-definition when positioned at the end of a symbol.
+* Meet with Simon and Claudio to discuss progress of FMI3 clocks model.
+* Returned to look at ToolWrapper solution for VDMJ.
 
 ## Sub-projects status
 

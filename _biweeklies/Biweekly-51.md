@@ -26,9 +26,12 @@ date: 10 December 2021, 1030 CEST
 * Hosted cosimcps workshop: https://sites.google.com/view/cosim-cps-2021/home
 * Continue research collaboration with Emin on adaptive co-simulation.
 
-#### Stakeholder 2
-* Discussion Point 1
-* Discussion Point 2
+#### Peter Gorm Larsen
+* Submitted abstract about digital twins for the ECCOMAS conference track on digital twins
+* Involved with small proposals for DRISQ in the UK
+* Talked with Innovation Fund Denmark in relation with the resubmission of the CP-Sens proposal that made it to interviews this year
+* Gave digital twin presentation at a MADE event about digital twins virtually on the 8th of December
+* Started preparing the new project on AI for embedded system funded as a part of DIREC
 
 #### Stakeholder 3
 * Discussion Point 1

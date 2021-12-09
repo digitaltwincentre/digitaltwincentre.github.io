@@ -43,6 +43,10 @@ date: 10 December 2021, 1030 CEST
 * Meet with Simon and Claudio to discuss progress of FMI3 clocks model.
 * Returned to look at ToolWrapper solution for VDMJ.
 
+#### Jim Woodcock
+* Led the development of a proposal to D-RiSQ and DSTL on verified computation.
+* Started work on a publication on uncertainty work.
+
 ## Sub-projects status
 
 

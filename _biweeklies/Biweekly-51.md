@@ -47,6 +47,12 @@ date: 10 December 2021, 1030 CEST
 * Led the development of a proposal to D-RiSQ and DSTL on verified computation.
 * Started work on a publication on uncertainty work.
 
+#### Casper Thule
+* Fixed LONG overdue issue for Frank Zeyda/VERIFIED. Ready for next release.
+* Been sick for almost 2 weeks.. still running a fever, headache and more.
+* Discussed state transfer from executing co-simulation to new co-simulation. with Henrik Ejersbo. Follow-up meeting is scheduled.
+* Planned a lot of hand-over meetings, but carried out very few.
+
 ## Sub-projects status
 
 

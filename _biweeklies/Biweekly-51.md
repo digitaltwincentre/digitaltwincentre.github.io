@@ -65,6 +65,14 @@ date: 10 December 2021, 1030 CEST
 	* Update Scenario Verifier version
 	* Also fixed other minor issues..
 
+#### Mirgita Frasheri
+* Planning a couple of papers to be carried out next year
+* some work on the scenario generation, working towards a small prototype with dse and running gazebo
+* work on agent papers, simplified the bridge between components, so now we can debug easily
+* the basic implementation for the time discrepancy paper is ready
+* desktop robotti guys have the emergency stop demo, with the rabbitmq fmu, both ways.
+
+
 ## Sub-projects status
 
 

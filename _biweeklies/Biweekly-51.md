@@ -60,7 +60,6 @@ date: 10 December 2021, 1030 CEST
 	* Continued work on DTP
 	* Working on input bug fix
 	* Improved maestro version differentation
-	
 * Maestro:
 	* Implemented use of log levels and definition of log vars with Sigver
 	* Update Scenario Verifier version

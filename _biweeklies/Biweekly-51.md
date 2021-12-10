@@ -54,6 +54,18 @@ date: 10 December 2021, 1030 CEST
 * Planned a lot of hand-over meetings, but carried out very few.
 * Desktop Robotti guys is very very close to automated and containerized deployments! Great job!
 
+#### Frederik Madsen
+* Worked with Cláudio to identify and fix issues with the Scenario Verifier integration in Maestro.
+* Into-cps app:
+	* Continued work on DTP
+	* Working on input bug fix
+	* Improved maestro version differentation
+	
+* Maestro:
+	* Implemented use of log levels and definition of log vars with Sigver
+	* Update Scenario Verifier version
+	* Also fixed other minor issues..
+
 ## Sub-projects status
 
 

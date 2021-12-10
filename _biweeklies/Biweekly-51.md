@@ -52,6 +52,7 @@ date: 10 December 2021, 1030 CEST
 * Been sick for almost 2 weeks.. still running a fever, headache and more.
 * Discussed state transfer from executing co-simulation to new co-simulation. with Henrik Ejersbo. Follow-up meeting is scheduled.
 * Planned a lot of hand-over meetings, but carried out very few.
+* Desktop Robotti guys is very very close to automated and containerized deployments! Great job!
 
 ## Sub-projects status
 
